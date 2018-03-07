@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://primal-iceland.zkynet.cloud/"
 languageCode = "en-us"
 title = "Primal Iceland"
 theme = "hugo-agency-theme"
