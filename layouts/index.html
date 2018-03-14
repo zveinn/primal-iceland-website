@@ -11,6 +11,7 @@
     {{ partial "basics.html" . }}
     {{ end }}
 
+    <!--
     {{ if .Site.Params.vimhoff.enable }}
     {{ partial "vimhoff-2.html" . }}
     {{ end }}
@@ -23,7 +24,9 @@
     {{ if .Site.Params.vimhoff.enable }}
       {{ partial "movement.html" . }}
     {{ end }}
- 
+    -->
+    {{ partial "video.html" . }}
+
 
     {{ if .Site.Params.about.enable }}
       {{ partial "about.html" . }}
