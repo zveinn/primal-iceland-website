@@ -1,0 +1,16 @@
+{{ "<!-- Vim Hoff -->" | safeHTML }}
+<section id="movement" class="movement-bg">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading ">
+          <a class="color-black" href="/movement">
+              {{ with .Site.Params.movement.title }}{{ . }}{{ end }}</h2>
+          </a>
+          
+        <p class="section-subheading text-muted color-black">{{ with .Site.Params.movement.subtitle }}{{ . | markdownify }}{{ end }}</h3>
+      </div>
+    </div>
+
+  </div>
+</section>

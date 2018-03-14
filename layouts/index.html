@@ -11,20 +11,7 @@
     {{ partial "basics.html" . }}
     {{ end }}
 
-    <!--
-    {{ if .Site.Params.vimhoff.enable }}
-    {{ partial "vimhoff-2.html" . }}
-    {{ end }}
-
-    {{ if .Site.Params.vimhoff.enable }}
-      {{ partial "vimhoff.html" . }}
-    {{ end }}
-  
  
-    {{ if .Site.Params.vimhoff.enable }}
-      {{ partial "movement.html" . }}
-    {{ end }}
-    -->
     {{ partial "video.html" . }}
 
 
@@ -44,13 +31,6 @@
       {{ partial "contact.html" . }}
     {{ end }}
 
-    {{ if .Site.Params.footer.enable }}
-      {{ partial "footer.html" . }}
-    {{ end }}
-
-    {{ if .Site.Params.portfolio.enable }}
-      {{ partial "modals.html" . }}
-    {{ end }}
 
     {{ partial "js.html" . }}
   </body>

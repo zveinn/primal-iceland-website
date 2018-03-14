@@ -48,10 +48,12 @@ googleAnalytics = ""
     brand = "Primal Iceland"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
-    movement = "Movement Improved"
-    vimhoff = "Vim Hoff"
-    vimhoff-2 = "Vim Hoff"
+    movement = "Hreyfing"
+    lidleiki = "Liðleiki"
+    vimhoff = "Öndun"
     about = "Um Okkur"
+    team = "Teymið"
+    contact = "Hafa Samband"
 
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
@@ -92,92 +94,24 @@ googleAnalytics = ""
 
     [[params.basics.row.list]]
       icon = "fa-heartbeat"
-      title = "Almenn heilsa"
+      title = "Vim Hoff"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
 
 
     [[params.basics.row.list]]
-      icon = "fa-free-code-camp"
-      title = "Þinn innri eldur"
+      icon = "fa-street-view"
+      title = "Leiðleiki og Handstöður"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
  
 
     [[params.basics.row.list]]
       icon = "fa-street-view"
-      title = "Betrun hreyfingar og liðleika"
+      title = "Movement Improvement"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
  
-
-
-
-
-
-
-
-
-  # Services section
-  [params.vimhoff]
-    enable = true
-    title = "Vim Hoff"
-    subtitle = "Lorem ipsum dolor siLorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.t amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-
-    [[params.vimhoff.row]]
-
-    [[params.vimhoff.row.list]]
-      icon = "fa-heartbeat"
-      title = "Öndun"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
-
-
-    [[params.vimhoff.row.list]]
-      icon = "fa-free-code-camp"
-      title = "Kulda og Hita þjálfun"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
-
-    [[params.vimhoff.row.list]]
-      icon = "fa-street-view"
-      title = "Æfingar og liðleiki"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
- 
-
-
-
-
-
-  # Services section
-  [params.movement]
-    enable = true
-    title = "Movement Improved"
-    subtitle = "Skemmtileg námskeið sem blanda saman hinum ýmsu hreyfilistum við leiki og teygjur.<br><br> Við sækjum innblástur frá dansi, bardagalistum, fimleikum og öllu sem að kveikir okkar áhuga og blöndum því saman í skemmtilega og fjölbreytta tíma.Í boði eru bæði byrjendahópar og hefðbundin námskeið. Í hefðbundnu námskeiðunum er gert ráð fyrir að fólk geti fylgt ágætis hraða í æfingunum og sé tilbúið í það að læra á meðan framkvæmt er.<br><br> Í byrjendahópunum er tempóið hægara og æfingar einfaldaðar til þess að sem flestir geti framkvæmt þær.Athugið að námskeiðin, hvorki byrjenda né hefðbundnu hóparnir, eru lausn á stoðkerfisvandamálum. Ef að þau eru til staðar, mælum við alltaf fyrst með einkatíma."
-
-    [[params.movement.row]]
-
-    [[params.movement.row.list]]
-      icon = "fa-heartbeat"
-      title = "Liðleigi"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
-
-
-    [[params.movement.row.list]]
-      icon = "fa-free-code-camp"
-      title = "Hreyfing"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
-
-    [[params.movement.row.list]]
-      icon = "fa-street-view"
-      title = "Annað"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
- 
-
 
 
 
@@ -222,6 +156,63 @@ googleAnalytics = ""
 
 
 
+  # MOVEMENT PARTIALS PAGE
+  [params.movement]
+    enable = true
+    title = "Movement Improved"
+    subtitle = "Skemmtileg námskeið sem blanda saman hinum ýmsu hreyfilistum við leiki og teygjur.<br><br> Við sækjum innblástur frá dansi, bardagalistum, fimleikum og öllu sem að kveikir okkar áhuga og blöndum því saman í skemmtilega og fjölbreytta tíma.Í boði eru bæði byrjendahópar og hefðbundin námskeið. Í hefðbundnu námskeiðunum er gert ráð fyrir að fólk geti fylgt ágætis hraða í æfingunum og sé tilbúið í það að læra á meðan framkvæmt er.<br><br> Í byrjendahópunum er tempóið hægara og æfingar einfaldaðar til þess að sem flestir geti framkvæmt þær.Athugið að námskeiðin, hvorki byrjenda né hefðbundnu hóparnir, eru lausn á stoðkerfisvandamálum. Ef að þau eru til staðar, mælum við alltaf fyrst með einkatíma."
+
+    [[params.movement.row]]
+
+    [[params.movement.row.list]]
+      icon = "fa-heartbeat"
+      title = "Liðleigi"
+      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      url = "#"
+
+
+    [[params.movement.row.list]]
+      icon = "fa-free-code-camp"
+      title = "Hreyfing"
+      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      url = "#"
+
+    [[params.movement.row.list]]
+      icon = "fa-street-view"
+      title = "Annað"
+      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      url = "#"
+ 
+
+
+
+ # VIM HOFF PARTIALS PAGE
+  [params.vimhoff]
+    enable = true
+    title = "Vim Hoff"
+    subtitle = "Lorem ipsum dolor siLorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.t amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+
+    [[params.vimhoff.row]]
+
+    [[params.vimhoff.row.list]]
+      icon = "fa-heartbeat"
+      title = "Öndun"
+      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      url = "#"
+
+
+    [[params.vimhoff.row.list]]
+      icon = "fa-free-code-camp"
+      title = "Kulda og Hita þjálfun"
+      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      url = "#"
+
+    [[params.vimhoff.row.list]]
+      icon = "fa-street-view"
+      title = "Æfingar og liðleiki"
+      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      url = "#"
+ 
 
 
 
@@ -237,18 +228,18 @@ googleAnalytics = ""
     enable = true
     # Possibility to center items
     #center = true
-    title = "Our amazing team"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
-    description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+    title = "Eigendur og Þjálfarar Primal Iceland"
+    subtitle = "Eithvað um eigendur"
+    description = "Meiri og stærri texti um eigendur og þjálfara hjá primal iceland. <br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "1.jpg"
-      name = "Kay Garland"
-      position = "Lead Designer"
-      reportsTo = "CTO"
+      img = "thor.jpg"
+      name = "Þór Guðnasson"
+      position = "kuldaþjálfun og öndun"
+      reportsTo = ""
       livesIn = "[Munich, Germany](#some-maps-url)"
       scope = [
         "UX for [member dashboard](#)",
@@ -265,9 +256,9 @@ She worked at Pied Piper for years until they went belly up."""
       ]
 
     [[params.team.members]]
-      img = "2.jpg"
-      name = "Larry Parker"
-      position = "Lead Marketer"
+      img = "helgi.jpg"
+      name = "Helgi Freyr Rúnarsson"
+      position = "Handstöður og liðleiki"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
@@ -275,9 +266,9 @@ She worked at Pied Piper for years until they went belly up."""
       ]
 
     [[params.team.members]]
-      img = "3.jpg"
-      name = "Diana Pertersen"
-      position = "Lead Developer"
+      img = "einar.jpg"
+      name = "Einar Carl Alexsson"
+      position = "Styrkur"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
