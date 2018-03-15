@@ -4,8 +4,6 @@ languageCode = "en-us"
 title = "Primal Iceland"
 theme = "hugo-agency-theme"
 
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
@@ -34,15 +32,6 @@ googleAnalytics = ""
     heading = "Page couldn't be found"
     text = "Please visit [this page](/)"
 
-  # Optional piwik tracking
-  #[params.analytics.piwik]
-  #  URL = "https://stats.example.com"
-  #  ID = "42"
-  #  # Track all subdomains with "*.example.com"
-  #  domain = "www.example.com"
-  #  # Optional integrity check hash
-  #  hash = "sha512-RfeD0pacGTqy9m7U6PgehQfS4cc7SIt+e+P+H5e848kEvB/RW84CUGO3O4O3LNbxjevym6KPUZ8muPsMrI8WIw=="
-
   # Navigation
   [params.navigation]
     brand = "Primal Iceland"
@@ -56,30 +45,8 @@ googleAnalytics = ""
     contact = "Hafa Samband"
 
 
-    # Add custom links. Those can be pre- and postpended to the default menu above.
-    # Use the weight attribute to order your custom links. Uncomment the example
-    # below and replace the values with your own.
+  
 
-    # prepended links
-    #[[menu.prepend]]
-    #  url = "http://gohugo.io"
-    #  name = "Hugo"
-    #  weight = 10
-
-    # postpended links
-    [[menu.postpend]]
-    #  url = "http://gohugo.io"
-    #  name = "External link"
-    #  weight = 10
-
-
-  # Hero section
-  [params.hero]
-    # To change the background image of the hero, replace 'header-bg.jpg' in
-    # the 'static/img' folder.
-    title = "Welcome To Our Studio!"
-    subtitle = "It's nice to meet you"
-    buttonText = "Tell me more"
 
 
 
@@ -156,7 +123,7 @@ googleAnalytics = ""
 
 
 
-  # MOVEMENT PARTIALS PAGE
+  # ÞETTA INFO ER FYRIR MOVEMENT UNDIR SÍÐUNA. MÁ HENDA EF VIÐ NOTUM HANA EKKI.
   [params.movement]
     enable = true
     title = "Movement Improved"
@@ -186,7 +153,7 @@ googleAnalytics = ""
 
 
 
- # VIM HOFF PARTIALS PAGE
+ # ÞETTA INFO ER FYRIR VIM HOFF UNDIR SÍÐUNA. MÁ HENDA EF VIÐ NOTUM HANA EKKI.
   [params.vimhoff]
     enable = true
     title = "Vim Hoff"
@@ -223,7 +190,7 @@ googleAnalytics = ""
 
 
 
-  # Team section
+  # ÞJÁLFARARNIR !
   [params.team]
     enable = true
     # Possibility to center items
@@ -313,6 +280,15 @@ She worked at Pied Piper for years until they went belly up."""
         logo = "creative-market.jpg"
         link = "#"
 
+
+
+
+
+
+
+
+
+
   # Contact section
   [params.contact]
     enable = true
@@ -369,6 +345,15 @@ She worked at Pied Piper for years until they went belly up."""
       #[[params.contact.form.hidden]]
       # Special values for name such as "page" and "site" will be autofilled
       #  name = "page"
+
+
+
+
+
+
+
+
+
 
   # Footer section
   [params.footer]
