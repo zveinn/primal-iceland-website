@@ -2,7 +2,7 @@
 baseurl = "https://primal-iceland.zkynet.cloud/"
 languageCode = "en-us"
 title = "Primal Iceland"
-theme = "hugo-agency-theme"
+theme = ""
 
 
 [params]
@@ -249,7 +249,7 @@ She worked at Pied Piper for years until they went belly up."""
 
 
 
-w
+
 
 
 
