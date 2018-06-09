@@ -5,20 +5,13 @@
 
   <body id="page-top" class="index">
     {{ partial "nav.html" . }}
-
-    {{ partial "hero.html" . }}
-
-
-    {{ partial "img-left.html" . }}
-   
+    {{ partial "movement/hero.html" . }}
+    {{ partial "movement/1.html" . }}
+    {{ partial "movement/2.html" . }}
+    {{ partial "movement/3-4.html" . }}
 
 
-
-
-    {{ if .Site.Params.contact.enable }}
-      {{ partial "contact.html" . }}
-    {{ end }}
-
+    {{ partial "contact.html" . }}
     {{ partial "js.html" . }}
   </body>
 </html>

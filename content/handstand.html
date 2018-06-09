@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+  {{ partial "head.html" . }}
+
+  <body id="page-top" class="index">
+    {{ partial "nav.html" . }}
+    {{ partial "handstand/hero.html" . }}
+    {{ partial "handstand/img-left.html" . }}
+    {{ partial "handstand/img-right.html" . }}
+    {{ partial "handstand/img-and-text.html" . }}
+    {{ partial "handstand/img-left.html" . }}
+
+    {{ partial "handstand/img-left.html" . }}
+    {{ partial "handstand/img-right.html" . }}
+    {{ partial "contact.html" . }}
+    {{ partial "js.html" . }}
+  </body>
+</html>

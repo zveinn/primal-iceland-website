@@ -5,18 +5,12 @@
 
   <body id="page-top" class="index">
     {{ partial "nav.html" . }}
-
-    {{ partial "hero.html" . }}
-
-    {{ partial "vimhoff.html" . }}
-
-
-
-
-    {{ if .Site.Params.contact.enable }}
-      {{ partial "contact.html" . }}
-    {{ end }}
-
+    {{ partial "vimhoff/hero.html" . }}
+    {{ partial "vimhoff/img-left.html" . }}
+    {{ partial "vimhoff/vimhoff.html" . }}
+    {{ partial "vimhoff/img-right.html" . }}
+    {{ partial "vimhoff/img-left.html" . }}
+    {{ partial "contact.html" . }}
     {{ partial "js.html" . }}
   </body>
 </html>
