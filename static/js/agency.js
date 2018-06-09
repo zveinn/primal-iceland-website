@@ -19,9 +19,15 @@ $(document).ready(function(){
   $(window).scroll(function() {
     if ($(window).scrollTop() >= maxOffset) {
       $('.navbar-default').addClass('navbar-shrink');
+      $('.navbar-title').removeClass('display-none');
+      $('.navbar-title').addClass('display');
+
     }
     else {
       $('.navbar-default').removeClass('navbar-shrink');
+      $('.navbar-title').addClass('display-none');
+      $('.navbar-title').removeClass('display');
+
     }
   });
 });
@@ -30,9 +36,15 @@ $(document).ready(function(){
   var maxOffset = 300;
   if ($(window).scrollTop() >= maxOffset) {
     $('.navbar-default').addClass('navbar-shrink');
+    $('.navbar-title').removeClass('display-none');
+    $('.navbar-title').addClass('display');
   }
   else {
     $('.navbar-default').removeClass('navbar-shrink');
+    $('.navbar-title').addClass('display-none');
+    $('.navbar-title').removeClass('display');
+
+
   }
 });
 

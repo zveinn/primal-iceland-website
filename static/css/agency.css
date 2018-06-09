@@ -171,8 +171,6 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: transparent !important;
-
 }
 
 .navbar-default .navbar-brand {
@@ -965,11 +963,11 @@ body {
  .color-movement {color:#00b139;}
  .color-black {color:black;}
 
- /*!
- *
- * VIM HOFF
- * 
- */
+ .pillar{
+     height:125px;
+     width:125px;
+ }
+
 
  #banner {
      position: relative;
@@ -1015,7 +1013,17 @@ body {
      margin-bottom:20px;
  }
 
+ .display-none{
+    display: none;
+ }
 
+ .display{
+     display: inline !important;
+ }
+
+ .index {
+     margin-bottom:150px;
+ }
 
  /*
  *
@@ -1027,6 +1035,10 @@ body {
         background-color: black;
         margin-top: -50px;
     }
+    .display{
+        display: none !important;
+    }
+    .navbar-default {background-color: transparent !important;}
     .left-column{padding: 30px 30px 10% 30px;}
     #about{padding:200px 0 200px 0 !important;}
     #team{padding:100px 0 100px 0 !important;}

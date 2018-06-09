@@ -40,7 +40,7 @@ theme = ""
     movement = "Hreyfing"
     handstand = "Handstöður"
     vimhoff = "Öndun"
-    about = "Um Okkur"
+    #about = "Um Okkur"
     team = "Teymið"
     contact = "Hafa Samband"
 
@@ -162,20 +162,20 @@ theme = ""
     [[params.vimhoff.row]]
 
     [[params.vimhoff.row.list]]
-      icon = "fa-heartbeat"
+      icon = "lungs-pillar.png"
       title = "Öndun"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
 
 
     [[params.vimhoff.row.list]]
-      icon = "fa-free-code-camp"
+      icon = "cold-pillar.png"
       title = "Kulda og Hita þjálfun"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
 
     [[params.vimhoff.row.list]]
-      icon = "fa-street-view"
+      icon = "brain-pillar.png"
       title = "Æfingar og liðleiki"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"

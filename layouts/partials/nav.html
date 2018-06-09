@@ -16,11 +16,10 @@
           <img src="{{ $url | absURL }}" class="img-responsive" alt="{{ .Site.Params.navigation.brand }}">
         </a>
       {{ else }}
-      <!-- THIS IS THE TITE IN THE MENU BAR
-      <a class="navbar-brand page-scroll" href="{{ if .IsHome }}/#page-top{{ else }}{{ .Site.BaseURL }}{{ end }}">
-        {{ .Site.Params.navigation.brand }}
+      <a class="navbar-brand page-scroll  navbar-title display-none display" href="/">
+{{ .Site.Params.navigation.brand }}
       </a>
-      -->
+
       {{ end }}
 
     </div>

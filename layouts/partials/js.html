@@ -10,8 +10,6 @@
 {{ "<!-- Custom Theme -->" | safeHTML }}
 <script src="{{ "js/agency.js"| absURL }}"></script>
 
-{{ template "_internal/google_analytics_async.html" . }}
-
 {{ range .Site.Params.custom_js }}
   <script src="{{ . | absURL }}"></script>
 {{ end }}

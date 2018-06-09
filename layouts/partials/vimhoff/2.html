@@ -1,0 +1,23 @@
+{{ "<!-- Vim Hoff -->" | safeHTML }}
+<section id="movement" >
+  <div class="container">
+    <div class="row">
+
+        <div class="col-md-6 text-center left-column">
+            <h2 class="section-heading title">
+                {{ with .Site.Params.movement.title }}{{ . }}{{ end }}
+            </h2>
+          
+            <p class="section-subheading text-muted">
+              {{ with .Site.Params.movement.subtitle }}{{ . | markdownify }}{{ end }}
+            </p>
+        </div>
+
+
+      <div class="col-md-6 text-center right-column">
+        <img class="img100100" src="/img/vimhoff/2.jpg">
+      </div>
+
+    </div>
+  </div>
+</section>
