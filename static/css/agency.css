@@ -171,7 +171,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: transparent !important;
+
 }
 
 .navbar-default .navbar-brand {
@@ -969,21 +970,22 @@ body {
  * VIM HOFF
  * 
  */
- 
- #vimhoff { 
-     min-height:1300px;
-     height:50%;
-    }
+
+ #banner {
+     position: relative;
+     top:0px;
+     width:100%;
+ }
+ .banner-img{
+     width: 100%
+ }
 
  .vim-hoff-bg {
-    background-image: url(../img/banner/1.jpg);
-    background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    min-height:1000px;
+    background: url(../img/banner/1.jpg) no-repeat center center fixed;
     background-size: cover;
-    -o-background-size: cover;
-    height:100% !important;
+    height: 100%;
+    overflow: hidden;
  }
 
 
@@ -1013,12 +1015,18 @@ body {
      margin-bottom:20px;
  }
 
+
+
  /*
  *
  * WIDTH based
  * 
  */
 @media (max-width: 768px) {
+    .navbar-collapse {
+        background-color: black;
+        margin-top: -50px;
+    }
     .left-column{padding: 30px 30px 10% 30px;}
     #about{padding:200px 0 200px 0 !important;}
     #team{padding:100px 0 100px 0 !important;}
