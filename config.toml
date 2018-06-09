@@ -267,7 +267,18 @@ She worked at Pied Piper for years until they went belly up."""
       [[params.clients]]
         logo = "envato.jpg"
         link = "#"
-
+      [[params.clients]]
+        logo = "envato.jpg"
+        link = "#"
+      [[params.clients]]
+        logo = "envato.jpg"
+        link = "#"
+      [[params.clients]]
+        logo = "envato.jpg"
+        link = "#"
+      [[params.clients]]
+        logo = "envato.jpg"
+        link = "#"
       [[params.clients]]
         logo = "designmodo.jpg"
         link = "#"
