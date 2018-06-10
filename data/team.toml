@@ -1,0 +1,57 @@
+
+  # ÞJÁLFARARNIR !
+  [team]
+    enable = true
+    # Possibility to center items
+    #center = true
+    title = "Eigendur og Þjálfarar Primal Iceland"
+    subtitle = "Eithvað um eigendur"
+    description = "Meiri og stærri texti um eigendur og þjálfara hjá primal iceland. <br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+
+    # All team member's pictures are stored under 'static/img/team'.
+    # Replace them with your own too.
+    # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
+    [[team.members]]
+      img = "thor.jpg"
+      name = "Þór Guðnasson"
+      position = "kuldaþjálfun og öndun"
+      reportsTo = ""
+      livesIn = "[Munich, Germany](#some-maps-url)"
+      scope = [
+        "UX for [member dashboard](#)",
+        "Maintainer for [awesome-project](#)",
+        "Open Source [community management](#)"
+      ]
+      # For bio markdown and even multiline strings are available.
+      bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
+She worked at Pied Piper for years until they went belly up."""
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-facebook", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[team.members]]
+      img = "helgi.jpg"
+      name = "Helgi Freyr Rúnarsson"
+      position = "Handstöður og liðleiki"
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-facebook", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[team.members]]
+      img = "einar.jpg"
+      name = "Einar Carl Alexsson"
+      position = "Styrkur"
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-facebook", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+
+
+
+

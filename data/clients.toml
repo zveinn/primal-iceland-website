@@ -1,0 +1,39 @@
+
+  # Client section
+    [clients_list]
+      enable = true
+      # Possibility to center items
+      #center = true
+      # Optional client title specifying the involvement
+      #title = "Used and trusted by"
+
+      # All the clients' logos are stored under 'static/img/logos'.
+      # Replace them with your clients's logos.
+      # Suggestion: .svg in the size of 280px*80px looks good
+      [[clients]]
+        logo = "envato.jpg"
+        link = "#"
+      [[clients]]
+        logo = "envato.jpg"
+        link = "#"
+      [[clients]]
+        logo = "envato.jpg"
+        link = "#"
+      [[clients]]
+        logo = "envato.jpg"
+        link = "#"
+      [[clients]]
+        logo = "envato.jpg"
+        link = "#"
+      [[clients]]
+        logo = "designmodo.jpg"
+        link = "#"
+
+      [[clients]]
+        logo = "themeforest.jpg"
+        link = "#"
+
+      [[clients]]
+        logo = "creative-market.jpg"
+        link = "#"
+

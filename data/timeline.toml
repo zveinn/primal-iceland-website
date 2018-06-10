@@ -1,0 +1,35 @@
+
+    # About section
+  [about]
+    enable = true
+    title = "Um Okkur"
+    subtitle = "Primal Iceland er ný líkamsræktarstöð í glæsilegu húsnæði að Faxafeni 12. Þar er boðið upp á Movement Improvement og Wim Hof námskeið sem og einkatíma, þar sem bæði er unnið í að útrýma verkjum og með æfingamarkmið viðkomandi. Liðleiki og hreyfigeta eru í hávegum höfð.Þrír reynslumiklir þjálfarar reka Primal Iceland, þeir Einar Carl, Helgi Freyr og Þór Guðnason. Þeir smíðuðu húsnæðið sjálfir frá grunni og sérsniðu það eftir sínum þörfum. Þeir endurnýttu mikið, meðal annars við úr pallettum og skápa úr búningsklefa í gömlu herstöðinni. Stöðin verður sú fyrsta sem býður upp á Wim Hof námskeið á Íslandi, enda er Þór eini Íslendingurinn sem hefur lokið kennararéttindum hjá Wim Hof."
+    endpoint = "Vertu með okkur!"
+
+    # The events will be listed from the top to the bottom.
+    # All images are stored under 'static/img/about'.
+    # Replace them with your own.
+    [[about.events]]
+      img = "1.jpg"
+      date = "2009-2011"
+      title = "Our Humble Beginnings"
+      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+
+    [[about.events]]
+      img = "2.jpg"
+      date = "March 2011"
+      title = "An Agency is Born"
+      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+
+    [[about.events]]
+      img = "3.jpg"
+      date = "December 2012"
+      title = "Our Humble Beginnings"
+      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+
+    [[about.events]]
+      img = "4.jpg"
+      date = "July 2014"
+      title = "Phase Two Expansion"
+      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+

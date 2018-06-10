@@ -11,9 +11,9 @@
       <div class="col-lg-12">
         <ul class="timeline">
 
-          {{ range $i, $e := .Site.Params.about.events }}
+          {{ range $i, $e := .Site.Data.timeline.about.events }}
             <li {{ if (not (modBool $i 2)) }}class="timeline-inverted" {{ end }}>
-              <div class="timeline-image">
+              <div class="timeline-image mdc-elevation--z6">
                 {{ $url := printf "img/about/%s" .img }}
                 <img class="img-circle img-responsive" src="{{ $url | absURL }}" alt="">
               </div>
@@ -30,8 +30,8 @@
           {{ end }}
 
           <li class="timeline-inverted">
-            <div class="timeline-image">
-              <h4>{{ with .Site.Params.about.endpoint }}{{ . | markdownify }}{{ end }}</h4>
+            <div class="timeline-image mdc-elevation--z6">
+              <h4>{{ with .Site.Data.timeline.about.endpoint }}{{ . | markdownify }}{{ end }}</h4>
             </div>
           </li>
         </ul>

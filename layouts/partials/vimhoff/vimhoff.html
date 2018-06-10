@@ -3,22 +3,41 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading">{{ with .Site.Params.vimhoff.title }}{{ . }}{{ end }}</h2>
-        <h3 class="section-subheading text-muted">{{ with .Site.Params.vimhoff.subtitle }}{{ . | markdownify }}{{ end }}</h3>
+        <h2 class="section-heading">{{.Site.Data.vimhoff.sectionPillar.title}}</h2>
+        <h3 class="section-subheading text-muted">{{.Site.Data.vimhoff.sectionPillar.content}}</h3>
       </div>
     </div>
-    {{ range .Site.Params.vimhoff.row }}
+
       <div class="row text-center">
-        {{ range .list }}
+
+
+
+
+       
           <div class="col-md-4">
-              <img class="pillar" src="/img/vimhoff/{{ .icon }}">
-             
-  
-            <h4 class="service-heading">{{ if .url }}<a href="{{ .url | absURL }}">{{ .title | markdownify }}</a>{{ else }}{{ .title | markdownify }}{{ end }}</h4>
-            <p class="text-muted">{{ .description | markdownify }}</p>
+            <img class="pillar" src="{{.Site.Data.vimhoff.sectionPillar.pillar1.icon}}">
+            <h4 class="service-heading">{{.Site.Data.vimhoff.sectionPillar.pillar1.title}}</h4>
+            <p class="text-muted">{{.Site.Data.vimhoff.sectionPillar.pillar1.text}}</p>
           </div>
-        {{ end }}
+    
+          <div class="col-md-4">
+              <img class="pillar" src="{{.Site.Data.vimhoff.sectionPillar.pillar2.icon}}">
+              <h4 class="service-heading">{{.Site.Data.vimhoff.sectionPillar.pillar2.title}}</h4>
+              <p class="text-muted">{{.Site.Data.vimhoff.sectionPillar.pillar2.text}}</p>
+            </div>
+    
+            <div class="col-md-4">
+                <img class="pillar" src="{{.Site.Data.vimhoff.sectionPillar.pillar3.icon}}">
+                <h4 class="service-heading">{{.Site.Data.vimhoff.sectionPillar.pillar3.title}}</h4>
+                <p class="text-muted">{{.Site.Data.vimhoff.sectionPillar.pillar3.text}}</p>
+              </div>
+    
+
+
       </div>
-    {{ end }}
+
+
+
+
   </div>
 </section>

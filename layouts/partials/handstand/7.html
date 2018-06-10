@@ -4,17 +4,17 @@
     <div class="row">
 
 
-      <div class="col-md-6   text-center left-column">
-        <img class="img100100" src="/img/handstand/4.png">
+      <div class="col-md-6   text-left left-column">
+        <img class="img100100" src="{{.Site.Data.handstand.section7.img}}">
       </div>
 
-      <div class="col-md-6 text-center">
+      <div class="col-md-6 text-left">
         <h2 class="section-heading title">
-            {{ with .Site.Params.movement.title }}{{ . }}{{ end }}
+            {{.Site.Data.handstand.section7.title}}
         </h2>
       
         <p class="section-subheading text-muted">
-          {{ with .Site.Params.movement.subtitle }}{{ . | markdownify }}{{ end }}
+            {{.Site.Data.handstand.section8.content}}
         </p>
       </div>
 

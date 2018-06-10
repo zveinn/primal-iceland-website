@@ -3,19 +3,19 @@
   <div class="container">
     <div class="row">
 
-        <div class="col-md-6 text-center left-column">
+        <div class="col-md-6 text-left left-column">
             <h2 class="section-heading title">
-                {{ with .Site.Params.movement.title }}{{ . }}{{ end }}
-            </h2>
+                {{.Site.Data.movement.section2.title}}            
+              </h2>
           
             <p class="section-subheading text-muted">
-              {{ with .Site.Params.movement.subtitle }}{{ . | markdownify }}{{ end }}
-            </p>
+                {{.Site.Data.movement.section2.content}}            
+              </p>
         </div>
 
 
       <div class="col-md-6 text-center right-column">
-        <img class="img100100" src="/img/movement/2.jpg">
+        <img class="img100100" src="{{.Site.Data.movement.section2.img}}">
       </div>
 
     </div>

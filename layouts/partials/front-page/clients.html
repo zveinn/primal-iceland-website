@@ -3,11 +3,11 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-<h4 class="heading">{{ with .Site.Params.clients_list.title }}{{ . | markdownify }}{{ end }}</h4>
+<h4 class="heading">{{ with .Site.Data.clients.clients_list.title }}{{ . | markdownify }}{{ end }}</h4>
       </div>
     </div>
 
-      {{ range .Site.Params.clients }}
+      {{ range .Site.Data.clients.clients }}
         <div class="col-md-3 col-sm-6 col">
           {{ $url := printf "img/logos/%s" .logo }}
           {{ if .link }}

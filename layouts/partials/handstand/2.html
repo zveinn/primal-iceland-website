@@ -3,19 +3,17 @@
   <div class="container">
     <div class="row">
 
-        <div class="col-md-6 text-center left-column">
+        <div class="col-md-6 text-left left-column">
             <h2 class="section-heading title">
-                {{ with .Site.Params.movement.title }}{{ . }}{{ end }}
-            </h2>
+                {{.Site.Data.handstand.section2.title}}            </h2>
           
             <p class="section-subheading text-muted">
-              {{ with .Site.Params.movement.subtitle }}{{ . | markdownify }}{{ end }}
-            </p>
+                {{.Site.Data.handstand.section2.content}}            </p>
         </div>
 
 
-      <div class="col-md-6 text-center right-column">
-        <img class="img100100" src="/img/handstand/1.png">
+      <div class="col-md-6 text-left right-column">
+        <img class="img100100" src="{{.Site.Data.handstand.section2.img}}">
       </div>
 
     </div>

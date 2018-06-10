@@ -4,24 +4,21 @@
     <div class="row">
 
 
-      <div class="col-md-6 col-xs-12  text-center left-column">
-          <img class="img2525" src="/img/handstand/3.jpg">
+      <div class="col-md-6 col-xs-12  text-left left-column">
+          <img class="img2525" src="{{.Site.Data.handstand.section3.img}}">
           <h2 class="section-heading title">
-              {{ with .Site.Params.movement.title }}{{ . }}{{ end }}
-          </h2>
+              {{.Site.Data.handstand.section3.title}}          </h2>
           <p class="section-subheading text-muted">
-              {{ with .Site.Params.movement.subtitle }}{{ . | markdownify }}{{ end }}
-            </p>
+              {{.Site.Data.handstand.section3.content}}            </p>
       </div>
 
-      <div class="col-md-6 col-xs-12  text-center left-column">
-          <img class="img2525" src="/img/handstand/4.png">
+      <div class="col-md-6 col-xs-12  text-left left-column">
+          <img class="img2525" src="{{.Site.Data.handstand.section4.img}}">
           <h2 class="section-heading title">
-              {{ with .Site.Params.movement.title }}{{ . }}{{ end }}
+              {{.Site.Data.handstand.section4.title}}
           </h2>
           <p class="section-subheading text-muted">
-              {{ with .Site.Params.movement.subtitle }}{{ . | markdownify }}{{ end }}
-            </p>
+              {{.Site.Data.handstand.section4.content}}            </p>
       </div>
 
 
