@@ -1,13 +1,15 @@
 // Smooth scrolling via animate()
-$(document).ready(function(){
-  if (window.location.pathname == "/handstand/") {
-    $('meta[name=ogurl]').attr('content', "http://primal-iceland.zkynet.io/handstand");
-    $('meta[name=ogtype]').attr('content', "website");
-    $('meta[name=ogtitle]').attr('content', "Handstæður title");
-    $('meta[name=ogdescription]').attr('content', "handstöður með helga!");
-    $('meta[name=ogimage]').attr('content', "http://primal-iceland.zkynet.io/img/handstand/1.png");
+if (window.location.pathname == "/handstand/") {
+  $('meta[name=ogurl]').attr('content', "http://primal-iceland.zkynet.io/handstand");
+  $('meta[name=ogtype]').attr('content', "website");
+  $('meta[name=ogtitle]').attr('content', "Handstæður title");
+  $('meta[name=ogdescription]').attr('content', "handstöður með helga!");
+  $('meta[name=ogimage]').attr('content', "http://primal-iceland.zkynet.io/img/handstand/1.png");
 
-  }
+}
+
+$(document).ready(function(){
+ 
 
   $("a").on('click', function(event) {
     if (this.hash && window.location.pathname == "/") {
