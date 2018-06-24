@@ -1,4 +1,11 @@
 {
+    "sharing" : {
+        "ogurl":"http://primal-iceland.zkynet.io/handstand/",
+        "ogtype":"website",
+        "ogimage":"http://primal-iceland.zkynet.io/img/handstand/1.png",
+        "ogtitle":"Primal Iceland Handstands",
+        "ogdescription":"much wow description"
+    },
     "section1": {
         "img": "/img/new/temp.png",
         "title": "Temp title",
