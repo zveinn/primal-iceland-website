@@ -5,11 +5,11 @@
 
         <div class="col-md-6 text-left left-column">
             <h2 class="section-heading title">
-                {{.Site.Data.movement.section2.title}}            
+                {{.Site.Data.movement.section2.title | safeHTML }}            
               </h2>
           
             <p class="section-subheading text-muted">
-                {{.Site.Data.movement.section2.content}}            
+                {{.Site.Data.movement.section2.content | safeHTML }}            
               </p>
         </div>
 

@@ -10,11 +10,11 @@
 
       <div class="col-md-6 text-left">
         <h2 class="section-heading title">
-            {{.Site.Data.vimhoff.section3.title}}
+            {{.Site.Data.vimhoff.section3.title | safeHTML }}
         </h2>
       
         <p class="section-subheading text-muted">
-            {{.Site.Data.vimhoff.section1.content}}
+            {{.Site.Data.vimhoff.section1.content | safeHTML }}
                   </p>
       </div>
 

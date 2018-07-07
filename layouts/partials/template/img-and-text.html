@@ -7,20 +7,20 @@
       <div class="col-md-6 col-xs-12  text-center left-column">
           <img class="img2525" src="/img/new/temp.png">
           <h2 class="section-heading title">
-              {{ with .Site.Params.movement.title }}{{ . }}{{ end }}
+              {{ with .Site.Params.movement.title | safeHTML }}{{ . }}{{ end }}
           </h2>
           <p class="section-subheading text-muted">
-              {{ with .Site.Params.movement.subtitle }}{{ . | markdownify }}{{ end }}
+              {{ with .Site.Params.movement.subtitle | safeHTML }}{{ . | markdownify }}{{ end }}
             </p>
       </div>
 
       <div class="col-md-6 col-xs-12  text-center left-column">
           <img class="img2525" src="/img/new/temp.png">
           <h2 class="section-heading title">
-              {{ with .Site.Params.movement.title }}{{ . }}{{ end }}
+              {{ with .Site.Params.movement.title | safeHTML }}{{ . }}{{ end }}
           </h2>
           <p class="section-subheading text-muted">
-              {{ with .Site.Params.movement.subtitle }}{{ . | markdownify }}{{ end }}
+              {{ with .Site.Params.movement.subtitle | safeHTML }}{{ . | markdownify }}{{ end }}
             </p>
       </div>
 

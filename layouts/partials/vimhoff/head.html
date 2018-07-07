@@ -6,7 +6,7 @@
   <meta name="ogurl" property="og:url"           content="{{.Site.Data.vimhoff.sharing.ogurl}}" />
   <meta name="ogtype" property="og:type"          content="{{.Site.Data.vimhoff.sharing.ogtype}}" />
   <meta name="ogtitle" property="og:title"         content="{{.Site.Data.vimhoff.sharing.ogimage}}" />
-  <meta name="ogdescription" property="og:description"   content="{{.Site.Data.vimhoff.sharing.ogtitle}}" />
+  <meta name="ogdescription" property="og:description"   content="{{.Site.Data.vimhoff.sharing.ogtitle | safeHTML }}" />
   <meta name="ogimage" property="og:image"         content="{{.Site.Data.vimhoff.sharing.ogdescription}}" />
 
   {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}

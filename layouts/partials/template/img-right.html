@@ -5,11 +5,11 @@
 
         <div class="col-md-6 text-center left-column">
             <h2 class="section-heading title">
-                {{ with .Site.Params.movement.title }}{{ . }}{{ end }}
+                {{ with .Site.Params.movement.title | safeHTML }}{{ . }}{{ end }}
             </h2>
           
             <p class="section-subheading text-muted">
-              {{ with .Site.Params.movement.subtitle }}{{ . | markdownify }}{{ end }}
+              {{ with .Site.Params.movement.subtitle | safeHTML }}{{ . | markdownify }}{{ end }}
             </p>
         </div>
 

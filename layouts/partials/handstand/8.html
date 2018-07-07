@@ -5,11 +5,11 @@
 
         <div class="col-md-6 text-center left-column">
             <h2 class="section-heading title">
-                {{.Site.Data.handstand.section8.title}}
+                {{.Site.Data.handstand.section8.title | safeHTML }}
             </h2>
           
             <p class="section-subheading text-muted">
-                {{.Site.Data.handstand.section8.content}}
+                {{.Site.Data.handstand.section8.content | safeHTML }}
             </p>
         </div>
 

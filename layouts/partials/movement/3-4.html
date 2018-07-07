@@ -7,20 +7,20 @@
       <div class="col-md-6 col-xs-12  text-left left-column">
           <img class="img2525" src="{{.Site.Data.movement.section3.img}}">
           <h2 class="section-heading title">
-              {{.Site.Data.movement.section3.title}}         
+              {{.Site.Data.movement.section3.title | safeHTML }}         
           </h2>
           <p class="section-subheading text-muted">
-              {{.Site.Data.movement.section3.content}}         
+              {{.Site.Data.movement.section3.content | safeHTML }}         
             </p>
       </div>
 
       <div class="col-md-6 col-xs-12  text-left left-column">
           <img class="img2525" src="{{.Site.Data.movement.section4.img}}">
           <h2 class="section-heading title">
-              {{.Site.Data.movement.section4.title}}            
+              {{.Site.Data.movement.section4.title | safeHTML }}            
             </h2>
           <p class="section-subheading text-muted">
-              {{.Site.Data.movement.section4.content}}              
+              {{.Site.Data.movement.section4.content | safeHTML }}              
             </p>
       </div>
 

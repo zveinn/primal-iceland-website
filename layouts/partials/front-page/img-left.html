@@ -11,11 +11,11 @@
 
       <div class="col-md-6 text-left">
         <h2 class="section-heading title">
-            {{.Site.Data.frontpage.section1.title}}
+            {{.Site.Data.frontpage.section1.title | safeHTML }}
         </h2>
       
         <p class="section-subheading text-muted">
-            {{.Site.Data.frontpage.section1.content}}
+            {{.Site.Data.frontpage.section1.content | safeHTML }}
         </p>
       </div>
 

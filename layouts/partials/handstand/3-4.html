@@ -7,18 +7,18 @@
       <div class="col-md-6 col-xs-12  text-left left-column">
           <img class="img2525" src="{{.Site.Data.handstand.section3.img}}">
           <h2 class="section-heading title">
-              {{.Site.Data.handstand.section3.title}}          </h2>
+              {{.Site.Data.handstand.section3.title | safeHTML }}          </h2>
           <p class="section-subheading text-muted">
-              {{.Site.Data.handstand.section3.content}}            </p>
+              {{.Site.Data.handstand.section3.content | safeHTML }}            </p>
       </div>
 
       <div class="col-md-6 col-xs-12  text-left left-column">
           <img class="img2525" src="{{.Site.Data.handstand.section4.img}}">
           <h2 class="section-heading title">
-              {{.Site.Data.handstand.section4.title}}
+              {{.Site.Data.handstand.section4.title | safeHTML }}
           </h2>
           <p class="section-subheading text-muted">
-              {{.Site.Data.handstand.section4.content}}            </p>
+              {{.Site.Data.handstand.section4.content | safeHTML }}            </p>
       </div>
 
 

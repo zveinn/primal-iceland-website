@@ -10,11 +10,11 @@
 
       <div class="col-md-6 text-left">
         <h2 class="section-heading title">
-            {{.Site.Data.movement.section1.title}}
+            {{.Site.Data.movement.section1.title | safeHTML }}
         </h2>
       
         <p class="section-subheading text-muted">
-            {{.Site.Data.movement.section1.content}}
+            {{.Site.Data.movement.section1.content | safeHTML }}
         </p>
       </div>
 
