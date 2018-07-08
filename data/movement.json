@@ -8,25 +8,29 @@
     },
     "section1": {
         "img": "/img/movement/1.jpg",
-        "title": "Temp title",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        "title": "Movement Improvement",
+        "content": "<p>Skemmtileg námskeið sem blanda saman hinum ýmsu hreyfilistum við leiki og teygjur. Við sækjum innblástur frá dansi, bardagalistum, fimleikum og öllu sem að kveikir okkar áhuga og blöndum því saman í skemmtilega og fjölbreytta tíma.</p><p>Í boði eru bæði byrjendahópar og hefðbundin námskeið. Í hefðbundnu námskeiðunum er gert ráð fyrir að fólk geti fylgt ágætis hraða í æfingunum og sé tilbúið í það að læra á meðan framkvæmt er. Í byrjendahópunum er tempóið hægara og æfingar einfaldaðar til þess að sem flestir geti framkvæmt þær.</p><ö>Athugið að námskeiðin, hvorki byrjenda né hefðbundnu hóparnir, eru lausn á stoðkerfisvandamálum. Ef að þau eru til staðar, mælum við alltaf fyrst með einkatíma.</p>"
     },
 
     "section2": {
         "img": "/img/movement/2.jpg",
-        "title": "Temp title",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        "title": "",
+        "content": "<p>Innifalið í námskeiðsgjaldi er</p><p><ul><li>Tveir movement tímar í viku</li><li>Bætingartímar alla miðvikudaga kl. 12:00-13:00</li><li>Open gym tímar</li><li>Sameiginlegur Movement og Wim Hof tími annan hvern laugardag</li><li>Sérhannað og hnitmiðað heimavinnuprógram</li></ul></p>"
     },
 
     "section3": {
         "img": "/img/movement/3.jpg",
-        "title": "Temp title",
+        "title": "Grunntímar",
         "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
     },
     "section4": {
         "img": "/img/movement/4.jpg",
-        "title": "Temp title",
+        "title": "Lengra komnir",
         "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+    },
+    "section5": {
+        "img": "/img/movement/4.jpg",
+        "title": "Verðskrá",
+        "content": "<p>Stakur mánuður: 15.900 kr</p><p>Áskrift: 13.900 kr mánuðurinn með 6 mánaða binditíma</p><p>10 skipta klippikort: 19.900 kr</p>"
     }
-    
  }
