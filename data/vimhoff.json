@@ -8,40 +8,40 @@
     },
     "section1": {
         "img": "/img/vimhoff/1.png",
-        "title": "Temp title",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        "title": "Wim Hof",
+        "content": "Hvað er Wim Hof?"
     },
 
     "section2": {
         "img": "/img/vimhoff/2.jpg",
-        "title": "Temp title",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        "title": "Grunnn og helgarámskeið",
+        "content": "<p>Hvað fer fram á námskeiðunum? Hver er munurinn á 5 vikna og helgar?</p>"
     },
 
     "section3": {
         "img": "/img/vimhoff/3.jpg",
-        "title": "Temp title",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        "title": "",
+        "content": "<p>Námskeiðin fara fram í nýju húsnæði Primal Iceland, að Faxafeni 12, þar sem sérhönnuð aðstaða með tilliti til þessarar iðkunar hefur verið útbúin.</p><p>Þór Guðnason er fyrsti Íslendingurinn til þess að öðlast Wim Hof kennararéttindi og mun kenna námskeiðið.</p><p>Á námskeiðunum verður farið yfir helstu grunnstoðir Wim Hof aðferðafræðinnar, svo sem mismunandi öndunar- og kuldaæfingar, þar sem m.a. verður farið út í náttúruna, en tengingin við náttúruna spilar stórt hlutverk í þessari iðkun.</p>"
     },
     "sectionPillar": {
         "pillar1": {
             "icon":"/img/vimhoff/lungs-pillar.png",
-            "title": "titill",
-            "text": "texti um öndun!"
+            "title": "Kuldaþjálfun",
+            "text": "Kuldinn er fyrsti stólpi aðferðafræðinnar og hann er vinur þinn! Að stunda köld böð hefur í för með sér margþætt heilsubætandi áhrif, eins og aukna brúna fitu, sem brennir orku og býr til hita, kuldinn dregur úr bólgumyndun í líkamanum, styrkir ónæmiskerfið, stuðlar að jafnvægi hormónakerfisins, eykur svefngæði og framleiðslu endorfíns – sem aftur eykur vellíðan."
         },
         "pillar2": {
             "icon":"/img/vimhoff/cold-pillar.png",
-            "title": "titill",
-            "text": "texti um hita og kulda"
+            "title": "Öndun",
+            "text": "Öndun er annar stólpi aðferðafræðinnar. Við öndum allan daginn en veitum iðulega ekki athygli hvernig við öndum og hvaða áhrif það hefur á líkamann. Þær öndunaræfingar sem hér eru kenndar, eru hrein fjársjóðskista og stuðla að betri líðan í eigin líkama: Meiri orka, minna stress og aukin geta ónæmiskerfisins til að vinna á ýmsum kvillum."
         },
         "pillar3": {
             "icon":"/img/vimhoff/brain-pillar.png",
-            "title": "titill",
-            "text": "Texti um heila pillar"
+            "title": "Staðfesta",
+            "text": "Staðfesta er þriðji stólpi aðferðafræðinnar og er grunnurinn að hinum tveimur: Til þess að tileinka sér köld böð og meðvitaða öndun þarf þolinmæði og staðfestu. Með góðri einbeitingu kemst fólk sífellt nær takmarkinu, sem er að ná fullkominni stjórn á eigin líkama og huga."
         },
 
-        "title": "Vim Hoff aðferðin",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        "title": "Wim Hof aðferðin",
+        "content": "Wim Hof aðferðin byggir á þremur stólpum:"
     }
     
  }
