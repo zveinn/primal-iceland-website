@@ -8,8 +8,6 @@
   <meta name="ogtitle" property="og:title"         content="{{.Site.Data.handstand.sharing.ogimage}}" />
   <meta name="ogdescription" property="og:description"   content="{{.Site.Data.handstand.sharing.ogtitle | safeHTML }}" />
   <meta name="ogimage" property="og:image"         content="{{.Site.Data.handstand.sharing.ogdescription}}" />
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
-
 
   {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
   {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
