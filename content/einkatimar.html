@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+  {{ partial "einkatimar/head.html" . }}
+
+  <body id="page-top" class="index">
+    {{ partial "nav.html" . }}
+    {{ partial "einkatimar/book.html" . }}
+
+    {{ partial "hero.html" . }}
+ 
+
+    {{ partial "einkatimar/1.html" . }}
+    {{ partial "einkatimar/2.html" . }}
+    {{ partial "einkatimar/3-4.html" . }}
+    {{ partial "einkatimar/5.html" . }}
+    {{ partial "js.html" . }}
+  </body>
+</html>

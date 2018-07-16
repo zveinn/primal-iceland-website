@@ -3,13 +3,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name = "viewport" content = "width=device-width, minimum-scale=1, maximum-scale=1">
 
-  <meta name="ogurl" property="og:url"           content="{{.Site.Data.frontpage.sharing.ogurl}}" />
-  <meta name="ogtype" property="og:type"          content="{{.Site.Data.frontpage.sharing.ogtype}}" />
-  <meta name="ogtitle" property="og:title"         content="{{.Site.Data.frontpage.sharing.ogimage}}" />
-  <meta name="ogdescription" property="og:description"   content="{{.Site.Data.frontpage.sharing.ogtitle | safeHTML }}" />
-  <meta name="ogimage" property="og:image"         content="{{.Site.Data.frontpage.sharing.ogdescription}}" />
-
-  {{ partial "tracking-headers.html" . }}
+  <meta name="ogurl" property="og:url"           content="{{.Site.Data.einkatimar.sharing.ogurl}}" />
+  <meta name="ogtype" property="og:type"          content="{{.Site.Data.einkatimar.sharing.ogtype}}" />
+  <meta name="ogtitle" property="og:title"         content="{{.Site.Data.einkatimar.sharing.ogimage}}" />
+  <meta name="ogdescription" property="og:description"   content="{{.Site.Data.einkatimar.sharing.ogtitle | safeHTML }}" />
+  <meta name="ogimage" property="og:image"         content="{{.Site.Data.einkatimar.sharing.ogdescription}}" />
 
   {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
   {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}

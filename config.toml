@@ -29,7 +29,7 @@ theme = ""
 
   # 404 error customization
   [params.error404]
-    heading = "Page couldn't be found"
+    heading = "Vid fundum ekki siðuna, endilega farið aftur á forsíðu!"
     text = "Please visit [this page](/)"
 
   # Navigation
@@ -42,4 +42,10 @@ theme = ""
     vimhoff = "Öndun"
     #about = "Um Okkur"
     team = "Teymið"
-    contact = "Hafa Samband"
+    einkatimar = "Einkatímar"
+
+    # Tracking
+  [params.tracking]
+    facebook = false
+    google = false
+
