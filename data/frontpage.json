@@ -1,10 +1,10 @@
 {
     "sharing" : {
-        "ogurl":"http://primal-iceland.zkynet.io/handstand/",
+        "ogurl":"http://primal-iceland.zkynet.io/",
         "ogtype":"website",
-        "ogimage":"http://primal-iceland.zkynet.io/img/handstand/1.png",
+        "ogimage":"http://primal-iceland.zkynet.io/img/new/temp.png",
         "ogtitle":"Primal Iceland Handstands",
-        "ogdescription":"much wow description"
+        "ogdescription":"Join the tribe"
     },
     "section1": {
         "img": "/img/new/temp.png",
