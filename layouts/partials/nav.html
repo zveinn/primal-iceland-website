@@ -1,6 +1,6 @@
 {{ "<!-- Navigation -->" | safeHTML }}
 <nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
+
 
     {{ "<!-- Brand and toggle get grouped for better mobile display -->" | safeHTML }}
     <div class="navbar-header page-scroll">
@@ -12,13 +12,13 @@
       </button>
 
       <a class="navbar-brand page-scroll  navbar-title display-none display" href="/">
-{{ .Site.Params.navigation.brand }}
+        <img class="banner-img-small " src="/img/banner/logo.png">
       </a>
 
 
     </div>
     {{ "<!-- Collect the nav links, forms, and other content for toggling -->" | safeHTML }}
-    <div class="collapse navbar-collapse  mdc-elevation--z6 menu-padding" id="bs-example-navbar-collapse-1">
+    <div class="collapse navbar-collapse  menu-padding" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
 
 
@@ -46,10 +46,6 @@
             <a class="page-scroll" href="/handstand">{{ with .Site.Params.navigation.handstand }}{{ . }}{{ end }}</a>
           </li>
 
-          <li>
-            <a class="page-scroll" href="{{ .Site.BaseURL }}#about">{{ with .Site.Params.navigation.about }}{{ . }}{{ end }}</a>
-          </li>
-
 
           <li>
             <a class="page-scroll" href="/einkatimar">{{ with .Site.Params.navigation.einkatimar }}{{ . }}{{ end }}</a>
@@ -68,6 +64,8 @@
       </ul>
     </div>
     {{ "<!-- /.navbar-collapse -->" | safeHTML }}
-  </div>
+
+
+  
   {{ "<!-- /.container-fluid -->" | safeHTML }}
 </nav>
