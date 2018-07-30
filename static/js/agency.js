@@ -24,13 +24,15 @@ $(document).ready(function(){
       $('.navbar-default').addClass('navbar-shrink');
       $('.navbar-title').removeClass('display-none');
       $('.navbar-title').addClass('display');
-
+      if (window.innerWidth > 767){
+        $('.navbar-default').addClass('mdc-elevation--z6');
+      }
     }
     else {
       $('.navbar-default').removeClass('navbar-shrink');
       $('.navbar-title').addClass('display-none');
       $('.navbar-title').removeClass('display');
-
+      $('.navbar-default').removeClass('mdc-elevation--z6');
     }
   });
 });
@@ -38,14 +40,17 @@ $(document).ready(function(){
 $(document).ready(function(){
   var maxOffset = 200;
   if ($(window).scrollTop() >= maxOffset) {
-    $('.navbar-default').addClass('navbar-shrink');
+    if (window.innerWidth > 767){
+      $('.navbar-default').addClass('mdc-elevation--z6');
+    }
 
+    $('.navbar-default').addClass('navbar-shrink');
     $('.navbar-title').removeClass('display-none');
     $('.navbar-title').addClass('display');
   }
   else {
     $('.navbar-default').removeClass('navbar-shrink');
-
+    $('.navbar-default').removeClass('mdc-elevation--z6');
     $('.navbar-title').addClass('display-none');
     $('.navbar-title').removeClass('display');
 

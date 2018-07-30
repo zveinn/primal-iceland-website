@@ -32,5 +32,8 @@
         "img": "/img/movement/4.jpg",
         "title": "Verðskrá",
         "content": "<p>Stakur mánuður: 15.900 kr</p><p>Áskrift: 13.900 kr mánuðurinn með 6 mánaða binditíma</p><p>10 skipta klippikort: 19.900 kr</p>"
+    },
+    "calendar": {
+        "img": "/img/movement/calendar.jpg"
     }
  }

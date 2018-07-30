@@ -1,18 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-
   {{ partial "front-page/head.html" . }}
-
   <body id="page-top" class="index">
     {{ partial "nav.html" . }}
     {{ partial "hero.html" . }}
-    <!-- {{ partial "basics.html" . }} -->
-     <!-- {{ partial "video.html" . }} -->
     {{ partial "front-page/img-left.html" . }}
     {{ partial "front-page/img-right.html" . }}
     {{ partial "front-page/about.html" . }}
     {{ partial "front-page/team.html" . }}
-    <!-- {{ partial "front-page/clients.html" . }} -->
     {{ partial "contact.html" . }}
     {{ partial "map.html" . }}
     {{ partial "js.html" . }}
