@@ -4,8 +4,8 @@
     enable = true
     # Possibility to center items
     #center = true
-    title = "Eigendur Primal Iceland"
-    subtitle = "Eitthvað um eigendur"
+    title = "Þjálfarateymi Primal Iceland"
+    subtitle = ""
     description = "Allir af okkar þjálfurum taka að sér einkatíma í verkjaútrýmingu en hafa mismunandi áherslur þegar að kemur að æfingarmarkmiðum."
 
     # All team member's pictures are stored under 'static/img/team'.
@@ -30,7 +30,7 @@
     [[team.members]]
       img = "einar.jpg"
       name = "Einar Carl Alexsson"
-      position = "sérhæfir sig í styrktarþjálfun með eigin líkamsþyngd."
+      position = "sérhæfir sig í styrktarþjálfun með eigin líkamsþyngd og liðleika."
       social = [
         ["fa-instagram", "#einarcarl"]
       ]
