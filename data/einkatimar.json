@@ -7,29 +7,29 @@
         "ogdescription":"much wow description"
     },
     "section1": {
-        "img": "/img/movement/1.jpg",
+        "img": "/img/einka/1.jpg",
         "title": "Einkatímar",
         "content": "<p>Boðið er upp á margskonar einkatíma hjá Primal Iceland.</p> <p>Hvort sem að verkir eru að skerða lífsgæði þín eða þú vilt ná hverskonar æfinga- eða íþróttaiðkun upp á næsta plan, þá getum við hjálpað þér.</p><p>Við höfum gífurlega reynslu með allskyns stoðkerfisvandamál sem og fólk úr öllum tegundum íþrótta.</p><p>Aðferðafræði okkar er einföld en hefur reynst okkar skjólstæðingum mjög vel.</p>"
     },
 
     "section2": {
-        "img": "/img/movement/2.jpg",
+        "img": "/img/einka/2.jpg",
         "title": "Reynslusaga",
         "content": ""
     },
 
     "section3": {
-        "img": "/img/movement/3.jpg",
+        "img": "/img/einka/3.jpg",
         "title": "Verkjaútrýming",
         "content": "<p>Eru verkir að skerða lífsgæði þín? Við bjóðum uppá einkatíma þar sem við hjálpum þér að losna við verki.</p><p>10 ára reynsla gefur okkur stórt vopnabúr af aðferðum til að nota á fólk af öllum toga.</p><p>Aðferðafræðin byggist á hreyfigreiningu þar sem að orsök vandamálanna koma í ljós og gera okkur þannig kleift að vinna á þeim skilvirkt og hratt.</p>"
     },
     "section4": {
-        "img": "/img/movement/4.jpg",
+        "img": "/img/einka/4.jpg",
         "title": "Æfingamarkmið",
         "content": "<p>Viltu einstakslingsmiðaða þjálfun? Við bjóðum uppá einkatíma þar sem að við hjálpum þér að ná markmiðum þínum.</p><p>Hvort sem að þig langar að standa á höndum, fara í brú, spígat, splitt eða upphýfingu á annarri, þá getum við hjálpað þar sem við höfum sjálfir náð þessum markmiðum og hjálpað öðrum að ná þeim.</p>"
     },
     "section5": {
-        "img": "/img/movement/4.jpg",
+        "img": "/img/einka/4.jpg",
         "title": "Verðskrá",
         "content": "<p>60 mínútna einkatími þar sem að orsök vandamála þinna er útskýrð,<br>æfingar til þess að leysa úr þeim kenndar og<br>settar saman í skothelt heimavinnuplan kostar 12.900 kr.</p>"
     }
