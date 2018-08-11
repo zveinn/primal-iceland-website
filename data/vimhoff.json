@@ -15,12 +15,18 @@
     "section2": {
         "img": "/img/vimhoff/2.jpg",
         "title": "Grunnnrámskeið",
-        "content": "<p>Á námskeiðunum er Wim Hof aðferðin kennd með Primal ívafi.</p><p>Á fjögurra vikna námskeiðum er iðkunin sett í fyrsta sæti og fá þeir sem sækja þau námskeið heimavinnu á milli tíma til þess að venja sig á það að stunda aðferðina daglega.</p><p><b>Hvenær:</b> 3. til 28. september</p><p><b>Hópur 1:</b> 6:30-7:30</p><p><b>Hópur 2:</b> 12:10-13:10</p><p><b>Verð</b>: 29.900 kr</p><p><b>Kennari</b>: Þór Guðnason</p><p><b>Innifalið í námskeiði</b> eru 8 tímar í kennslu á Wim Hof aðferðinni yfir 4 vikur, aðgangur að heimsklassa aðstöðu til iðkunnar aðferðafræðinnar, ferð í náttúruna undir handleiðslu kennara, aðgangur að Facebook hóp með hvatningu, eftirfylgni og heimavinnu.</p>"
+        "content": "<p>Á námskeiðunum er Wim Hof aðferðin kennd með Primal ívafi.</p><p>Á fjögurra vikna námskeiðum er iðkunin sett í fyrsta sæti og fá þeir sem sækja þau námskeið heimavinnu á milli tíma til þess að venja sig á það að stunda aðferðina daglega.</p><p>Á helgarnámskeiðunum er kennt sama efni en iðkendur sjá svo sjálfir um það að iðka aðferðina eftir námskeiðið.</p>"
     },
 
     "section3": {
         "img": "/img/vimhoff/3.jpg",
-        "title": "",
+        "title": "Næstu námskeið",
+        "content": "<p><b>Hvenær:</b> 3. til 28. september</p><p><b>Hópur 1:</b> 6:30-7:30</p><p><b>Hópur 2:</b> 12:10-13:10</p><p><b>Verð</b>: 29.900 kr</p><p><b>Kennari</b>: Þór Guðnason</p><p><b>Innifalið í námskeiði</b> eru 8 tímar í kennslu á Wim Hof aðferðinni yfir 4 vikur, aðgangur að heimsklassa aðstöðu til iðkunnar aðferðafræðinnar, ferð í náttúruna undir handleiðslu kennara, aðgangur að Facebook hóp með hvatningu, eftirfylgni og heimavinnu.</p>"
+    },
+    
+    "section4": {
+        "img": "/img/vimhoff/4.jpg",
+        "title": "Aðstaðan",
         "content": "<p>Námskeiðin fara fram í nýju húsnæði Primal Iceland, að Faxafeni 12, þar sem sérhönnuð aðstaða með tilliti til þessarar iðkunar hefur verið útbúin.</p><p>Þór Guðnason er fyrsti Íslendingurinn til þess að öðlast Wim Hof kennararéttindi og mun kenna námskeiðið.</p><p>Á námskeiðunum verður farið yfir helstu grunnstoðir Wim Hof aðferðafræðinnar, svo sem mismunandi öndunar- og kuldaæfingar, þar sem m.a. verður farið út í náttúruna, en tengingin við náttúruna spilar stórt hlutverk í þessari iðkun.</p>"
     },
     "sectionPillar": {
