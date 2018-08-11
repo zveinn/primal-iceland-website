@@ -39,14 +39,14 @@
         "content": "<p>Við höfum einnig haldið námskeið fyrir íþróttafélög og aðra staði þar sem að handstöður koma við sögu.</p><p>Dæmi um það eru CrossFit stöðvar, fimleikafélög og dansarar.</p><p>Einnig bjóðum við upp á einkatíma í handstöðum.</p>"
     },
     "section7": {
-        "img": "/img/handstand/4.png",
-        "title": "Temp title",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        "img": "/img/handstand/alla.jpg",
+        "title": "Reynslusögur",
+        "content": "<p><blockquote>Eftir að hafa mætt á tvö námskeið hjá Helga, hafa handstöðurnar mínar bæst til muna.</blockquote></p><p>Alla hefur setið tvö námskeið í handstöðum hjá okkur sem og iðkað Movement Improvement lengi.</p>"
     },
     "section8": {
         "img": "/img/handstand/alla.jpg",
         "title": "Reynslusögur",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        "content": "<p><q>Eftir að hafa mætt á tvö námskeið hjá Helga, hafa handstöðurnar mínar bæst til muna.</q></p><p>Alla hefur setið tvö námskeið í handstöðum hjá okkur sem og iðkað Movement Improvement lengi.</p>"
     }
     
  }
