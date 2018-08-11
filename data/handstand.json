@@ -8,14 +8,14 @@
     },
     "section1": {
         "img": "/img/handstand/1.png",
-        "title": "Lærðu að standa á höndum",
+        "title": "Primal Handstöður",
         "content": "<p>Handstöður koma við víða og við hjá Primal Iceland erum engin undantekning.</p><p>Við höfum brennandi áhuga á því og leitum uppi bestu kennarana til þess að auka þekkingu okkur á því sviði.</p><p>Við vorum fljót að komast að því að sirkus listamenn eru fremstir í heimi í handstöðulistum (e. <i>handbalancing</i>) og höfum lært mest af því sem að við kunnum frá Mikael Kristiansen, norskum handstöðulistamanni.</p><p>Handstaðan krefst mikillar þolinmæði og auðmýktar en á sama tíma ótrúlega skemmtileg. Tilfinningin að finna jafnvægi í fyrsta skiptið eða í nýrri stöðu er engu lík.</p>"
     },
 
     "section2": {
         "img": "/img/handstand/7.jpg",
         "title": "",
-        "content": "<p>Helgi sér um okkar handstöðukennslu. Undanfarin ár hefur hann tileinkað sér handstöðulistina og sótt námskeið, sem og einkakennslu, til heimsþekktra handstöðulistamanna um allan heim.</p><p>Helgi æfði aldrei neinar íþróttir eða listir þar sem staðið var á höndum, heldur hóf hann iðkun sína seint á þrítugs aldri en hefur náð ótrúlegum árangri síðan þá.</p><p>Handstaðan dregur að sér fólk úr öllum áttum, hvort sem að það eru íþróttamenn, fimleikafólk, dansarar eða þeir sem hreyfa sig lítið. Það er eitthvað mjög heillandi við það að læra að standa á höndum!</p><p>Við getum hjálpað þér hvort sem að þú vilt takast á við óttan við að fara á hvolf, læra að halda jafnvægi eða sérsniðin markvið fyrir þína iðkun.</p>"
+        "content": "<p>Helgi sér um okkar handstöðukennslu. Undanfarin ár hefur hann tileinkað sér handstöðulistina og sótt námskeið, sem og einkakennslu, til heimsþekktra handstöðulistamanna um allan heim.</p><p>Helgi æfði aldrei neinar íþróttir eða listir þar sem staðið var á höndum, heldur hóf hann iðkun sína seint á þrítugs aldri en hefur náð ótrúlegum árangri síðan þá.</p><p>Handstaðan dregur að sér fólk úr öllum áttum, hvort sem að það eru íþróttamenn, fimleikafólk, dansarar eða þeir sem hreyfa sig lítið. Það er eitthvað mjög heillandi við það að læra að standa á höndum!</p><p>Við getum hjálpað þér hvort sem að þú vilt takast á við óttan við að fara á hvolf, læra að halda jafnvægi eða sérsniðin markmið fyrir þína iðkun.</p>"
     },
 
     "section3": {
@@ -41,12 +41,12 @@
     "section7": {
         "img": "/img/handstand/alla.jpg",
         "title": "Reynslusögur",
-        "content": "<p><blockquote>Eftir að hafa mætt á tvö námskeið hjá Helga, hafa handstöðurnar mínar bæst til muna.</blockquote></p><p>Alla hefur setið tvö námskeið í handstöðum hjá okkur sem og iðkað Movement Improvement lengi.</p>"
+        "content": "<p><blockquote>Ég hafði aldrei staðið á höndum sem barn en eftir að hafa mætt á tvö námskeið hjá Helga og stundað handstöðurnar í Movement tímunum, hafa handstöðurnar mínar bæst til muna.</blockquote></p><p>Alla hefur setið tvö námskeið í handstöðum hjá okkur sem og iðkað Movement Improvement lengi.</p>"
     },
     "section8": {
         "img": "/img/handstand/alla.jpg",
         "title": "Reynslusögur",
-        "content": "<p><q>Eftir að hafa mætt á tvö námskeið hjá Helga, hafa handstöðurnar mínar bæst til muna.</q></p><p>Alla hefur setið tvö námskeið í handstöðum hjá okkur sem og iðkað Movement Improvement lengi.</p>"
+        "content": ""
     }
     
  }
