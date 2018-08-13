@@ -1151,7 +1151,7 @@ display: none;
     display: inline !important;
 }
 .index {
-    margin-bottom:10px;
+    margin-bottom:50px;
 }
 .banner-img-small{
 position: absolute;
@@ -1202,4 +1202,7 @@ width:100%;
 
 .contact-rows{
     margin-bottom:30px;
+}
+.contact-title{
+    margin-bottom:3em;
 }
