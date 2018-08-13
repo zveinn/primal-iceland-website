@@ -13,29 +13,35 @@
       img = "1.jpg"
       date = "2015"
       title = "Movement tímar í Mörkinni"
-      description = "..."
+      description = "Upphaf Primal Iceland má rekja til Movement Improvement tímanna sem hófu göngu sína í Mörkinni sumarið 2015."
 
     [[about.events]]
       img = "2.jpg"
       date = "2016"
       title = "Flutningur í Kópavog"
-      description = "Smáralind og VBC"
+      description = "Árið 2016 var ár flutninga en þá fluttu Movement tímarnir fyrst yfir í Smáralindina en það stopp var stutt..."
       
     [[about.events]]
       img = "3.jpg"
       date = "2016"
       title = "Flutningur í Kópavog"
-      description = "Smáralind og VBC"
+      description = "Um haustið færðu tímarnir sig yfir í húsnæði VBC við Smiðjuveg."
 
     [[about.events]]
       img = "4.jpg"
       date = "2017"
-      title = "Þór Wim Hof kennararéttindi"
-      description = "Þór öðlast Wim Hof kennararéttindi fyrstur Íslendinga"
+      title = "Wim Hof kennararéttindi"
+      description = "Á svipuðum tíma öðlast Þór Wim Hof kennararéttindi fyrstur Íslendinga."
 
     [[about.events]]
       img = "5.jpg"
+      date = "2017"
+      title = "Ár framkvæmda"
+      description = "Seint árið 2016 hófust framkvæmdir í Faxafeni. "
+	  
+    [[about.events]]
+      img = "6.jpg"
       date = "Ágúst 2017"
       title = "Primal Iceland opnar í Faxafeni"
-      description = "..."
+      description = "Um haustið 2017 opnaði svo Primal Iceland loksins í Faxafeni"
 
