@@ -6,7 +6,7 @@
     #center = true
     title = "Þjálfarateymi Primal Iceland"
     subtitle = ""
-    description = "Allir af okkar þjálfurum taka að sér einkatíma í verkjaútrýmingu en hafa mismunandi áherslur þegar að kemur að æfingarmarkmiðum."
+    description = ""
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
@@ -14,25 +14,25 @@
     [[team.members]]
       img = "thor.jpg"
       name = "Þór Guðnason"
-      position = "sérhæfir sig í kuldanum og öndunaræfingum."
+      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í kuldanum og öndunaræfingum.</p>"
       social = [
-        ["fa-instagram", "#thorgudna"]
+        ["fa-instagram", "http://instagram.com/thorgudna"]
       ]
 
     [[team.members]]
       img = "helgi.jpg"
       name = "Helgi Freyr Rúnarsson"
-      position = "sérhæfir sig í handstöðum og liðleika."
+      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í handstöðum og liðleika.</p>"
       social = [
-        ["fa-instagram", "#helgi_freyr"]
+        ["fa-instagram", "http://instagram.com/helgi_freyr"]
       ]
 
     [[team.members]]
       img = "einar.jpg"
       name = "Einar Carl Alexsson"
-      position = "sérhæfir sig í styrktarþjálfun með eigin líkamsþyngd og liðleika."
+      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
       social = [
-        ["fa-instagram", "#einarcarl"]
+        ["fa-instagram", "http://instagram.com/einarcarl"]
       ]
 
 
