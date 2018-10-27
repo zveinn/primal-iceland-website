@@ -31,7 +31,17 @@
     "section5": {
         "img": "/img/movement/5.jpg",
         "title": "Verðskrá",
-        "content": "<p>Stakur mánuður: 17.900 kr</p><p>Áskrift: 13.900 kr mánuðurinn með 6 mánaða binditíma</p><p>10 skipta klippikort: 19.900 kr</p>"
+        "content": "<p>Stakur mánuður: 17.900 kr</p><p>Áskrift: 13.900 kr mánuðurinn með 6 mánaða binditíma</p><p>10 skipta klippikort: 19.900 kr</p><br><p>Iðkendur geta mætt bæði í hópa 1 og 2 eða valið annan hvorn. Einungis er valin morgun, hádegis eða seinniparts tími við skráningu.</p>"
+    },
+	"section6": {
+        "img": "/img/movement/5.jpg",
+        "title": "Mjúkt",
+        "content": "Tímar þar sem farið er hægar yfir aðferðafræði Movement tímanna. Í tímunum verður teygt mikið, einfaldar styrktaræfingar framkvæmdar og farið í skemmtilega leiki sem að auka liðleika, styrk og samhæfingu.</p><p><b>Verð</b> er 14.900 kr fyrir mánuðinn.</p><p><b>Áskrift</b>: 3ja mánaða binditími og mánuðurinn er á 12.900 kr</p>"
+    },
+	"section7": {
+        "img": "/img/movement/5.jpg",
+        "title": "Krakkar",
+        "content": "<p>Í tímunum verður Movement aðferðafræðin notuð á skemmtilegan máta þar sem að liðleiki, styrkur og hreyfileikir verða aðalatriðið.</p><p>Námskeiðið er hugsað fyrir 7.-10. bekk en hægt er að gera undantekningar á því. Hafið samband til þess að ræða það!</p><p><b>Verð</b> er 14.900 kr fyrir mánuðinn.</p><p><b>Áskrift</b>: 3ja mánaða binditími og mánuðurinn er á 12.900 kr</p>"
     },
     "calendar": {
         "img": "/img/movement/calendar.jpg"
