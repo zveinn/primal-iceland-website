@@ -680,7 +680,7 @@ section h3.section-subheading {
 .team-member h3 {
     text-transform: none;
     font-weight: 600;
-    color: #333;
+    color: #000;
 }
 
 .team-member h4 {
@@ -1194,6 +1194,7 @@ cursor: grab;
 border-radius: 3px;
 border-style: solid;
 border-color: #6b492b;
+border-width: 5px;
 }
 .book-now:hover {
 background: #6b492b;
