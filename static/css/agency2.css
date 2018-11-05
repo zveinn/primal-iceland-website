@@ -332,6 +332,7 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+
     }
 }
 
@@ -343,7 +344,7 @@ section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 40px;
-	color: #fff;
+	color: #f4b219;
 }
 
 section h3.section-subheading {
@@ -366,7 +367,7 @@ section h3.section-subheading {
 .service-heading {
 	margin: 15px 0;
     text-transform: none;
-	color: #fff;
+	color: #f4b219;
 }
 
 #portfolio .portfolio-item {
@@ -547,11 +548,12 @@ section h3.section-subheading {
 
 .timeline .timeline-heading h4 {
     margin-top: 0;
-    color: inherit;
+    color: #f4b219;
 }
 
 .timeline .timeline-heading h4.subheading {
     text-transform: none;
+    color: #f4b219;
 }
 
 .timeline .timeline-body>p,
@@ -680,7 +682,7 @@ section h3.section-subheading {
 .team-member h3 {
     text-transform: none;
     font-weight: 600;
-    color: #fff;
+    color: #f4b219;
 }
 
 .team-member h4 {
@@ -1180,6 +1182,9 @@ padding-right:20px !important;
 padding-right:40px !important;
 }
 .book-now {
+text-transform: uppercase;
+font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 700;
 position: fixed;
 z-index: 1100;
 
@@ -1201,7 +1206,7 @@ background: #6b492b;
 border-color: #8a995e;
 }
 .bookingButton {
-font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+
 z-index: 1100;
 } 
 #banner {
