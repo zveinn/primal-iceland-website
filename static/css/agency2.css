@@ -971,7 +971,7 @@ body {
     .navbar-default {background-color: transparent !important;}
     .left-column{padding: 30px 30px 10% 30px;}
     #about{padding:200px 0 200px 0 !important;}
-    #team{padding:100px 0 100px 0 !important;}
+    #team{padding:100px 0 100px 0 !important; background-color: #6b492b;}
     .clients{padding:100px 0 100px 0 !important;}
     .client-img{padding:20px 0px 20px 0px;}
     #contact{padding:100px 0 100px 0 !important;}
@@ -1015,7 +1015,7 @@ body {
 @media (min-width: 767px) and (max-width: 992px) { 
     .left-column{padding-bottom:100px;}
     #about{padding:200px 0 200px 0 !important;}
-    #team{padding:100px 0 100px 0 !important;}
+    #team{padding:100px 0 100px 0 !important; background-color: #6b492b;}
     .clients{padding:100px 0 100px 0 !important;}
     .client-img{padding:20px 20px 20px 20px;}
     #contact{padding:100px 0 100px 0 !important;}
@@ -1049,7 +1049,7 @@ body {
 @media (min-width: 992px) and (max-width: 1200px) {
     .left-column{padding-bottom:50px;}
     #about{padding:200px 0 200px 0 !important;}
-    #team{padding:100px 0 100px 0 !important;}
+    #team{padding:100px 0 100px 0 !important; background-color: #6b492b;}
     .clients{padding:100px 0 100px 0 !important;}
     .client-img{padding:20px 20px 20px 20px;}
     #contact{padding:100px 0 100px 0 !important;}
