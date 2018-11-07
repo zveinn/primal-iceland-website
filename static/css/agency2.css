@@ -360,7 +360,7 @@ section h3.section-subheading {
 @media(min-width:768px) {
     section {
         padding-top: 100px;
-		background-color: #6b492b
+		background-color: #6b492b;
     }
 }
 
@@ -971,7 +971,7 @@ body {
     .navbar-default {background-color: transparent !important;}
     .left-column{padding: 30px 30px 10% 30px;}
     #about{padding:200px 0 200px 0 !important;}
-    #team{padding:100px 0 100px 0 !important; background-color: #6b492b;}
+    #team{padding:100px 0 100px 0 !important; background-color: #6b492b; }
     .clients{padding:100px 0 100px 0 !important;}
     .client-img{padding:20px 0px 20px 0px;}
     #contact{padding:100px 0 100px 0 !important;}
