@@ -6,6 +6,9 @@
         "ogtitle":"Primal Iceland",
         "ogdescription":"Join the tribe"
     },
+    "contact": {
+        "title": "Láttu heyra í þér!"
+    },
     "section1": {
         "img": "/img/new/1.jpg",
         "title": "Primal Iceland",
