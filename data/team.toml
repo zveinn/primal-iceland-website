@@ -4,14 +4,15 @@
     enable = true
     # Possibility to center items
     #center = true
-    title = "Þjálfarateymi Primal Iceland"
+    ownerTitle = "Eigendur"
+    coachTitle = "Þjálfarateymi"
     subtitle = ""
     description = ""
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
-    [[team.members]]
+    [[team.owners]]
       img = "thor.jpg"
       name = "Þór Guðnason"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í kuldanum og öndunaræfingum.</p>"
@@ -19,7 +20,7 @@
         ["fa-instagram", "http://instagram.com/thorgudna"]
       ]
 
-    [[team.members]]
+    [[team.owners]]
       img = "helgi.jpg"
       name = "Helgi Freyr Rúnarsson"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í handstöðum og liðleika.</p>"
@@ -27,7 +28,7 @@
         ["fa-instagram", "http://instagram.com/helgi_freyr"]
       ]
 
-    [[team.members]]
+    [[team.owners]]
       img = "einar.jpg"
       name = "Einar Carl Alexsson"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
@@ -35,7 +36,8 @@
         ["fa-instagram", "http://instagram.com/einarcarl"]
       ]
 
-     [[team.members]]
+
+     [[team.coaches]]
       img = "einar.jpg"
       name = "Einar Carl Alexsson"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
@@ -43,7 +45,7 @@
         ["fa-instagram", "http://instagram.com/einarcarl"]
       ]
 
-     [[team.members]]
+     [[team.coaches]]
       img = "einar.jpg"
       name = "Einar Carl Alexsson"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
@@ -51,7 +53,7 @@
         ["fa-instagram", "http://instagram.com/einarcarl"]
       ]
 
-     [[team.members]]
+     [[team.coaches]]
       img = "einar.jpg"
       name = "Einar Carl Alexsson"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
@@ -59,7 +61,7 @@
         ["fa-instagram", "http://instagram.com/einarcarl"]
       ]
 
-     [[team.members]]
+     [[team.coaches]]
       img = "einar.jpg"
       name = "Einar Carl Alexsson"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
