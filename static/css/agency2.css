@@ -1153,7 +1153,7 @@ body {
 
 
 .navbar-default .nav li a:hover {
-    color:black;
+    color:white;
 }
 .pillar{
 height:125px;
@@ -1263,8 +1263,10 @@ width:100%;
 	float: none;
 }
 
+
 .contact-icons{
     font-size: 7em !important;
+
 }
 
 .contact-rows{
