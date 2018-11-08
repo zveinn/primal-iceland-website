@@ -1,24 +1,27 @@
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: #6b492b;
 }
 
 .text-muted {
-    color: #777;
+    color: #fff;
 }
 
 .text-primary {
-    color: #000;
+    color: #fff;
 }
 
 p {
     font-size: 18px;
     line-height: 1.5;
+	color: #fff;
 }
 
 li, ul {
     font-size: 16px;
     line-height: 1.5;
+	color: #fff;
 }
 
 p.large {
@@ -226,8 +229,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .nav li a {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 600;
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 700;
     letter-spacing: 1px;
     color: #f4b219;
 }
@@ -329,6 +332,7 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+
     }
 }
 
@@ -340,6 +344,7 @@ section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 40px;
+	color: #f4b219;
 }
 
 section h3.section-subheading {
@@ -349,17 +354,20 @@ section h3.section-subheading {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
+	color: #fff;
 }
 
 @media(min-width:768px) {
     section {
         padding-top: 100px;
+		background-color: #6b492b;
     }
 }
 
 .service-heading {
-margin: 15px 0;
+	margin: 15px 0;
     text-transform: none;
+	color: #f4b219;
 }
 
 #portfolio .portfolio-item {
@@ -540,11 +548,12 @@ margin: 15px 0;
 
 .timeline .timeline-heading h4 {
     margin-top: 0;
-    color: inherit;
+    color: #f4b219;
 }
 
 .timeline .timeline-heading h4.subheading {
     text-transform: none;
+    color: #f4b219;
 }
 
 .timeline .timeline-body>p,
@@ -628,10 +637,12 @@ margin: 15px 0;
         width: 170px;
         height: 170px;
         margin-left: -85px;
+		border: 7px solid #f4b219;
     }
 
     .timeline>li .timeline-image h4 {
         margin-top: 40px;
+		color: #f4b219;
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
@@ -662,7 +673,7 @@ margin: 15px 0;
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #fff;
+    border: 7px solid #f4b219;
 }
 
 .team-member p {
@@ -671,7 +682,7 @@ margin: 15px 0;
 .team-member h3 {
     text-transform: none;
     font-weight: 600;
-    color: #333;
+    color: #f4b219;
 }
 
 .team-member h4 {
@@ -735,7 +746,7 @@ aside .heading {
 
 
 section#contact .section-heading {
-    color: #000;
+    color: #fff;
 }
 
 section#contact .form-group {
@@ -960,7 +971,7 @@ body {
     .navbar-default {background-color: transparent !important;}
     .left-column{padding: 30px 30px 10% 30px;}
     #about{padding:200px 0 200px 0 !important;}
-    #team{padding:100px 0 100px 0 !important;}
+    #team{padding:100px 0 100px 0 !important; background-color: #6b492b; }
     .clients{padding:100px 0 100px 0 !important;}
     .client-img{padding:20px 0px 20px 0px;}
     #contact{padding:100px 0 100px 0 !important;}
@@ -1004,7 +1015,7 @@ body {
 @media (min-width: 767px) and (max-width: 992px) { 
     .left-column{padding-bottom:100px;}
     #about{padding:200px 0 200px 0 !important;}
-    #team{padding:100px 0 100px 0 !important;}
+    #team{padding:100px 0 100px 0 !important; background-color: #6b492b;}
     .clients{padding:100px 0 100px 0 !important;}
     .client-img{padding:20px 20px 20px 20px;}
     #contact{padding:100px 0 100px 0 !important;}
@@ -1038,7 +1049,7 @@ body {
 @media (min-width: 992px) and (max-width: 1200px) {
     .left-column{padding-bottom:50px;}
     #about{padding:200px 0 200px 0 !important;}
-    #team{padding:100px 0 100px 0 !important;}
+    #team{padding:100px 0 100px 0 !important; background-color: #6b492b;}
     .clients{padding:100px 0 100px 0 !important;}
     .client-img{padding:20px 20px 20px 20px;}
     #contact{padding:100px 0 100px 0 !important;}
@@ -1072,7 +1083,7 @@ body {
 @media (min-width: 1200px) { 
     .left-column{padding-right:30px;}
     #about{padding:200px 0 200px 0 !important;}
-    #team{padding:100px 0 100px 0 !important;}
+    #team{padding:100px 0 100px 0 !important; background-color: #6b492b;}
     .clients{padding:100px 0 100px 0 !important;}
     .client-img{padding:30px 30px 30px 30px;}
     #contact{padding:100px 0 100px 0 !important;}
@@ -1171,24 +1182,31 @@ padding-right:20px !important;
 padding-right:40px !important;
 }
 .book-now {
+text-transform: uppercase;
+font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 700;
 position: fixed;
 z-index: 1100;
 
-color:white;
+color:#f4b219;
 width:auto;
 padding-right:20px;
 padding-left:20px;
 
-background: #12e045;
+background: #8a995e;
 cursor: -webkit-grab;
 cursor: grab;
 border-radius: 3px;
+border-style: solid;
+border-color: #6b492b;
+border-width: 5px;
 }
 .book-now:hover {
-background: #91e012;
+background: #6b492b;
+border-color: #8a995e;
 }
 .bookingButton {
-font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
 z-index: 1100;
 } 
 #banner {
@@ -1199,6 +1217,12 @@ background-color: #8a995e;
 .calendar-img {
 height: 100%;
 width:100%;
+}
+
+#calendar {
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
 }
 
 .contact-icons{

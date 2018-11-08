@@ -8,20 +8,20 @@
     },
     "section1": {
         "img": "/img/movement/1.jpg",
-        "title": "Movement",
-        "content": "<p>Skemmtileg námskeið sem blanda saman hinum ýmsu hreyfilistum við leiki og teygjur. Við sækjum innblástur frá dansi, bardagalistum, fimleikum og öllu sem að kveikir okkar áhuga og blöndum því saman í skemmtilega og fjölbreytta tíma.</p><p>Í boði eru bæði byrjendahópar og hefðbundin námskeið. Í hefðbundnu námskeiðunum er gert ráð fyrir að fólk geti fylgt ágætis hraða í æfingunum og sé tilbúið í það að læra á meðan framkvæmt er. Í byrjendahópunum er tempóið hægara og æfingar einfaldaðar til þess að sem flestir geti framkvæmt þær.</p><p>Athugið að námskeiðin, hvorki byrjenda né hefðbundnu hóparnir, eru lausn á stoðkerfisvandamálum. Ef að þau eru til staðar, mælum við alltaf fyrst með einkatíma.</p>"
+        "title": "Primal Movement",
+        "content": "<p>Primal Movement byggja á því besta sem fimleikar, styrktar- og liðleikaþjálfun og hreyfiflæði hefur upp á að bjóða. Tímarnir henta öllum þeim sem vilja ná upp styrk og þoli, bæta liðleika, hreyfigetu og lífsgæði sín almennt. Gott getur þó verið ef fólk er að kljást við stoðkerfisvandamál eða álagsmeiðsli að byrja í einkatíma og fá þar úrlausn sinna mála áður en lengra er haldið.</p> <p>Primal býður einnig upp á Movement tíma fyrir börn og fjölskyldur þeirra, þar sem foreldrar og börn fá tækifæri til að tengjast í gegnum hreyfingu og hafa gaman saman.</p>"
     },
 
     "section2": {
         "img": "/img/movement/2.jpg",
         "title": "",
-        "content": "<p>Innifalið í námskeiðsgjaldi er</p><p><ul><li>Fjórir movement tímar í viku</li><li>Bætingartímar alla miðvikudaga kl. 12:00-13:00</li><li>Open gym tímar</li><li>Sameiginlegur Movement og Wim Hof tími annan hvern laugardag</li><li>Sérhannað og hnitmiðað heimavinnuprógram</li></ul></p>"
+        "content": "<p>Við bjóðum upp á þrennskonar hópa í Movement iðkun.</p> <p><b><u>Hópur</u></b> 1 hentar flestum sem eru að byrja sína iðkun, þar eru undirstöðuatriði aðferðafræðinnar kennd og farið rólegar í gegnum æfingar.</p><p><b><u>Hópur 2</u></b> hentar þeim sem hafa æft hjá okkur áður eða eiga auðvelt með að læra nýjar hreyfingar. Þar er gert ráð fyrir að iðkendur þekki allar helstu æfingar sem framkvæmdar eru og þekki sín eigin mörk í bæði styrkleika og liðleika.</p><p><b><u>Mjúkt Movement</u></b> er fyrir þá sem vilja rólega tíma eða eru að taka fyrstu skref í hreyfingu eða eftir meiðsl. Þar er fókusinn á góðar teygjur, létta leiki og styrktaræfingar.</p>"
     },
 
     "section3": {
         "img": "/img/movement/3.jpg",
-        "title": "Hópur 1",
-        "content": "<p>Í hóp 1 er farið rólegar yfir og æfingar útskýrðar í þaula áður en að þær eru framkvæmdar.</p><p>Ekki er gert ráð fyrir neinum bakgrunni hjá iðkendum. Kynnt verða hugtök Movement aðferðafræðinnar og algengustu æfingarnar kenndar.</p>"
+        "title": "Mæting",
+        "content": "<p>Það er undir hverjum iðkenda komið hversu oft í viku mætt er. Iðkendur byrja flestir tvisvar í viku í hóp 1, og bæta svo við æfingum með hóp 2 þegar að geta og skilningur aukast.</p>"
     },
     "section4": {
         "img": "/img/movement/4.jpg",
@@ -31,7 +31,17 @@
     "section5": {
         "img": "/img/movement/5.jpg",
         "title": "Verðskrá",
-        "content": "<p>Stakur mánuður: 17.900 kr</p><p>Áskrift: 13.900 kr mánuðurinn með 6 mánaða binditíma</p><p>10 skipta klippikort: 19.900 kr</p>"
+        "content": "<p><b>Stakur mánuður</b>: 17.900 kr</p><p><b>Áskrift</b>: 13.900 kr mánuðurinn með 6 mánaða binditíma (áskrift er sagt upp í gegnum tölvupóst)</p><p>10 skipta klippikort: 19.900 kr</p><br><p>Iðkendur geta mætt bæði í hópa 1 og 2 eða valið annan hvorn. Einungis er valin morgun, hádegis, seinniparts eða mjúkur tími við skráningu.</p><p>Í <b><u>Mjúku Movement</b></u> kostar stakur mánuður 14.900 kr og áskrift með þriggja mánaða binditíma 12.900 kr."
+    },
+	"section6": {
+        "img": "/img/movement/5.jpg",
+        "title": "Mjúkt Movement",
+        "content": "<p>Mjúkt Movement eru tímar fyrir þá sem vilja fara aðeins hægar yfir aðferðafræði Movement. Þeir henta öllum og eru kjörnir fyrir þá sem vilja rólegri tíma eða eru að taka fyrstu skref í hreyfingu eða eftir meiðsl.</p> <p>Í tímunum verður teygt mikið, einfaldar styrktaræfingar framkvæmdar og farið í skemmtilega leiki sem að auka liðleika, styrk og samhæfingu.</p><p>Tímarnir eru með fjölda takmörkun til þess að tryggja að allir fái þá hjálp sem þau þurfa.</p><p><b>Verð</b> er 14.900 kr fyrir mánuðinn.</p><p><b>Áskrift</b>: 3ja mánaða binditími og mánuðurinn er á 12.900 kr</p>"
+    },
+	"section7": {
+        "img": "/img/movement/5.jpg",
+        "title": "Krakkar",
+        "content": "<p>Í tímunum verður Movement aðferðafræðin notuð á skemmtilegan máta þar sem að liðleiki, styrkur og hreyfileikir verða aðalatriðið.</p><p>Námskeiðið er hugsað fyrir 7.-10. bekk en hægt er að gera undantekningar á því. Hafið samband til þess að ræða það!</p><p><b>Verð</b> er 14.900 kr fyrir mánuðinn.</p><p><b>Áskrift</b>: 3ja mánaða binditími og mánuðurinn er á 12.900 kr</p>"
     },
     "calendar": {
         "img": "/img/movement/calendar.jpg"

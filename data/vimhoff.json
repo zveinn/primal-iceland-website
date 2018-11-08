@@ -8,19 +8,25 @@
     },
     "section1": {
         "img": "/img/vimhoff/1.png",
-        "title": "Wim Hof",
-        "content": "<p>Wim Hof er þekktur víða um heiminn undir nafninu Ísmaðurinn. Hans aðferðarfræði sameinar andlegan styrk, öndunaræfingar og kuldaþjálfun.</p><p>Hann hefur starfað með vísindamönnum um allan heim og hefur stjórn á því sem flest okkar höfum lítil eða engin  tök á, taugakerfi líkamans.</p><p> Hann kennir aðferð sína um allan heim og hjá honum lærði Þór sem er fyrsti Íslendingurinn til að öðlast kennararéttindi frá Wim Hof og miðlar nú þessum fræðum áfram í formi námskeiða.</p>"
+        "title": "Primal Wim Hof",
+        "content": "<p>Hollendingurinn Wim Hof er þekktur víða um heiminn undir nafninu Ísmaðurinn. Hans aðferðarfræði sameinar andlegan styrk, öndunaræfingar og kuldaþjálfun.</p><p>Wim Hof hefur starfað með vísindamönnum um allan heim og hefur stjórn á því sem flest okkar höfum lítil eða engin  tök á, taugakerfi líkamans.</p><p> Hann kennir aðferð sína um allan heim. Þór er fyrsti Íslendingurinn til að öðlast kennararéttindi frá Wim Hof og miðlar nú þessum fræðum áfram í formi námskeiða.</p>"
     },
 
     "section2": {
         "img": "/img/vimhoff/2.jpg",
-        "title": "Grunnn og helgarámskeið",
-        "content": "<p>Á námskeiðunum er Wim Hof aðferðin kennd með Primal ívafi.</p><p>Á fjögurra vikna námskeiðum er iðkunin sett í fyrsta sæti og fá þeir sem sækja þau námskeið heimavinnu á milli tíma til þess að venja sig á það að stunda aðferðina daglega.</p><p>Á helgarnámskeiðunum er kennt sama efni en iðkendur sjá svo sjálfir um það að iðka aðferðina eftir námskeiðið.</p><p>Næstu <b>fjögurra vikna námskeið fara af stað 3. september.</b></p><p> Ekki hefur verið ákveðið hvenær næsta helgarnámskeið er.</p>"
+        "title": "Grunnnámskeið",
+        "content": "<p>Á námskeiðunum er Wim Hof aðferðin kennd með Primal ívafi.</p><p>Á fjögurra vikna námskeiðum er iðkunin sett í fyrsta sæti og þeir sem sækja þau námskeið fá heimavinnu á milli tíma til þess að venja sig á það að stunda aðferðina daglega.</p>"
     },
 
     "section3": {
         "img": "/img/vimhoff/3.jpg",
-        "title": "",
+        "title": "Næstu námskeið",
+        "content": "<p><b>Hvenær:</b> 3. til 28. september</p><p><b>Hópur 1:</b> 6:30-7:30</p><p><b>Hópur 2:</b> 12:10-13:10</p><p><b>Verð</b>: 29.900 kr</p><p><b>Kennari</b>: Þór Guðnason</p><p><b>Innifalið í námskeiði</b> eru 8 tímar í kennslu á Wim Hof aðferðinni yfir 4 vikur, aðgangur að heimsklassa aðstöðu til iðkunnar aðferðafræðinnar, ferð í náttúruna undir handleiðslu kennara, aðgangur að Facebook hóp með hvatningu, eftirfylgni og heimavinnu.</p>"
+    },
+    
+    "section4": {
+        "img": "/img/vimhoff/4.jpg",
+        "title": "Aðstaðan",
         "content": "<p>Námskeiðin fara fram í nýju húsnæði Primal Iceland, að Faxafeni 12, þar sem sérhönnuð aðstaða með tilliti til þessarar iðkunar hefur verið útbúin.</p><p>Þór Guðnason er fyrsti Íslendingurinn til þess að öðlast Wim Hof kennararéttindi og mun kenna námskeiðið.</p><p>Á námskeiðunum verður farið yfir helstu grunnstoðir Wim Hof aðferðafræðinnar, svo sem mismunandi öndunar- og kuldaæfingar, þar sem m.a. verður farið út í náttúruna, en tengingin við náttúruna spilar stórt hlutverk í þessari iðkun.</p>"
     },
     "sectionPillar": {
