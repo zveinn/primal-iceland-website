@@ -27,12 +27,7 @@
           <a href="{{ if .IsHome }}/#page-top{{ else }}{{ .Site.BaseURL }}{{ end }}"></a>
         </li>
 
-        {{ range .Site.Menus.prepend }}
-          <li>
-            <a href="{{ .URL }}">{{ .Name | markdownify }}</a>
-          </li>
-        {{ end }}
-
+      
     
           <li>
             <a class="page-scroll" href="/vimhoff">{{ with .Site.Params.navigation.vimhoff }}{{ . }}{{ end }}</a>
@@ -56,11 +51,7 @@
      
 
 
-        {{ range .Site.Menus.postpend }}
-          <li>
-            <a href="{{ .URL }}">{{ .Name }}</a>
-          </li>
-        {{ end }}
+      
       </ul>
     </div>
     {{ "<!-- /.navbar-collapse -->" | safeHTML }}

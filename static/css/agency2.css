@@ -4,6 +4,10 @@ body {
     background-color: #6b492b;
 }
 
+.timeline:before {
+    background-color: #f4b219 !important;
+}
+
 .text-muted {
     color: #fff;
 }

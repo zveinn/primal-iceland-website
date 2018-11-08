@@ -35,6 +35,38 @@
         ["fa-instagram", "http://instagram.com/einarcarl"]
       ]
 
+     [[team.members]]
+      img = "einar.jpg"
+      name = "Einar Carl Alexsson"
+      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
+      social = [
+        ["fa-instagram", "http://instagram.com/einarcarl"]
+      ]
+
+     [[team.members]]
+      img = "einar.jpg"
+      name = "Einar Carl Alexsson"
+      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
+      social = [
+        ["fa-instagram", "http://instagram.com/einarcarl"]
+      ]
+
+     [[team.members]]
+      img = "einar.jpg"
+      name = "Einar Carl Alexsson"
+      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
+      social = [
+        ["fa-instagram", "http://instagram.com/einarcarl"]
+      ]
+
+     [[team.members]]
+      img = "einar.jpg"
+      name = "Einar Carl Alexsson"
+      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
+      social = [
+        ["fa-instagram", "http://instagram.com/einarcarl"]
+      ]
+
 
 
 
