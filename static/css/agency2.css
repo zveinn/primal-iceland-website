@@ -670,6 +670,13 @@ section h3.section-subheading {
   justify-content: center;
 }
 
+.outside-left {
+    margin-left:-100px;
+}
+
+.outside-right {
+    margin-right:-100px;
+}
 .team-member {
     margin-bottom: 50px;
     text-align: center;
