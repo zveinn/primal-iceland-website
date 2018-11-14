@@ -9,7 +9,7 @@
     "section1": {
         "img": "/img/new/1.jpg",
         "title": "Primal Iceland",
-        "content": "<p>Primal Iceland er ný æfingastöð í Reykjavík sem  þekkt er fyrir öðruvísi nálgun á líkamsrækt en gengur og gerist. Stofnendur Primal Iceland eru þeir Þór Guðnason, Einar Carl Axelsson og Helgi Freyr Rúnarsson.</p> <p>Þór sérhæfir sig í Wim Hof aðferðinni, þar sem kuldaþol er aukið með öndun og andlegri tækni, Einar sérhæfir sig í styrktar- og liðleikaþjálfun og hefur kennt námskeiðið ,,Movement Improvement” í á fjórða ár og Helgi leiðbeinir ungum sem öldnum í listinni að standa á höndum.</p> <p>Allir bjóða þeir upp á einkatíma sem fela í sér í hreyfigreiningar og til þeirra hafa sótt m.a. afreksfólk úr ýmsum greinum, fólk með álagsmeiðsl eða stoðkerfisvandamál og þeir sem almennt er umhugað um líkama sinn.</p>"
+        "content": "<p>Primal Iceland er ný æfingastöð í Reykjavík sem  þekkt er fyrir öðruvísi nálgun á líkamsrækt en gengur og gerist. Stofnendur Primal Iceland eru þeir Þór Guðnason, Einar Carl Axelsson og Helgi Freyr Rúnarsson.</p> <p>Þór sérhæfir sig í <a href=/wimhof>Wim Hof</a> aðferðinni, þar sem kuldaþol er aukið með öndun og andlegri tækni, Einar sérhæfir sig í styrktar- og liðleikaþjálfun og hefur kennt námskeiðið <a href=/movement>,,Movement Improvement”</a> í á fjórða ár og Helgi leiðbeinir ungum sem öldnum í <a href=/handstand>listinni að standa á höndum.</a></p> <p>Allir bjóða þeir upp á <a href=/einkatimar>einkatíma</a> sem fela í sér í hreyfigreiningar og til þeirra hafa sótt m.a. afreksfólk úr ýmsum greinum, fólk með álagsmeiðsl eða stoðkerfisvandamál og þeir sem almennt er umhugað um líkama sinn.</p>"
     },
     "section2": {
         "img": "/img/new/2.jpg",
