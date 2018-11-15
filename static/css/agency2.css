@@ -4,6 +4,10 @@ body {
     background-color: #6b492b;
 }
 
+.timeline:before {
+    background-color: #f4b219 !important;
+}
+
 .text-muted {
     color: #fff;
 }
@@ -666,6 +670,7 @@ section h3.section-subheading {
   justify-content: center;
 }
 
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
@@ -674,6 +679,7 @@ section h3.section-subheading {
 .team-member img {
     margin: 0 auto;
     border: 7px solid #f4b219;
+    max-width: 200px;
 }
 
 .team-member p {
@@ -743,6 +749,9 @@ aside .heading {
     margin-bottom: -40px;
 }
 
+.container{
+    margin-top: 30px;
+}
 
 
 section#contact .section-heading {
@@ -1079,6 +1088,20 @@ body {
         padding-top:10px;
         
     }
+
+    .outside-left {
+        margin-left:-100px;
+    }
+    
+    .outside-right {
+        margin-right:-100px;
+    }
+    .container-left{
+        margin-left:0px;
+    }
+    .container-right{
+        margin-right:0px;
+    }
 }
 @media (min-width: 1200px) { 
     .left-column{padding-right:30px;}
@@ -1112,11 +1135,25 @@ body {
         padding-top:10px;
        
     }
+
+    .outside-left {
+        margin-left:-100px;
+    }
+    
+    .outside-right {
+        margin-right:-100px;
+    }
+    .container-left{
+        margin-left:0px;
+    }
+    .container-right{
+        margin-right:0px;
+    }
 }
 
 
 .navbar-default .nav li a:hover {
-    color:black;
+    color:white;
 }
 .pillar{
 height:125px;
@@ -1213,6 +1250,7 @@ z-index: 1100;
 width:100%;
 height:50%;
 background-color: #8a995e;
+margin-bottom:30px;
 }
 .calendar-img {
 height: 100%;
@@ -1225,8 +1263,10 @@ width:100%;
 	float: none;
 }
 
+
 .contact-icons{
     font-size: 7em !important;
+
 }
 
 .contact-rows{
@@ -1234,4 +1274,8 @@ width:100%;
 }
 .contact-title{
     margin-bottom:3em;
+}
+
+section {
+    margin-top:100px;
 }
