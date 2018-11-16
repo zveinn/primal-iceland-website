@@ -17,7 +17,7 @@
       name = "Þór Guðnason"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í kuldanum og öndunaræfingum.</p>"
       social = [
-        ["fa-facebook", "https://www.facebook.com/primaliceland"]
+        ["fa-instagram", "http://www.instagram.com/thorgudna"]
       ]
 
     [[team.owners]]
@@ -25,7 +25,7 @@
       name = "Helgi Freyr Rúnarsson"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í handstöðum og liðleika.</p>"
        social = [
-        ["fa-facebook", "https://www.facebook.com/primaliceland"]
+        ["fa-instagram", "http://www.instagram.com/helgi_freyr"]
       ]
 
     [[team.owners]]
@@ -33,45 +33,37 @@
       name = "Einar Carl Alexsson"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
         social = [
-        ["fa-facebook", "https://www.facebook.com/primaliceland"]
+        ["fa-instagram", "http://www.instagram.com/einarcarl"]
       ]
 
 
 
      [[team.coaches]]
       img = "einar.jpg"
-      name = "Einar Carl Alexsson"
-      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
-        social = [
-        ["fa-facebook", "https://www.facebook.com/primaliceland"]
-      ]
+      name = "Aðalheiður Jensen"
+      position = "<p>Movement þjálfari</p>"
+        
 
 
      [[team.coaches]]
       img = "einar.jpg"
-      name = "Einar Carl Alexsson"
-      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
-        social = [
-        ["fa-facebook", "https://www.facebook.com/primaliceland"]
-      ]
+      name = "Davíð Haraldsson"
+      position = "<p>Movement þjálfari</p>"
+        
 
 
      [[team.coaches]]
       img = "einar.jpg"
-      name = "Einar Carl Alexsson"
-      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
-     social = [
-        ["fa-facebook", "https://www.facebook.com/primaliceland"]
-      ]
+      name = "Íris Huld Guðmundsdóttir"
+      position = "<p>Movement þjálfari</p>"
+     
 
 
      [[team.coaches]]
       img = "einar.jpg"
-      name = "Einar Carl Alexsson"
-      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
-       social = [
-        ["fa-facebook", "https://www.facebook.com/primaliceland"]
-      ]
+      name = "Stefán Þór Friðriksson"
+      position = "<p>Movement og Parkour þjálfari</p>"
+       
 
 
 
