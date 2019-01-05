@@ -60,8 +60,12 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    margin:0 !important;
 }
 
+.img-circle-bottom-margin {
+    margin-bottom:20px !important;
+}
 .img-centered {
     margin: 0 auto;
 }
@@ -692,6 +696,7 @@ section h3.section-subheading {
 
 .team-member p {
     margin-top: 0;
+    margin-bottom: 0;
 }
 .team-member h3 {
     text-transform: none;
@@ -705,6 +710,7 @@ section h3.section-subheading {
     font-weight: 400;
     color: #fff;
     margin-bottom: 0px;
+    margin-top:10px !important;
 }
 
 .team-member h4 a {
@@ -977,14 +983,15 @@ body {
 #map{
     margin-bottom:100px;
 }
-.color-light-blue {color: lightblue;}
-.color-white {color: white;}
-.color-yellow-theme {color: #000;}
-.color-heat-cold {color: #19a3f9;}
-.color-breathing {color:#e62ca1;}
-.color-movement {color:#00b139;}
-.color-black {color:black;}
-.color-primal-green{color:#8a995e;}
+.color-light-blue {color: lightblue !important;}
+.color-white {color: white !important;}
+.color-yellow-theme {color: #000 !important;}
+.color-heat-cold {color: #19a3f9 !important;}
+.color-breathing {color:#e62ca1 !important;}
+.color-movement {color:#00b139 !important;}
+.color-black {color:black !important;}
+.color-primal-green{color:#8a995e !important;}
+.background-primal-green{background-color:#8a995e !important;}
 
 @media (max-width: 767px) {
     .left-column{padding-bottom:50px;}
@@ -1195,6 +1202,7 @@ overflow: hidden;
 }
 .title{
     font-size: 2.2em !important;
+    margin-bottom: 50px !important;
 }
 .title-margin{
     margin-bottom:50px;

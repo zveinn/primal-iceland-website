@@ -12,7 +12,7 @@
         <div class="col-sm-4 col">
           <div class="team-member ">
             {{ $url := printf "img/team/%s" .img }}
-            <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle owner-size " alt="{{ .name }}">
+            <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle owner-size img-circle-bottom-margin" alt="{{ .name }}">
             <h3>{{ .firstname | markdownify }}</h3>
             <h3>{{ .lastname | markdownify }}</h3>
 
@@ -37,7 +37,7 @@
 
             <ul class="list-inline social-buttons">
               {{ range .social }}
-                <li><a class="mdc-elevation--z6" href="{{ index . 1 }}"><i class="fab {{ index . 0 }}"></i></a></li>
+                <li><a class=" background-primal-green mdc-elevation--z6" href="{{ index . 1 }}"><i class="color-white fab {{ index . 0 }}"></i></a></li>
               {{ end }}
             </ul>
 
@@ -49,10 +49,6 @@
         </div>
       {{ end }}
     </div>
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 text-center">
-        <p class="large text-muted">{{ with .Site.Data.team.team.description }}{{ . | markdownify }}{{ end }}</p>
-      </div>
-    </div>
+
   </div>
 </section>
