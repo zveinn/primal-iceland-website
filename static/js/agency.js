@@ -9,7 +9,7 @@ $(document).ready(function(){
       var hash = this.hash;
       $('html, body').animate({
         scrollTop: $(hash).offset().top
-      }, 800, function(){
+      }, 500, function(){
         window.location.hash = hash;
       });
     }
@@ -18,7 +18,7 @@ $(document).ready(function(){
 
 // Navigation change on scroll
 $(document).ready(function(){
-  var maxOffset = 200;
+  var maxOffset = 320;
   $(window).scroll(function() {
     if ($(window).scrollTop() >= maxOffset) {
       $('.navbar-default').addClass('navbar-shrink');
@@ -38,7 +38,7 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-  var maxOffset = 200;
+  var maxOffset = 320;
   if ($(window).scrollTop() >= maxOffset) {
     if (window.innerWidth > 767){
       $('.navbar-default').addClass('mdc-elevation--z6');

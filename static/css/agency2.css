@@ -1240,18 +1240,18 @@ font-weight: 700;
 position: fixed;
 z-index: 1100;
 
-color:#f4b219;
+color:#6a492b;
 width:auto;
 padding-right:20px;
 padding-left:20px;
 
-background: #8a995e;
+background: #b2ce5d;
 cursor: -webkit-grab;
 cursor: grab;
-border-radius: 3px;
+border-radius: 1px;
 border-style: solid;
-border-color: #6b492b;
-border-width: 5px;
+border-color:#b2ce5d;
+border-width: 3px;
 }
 .book-now:hover {
 background: #6b492b;
