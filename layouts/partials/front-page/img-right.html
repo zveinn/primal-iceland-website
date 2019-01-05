@@ -3,19 +3,19 @@
   <div class="container container-right">
     <div class="row outside-right">
 
-        <div class="col-md-6 text-left left-column ">
+        <div class="col-md-6 text-left  ">
             <h2 class="section-heading title">
-                {{.Site.Data.frontpage.section2.title | safeHTML }}
+                {{.Site.Data.frontpage.section1.title | safeHTML }}
             </h2>
           
             <p class="section-subheading text-muted">
-                {{.Site.Data.frontpage.section2.content | safeHTML }}
+                {{.Site.Data.frontpage.section1.content | safeHTML }}
             </p>
         </div>
 
 
-      <div class="col-md-6 text-center right-column">
-        <img class="img100100 mdc-elevation--z6" src="{{.Site.Data.frontpage.section2.img}}">
+      <div class="col-md-6 text-center img-padding">
+        <img class="img100100 mdc-elevation--z6" src="{{.Site.Data.frontpage.section1.img}}">
       </div>
 
     </div>

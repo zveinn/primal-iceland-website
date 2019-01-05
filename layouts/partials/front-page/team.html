@@ -7,10 +7,10 @@
         <h3 class="section-subheading text-mutedwith ">{{ with .Site.Data.team.team.subtitle | safeHTML }}{{ . | markdownify }}{{ end }}</h3>
       </div>
     </div>
-    <div class="row flexbox{{ if .Site.Params.team.center }} flexbox-center{{ end }}">
+    <div class="row flexbox flexbox-center">
       {{ range .Site.Data.team.team.owners }}
         <div class="col-sm-4 col">
-          <div class="team-member">
+          <div class="owner">
             {{ $url := printf "img/team/%s" .img }}
             <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle" alt="{{ .name }}">
             <h3>{{ .name | markdownify }}</h3>

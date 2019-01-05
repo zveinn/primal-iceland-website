@@ -40,28 +40,36 @@
 
      [[team.coaches]]
       img = "alla.jpg"
-      name = "Aðalheiður Jensen"
+      firstname = "Aðalheiður"
+      lastname = "Jensen"
+      position = "<p>Movement þjálfari</p>"
+        
+  [[team.coaches]]
+      img = "alla.jpg"
+      firstname = "Arnór"
+      lastname = "Sveinsson?"
+      position = "<p>Yoga/Núvitundar þjálfari</p>"
+
+     [[team.coaches]]
+      img = "einar.jpg"
+      firstname = "Davíð"
+      lastname = "Haraldsson"
       position = "<p>Movement þjálfari</p>"
         
 
 
      [[team.coaches]]
       img = "einar.jpg"
-      name = "Davíð Haraldsson"
-      position = "<p>Movement þjálfari</p>"
-        
-
-
-     [[team.coaches]]
-      img = "einar.jpg"
-      name = "Íris Huld Guðmundsdóttir"
+      firstname = "Íris Huld"
+      lastname = "Guðmundsdóttir"
       position = "<p>Movement þjálfari</p>"
      
 
 
      [[team.coaches]]
       img = "stebbi.jpg"
-      name = "Stefán Þór Friðriksson"
+      firstname = "Stefán Þór"
+      lastname = "Friðriksson"
       position = "<p>Movement og Parkour þjálfari</p>"
        
 
