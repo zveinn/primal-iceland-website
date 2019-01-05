@@ -14,7 +14,8 @@
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[team.owners]]
       img = "thor.jpg"
-      name = "Þór Guðnason"
+      firstname = "Þór"
+      lastname = "Guðnason"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í kuldanum og öndunaræfingum.</p>"
       social = [
         ["fa-instagram", "http://www.instagram.com/thorgudna"]
@@ -22,7 +23,8 @@
 
     [[team.owners]]
       img = "helgi.jpg"
-      name = "Helgi Freyr Rúnarsson"
+      firstname = "Helgi Freyr"
+      lastname = " Rúnarsson"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í handstöðum og liðleika.</p>"
        social = [
         ["fa-instagram", "http://www.instagram.com/helgi_freyr"]
@@ -30,7 +32,8 @@
 
     [[team.owners]]
       img = "einar.jpg"
-      name = "Einar Carl Alexsson"
+      firstname = "Einar Carl"
+      lastname = "Alexsson"
       position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
         social = [
         ["fa-instagram", "http://www.instagram.com/einarcarl"]

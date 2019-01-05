@@ -678,14 +678,11 @@ section h3.section-subheading {
     margin-bottom: 50px;
     text-align: center;
 }
-.owner {
-    margin-bottom: 50px;
-    text-align: center;
-}
-.owner img {
+
+.owner-size  {
     margin: 0 auto;
     border: 7px solid #f4b219;
-    max-width: 240px;
+    max-width: 240px !important;
 }
 .team-member img {
     margin: 0 auto;

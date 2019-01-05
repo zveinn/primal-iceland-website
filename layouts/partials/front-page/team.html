@@ -10,10 +10,11 @@
     <div class="row flexbox flexbox-center">
       {{ range .Site.Data.team.team.owners }}
         <div class="col-sm-4 col">
-          <div class="owner">
+          <div class="team-member ">
             {{ $url := printf "img/team/%s" .img }}
-            <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle" alt="{{ .name }}">
-            <h3>{{ .name | markdownify }}</h3>
+            <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle owner-size " alt="{{ .name }}">
+            <h3>{{ .firstname | markdownify }}</h3>
+            <h3>{{ .lastname | markdownify }}</h3>
 
             {{ with .position }}
             <h4>{{ . | markdownify }}</h4>
