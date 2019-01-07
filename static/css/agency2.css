@@ -991,6 +991,7 @@ body {
 .color-movement {color:#00b139 !important;}
 .color-black {color:black !important;}
 .color-primal-green{color:#8a995e !important;}
+.color-primal-orange{color: #f4b219 !important}
 .background-primal-green{background-color:#8a995e !important;}
 
 @media (max-width: 767px) {
@@ -1268,15 +1269,15 @@ padding-left:20px;
 background: #b2ce5d;
 cursor: -webkit-grab;
 cursor: grab;
-border-radius: 1px;
+border-radius: 3px;
 border-style: solid;
 border-color:#b2ce5d;
 border-width: 3px;
 }
 .book-now:hover {
-background: #6a492b;
-border-color: #8a995e;
-color:#b2ce5d;
+    background: #b2ce5d;
+
+color:white;
 }
 .bookingButton {
 
