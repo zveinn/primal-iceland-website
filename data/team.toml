@@ -16,7 +16,7 @@
       img = "thor.jpg"
       firstname = "Þór"
       lastname = "Guðnason"
-      position = "<p>sérhæfir sig í kuldanum og öndunaræfingum.</p>"
+      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í kuldanum og öndunaræfingum.</p>"
       social = [
         ["fa-instagram", "http://www.instagram.com/thorgudna"]
       ]
@@ -25,7 +25,7 @@
       img = "helgi.jpg"
       firstname = "Helgi Freyr"
       lastname = " Rúnarsson"
-      position = "<p>sérhæfir sig í handstöðum og liðleika.</p>"
+      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í handstöðum og liðleika.</p>"
        social = [
         ["fa-instagram", "http://www.instagram.com/helgi_freyr"]
       ]
@@ -34,7 +34,7 @@
       img = "einar.jpg"
       firstname = "Einar Carl"
       lastname = "Alexsson"
-      position = "<p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
+      position = "<p>Eigandi Primal Iceland</p><p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
         social = [
         ["fa-instagram", "http://www.instagram.com/einarcarl"]
       ]
