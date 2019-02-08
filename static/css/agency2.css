@@ -996,19 +996,7 @@ body {
 #map{
     margin-bottom:100px;
 }
-.color-light-blue {color: lightblue !important;}
-.color-white {color: white !important;}
-.color-yellow-theme {color: #000 !important;}
-.color-heat-cold {color: #19a3f9 !important;}
-.color-breathing {color:#e62ca1 !important;}
-.color-movement {color:#00b139 !important;}
-.color-black {color:black !important;}
-.color-primal-green{color:#8a995e !important;}
-.color-primal-orange{color: #f4b219 !important}
-.background-primal-green{background-color:#8a995e !important;}
-.frontpage-image-padding-fix{
-    padding-bottom:0px !important; 
-}
+
 
 @media (max-width: 767px) {
     .left-column{padding-bottom:50px;}
@@ -1365,4 +1353,63 @@ width:100%;
 
 section {
     margin-top:10px;
+}
+
+
+.fullsize-calendar{
+
+}
+.fullsize-calendar td {
+    width:150px;
+    height: 50px;
+    color:white;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.extra-top-margin{
+    margin-top:100px;
+}
+
+@media (max-width: 1090px) { 
+    .fullsize-calendar td {
+        width:150px;
+        height: 50px;
+        color:white;
+        font-size: 12px;
+        font-weight: 600;
+        text-align: center;
+    }
+}
+
+@media (max-width: 1090px) { 
+    .fullsize-calendar td {
+        width:150px;
+        height: 50px;
+        color:white;
+        font-size: 12px;
+        font-weight: 600;
+        text-align: center;
+    }
+}
+
+
+.color-light-blue {color: lightblue !important;}
+.color-white {color: white !important;}
+.color-yellow-theme {color: #000 !important;}
+.color-heat-cold {color: #19a3f9 !important;}
+.color-breathing {color:#e62ca1 !important;}
+.color-movement {color:#00b139 !important;}
+.color-black {color:black !important;}
+.color-primal-green{color:#8a995e !important;}
+.color-primal-orange{color: #f4b219 !important}
+.color-primal-brown{color:#6b492b !important;}
+
+.background-breathing {background-color:#e62ca1 !important;}
+.background-heat-cold {background-color: #19a3f9 !important;}
+.background-primal-orange{background-color: #f4b219 !important}
+.background-primal-green{background-color:#8a995e !important;}
+.frontpage-image-padding-fix{
+    padding-bottom:0px !important; 
 }

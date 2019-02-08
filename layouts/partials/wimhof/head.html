@@ -14,11 +14,8 @@
   {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
 
   <title>{{ .Title }}{{ if not .IsHome }} &middot; {{ .Site.Title }}{{ end }}</title>
-  <link href="{{ "css/bootstrap-v3.3.7/bootstrap.min.css" | absURL }}" rel="stylesheet">
-  <link href="{{ "css/agency2.css" | absURL }}" rel="stylesheet">
-  <link href="{{ "css/material.css" | absURL }}" rel="stylesheet">
-  <link href="{{ "fonts/google/fonts.css" | absURL }}" rel="stylesheet">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+  
+  {{ partial "css.html" . }}
 
   {{ range .Site.Params.custom_css }}
     <link rel="stylesheet" href="{{ . | absURL }}">
