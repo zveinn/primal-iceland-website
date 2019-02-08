@@ -1027,6 +1027,15 @@ body {
         left:15px;
         width: 6em;
     }
+    .banner-link{
+        position: absolute;
+        top:10px;
+        left:10px;
+        width: 7em;
+        height:7em;
+        z-index: 1030;
+       
+    }
     .navbar-toggle{
         z-index: 999;
         margin-right:10px;
