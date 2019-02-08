@@ -35,38 +35,42 @@
       firstname = "Einar Carl"
       lastname = "Alexsson"
       position = "<p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
-        social = [
+      social = [
         ["fa-instagram", "http://www.instagram.com/einarcarl"]
       ]
 
 
 
      [[team.coaches]]
-      img = "alla.jpg"
+      img = "halla.jpg"
       firstname = "Aðalheiður"
       lastname = "Jensen"
       position = "<p>Movement þjálfari</p>"
-        
+      social = [
+      ]
+
   [[team.coaches]]
       img = "arnor.jpg"
       firstname = "Arnór"
-      lastname = "Sveinsson?"
+      lastname = "Sveinsson"
       position = "<p>Yoga/Núvitundar þjálfari</p>"
+        social = [
+         ["fa-facebook", "https://www.facebook.com/GeorgBjarnf"]
+      ]
 
      [[team.coaches]]
       img = "einar.jpg"
       firstname = "Davíð"
       lastname = "Haraldsson"
       position = "<p>Movement þjálfari</p>"
-        
-
+      social = []
 
      [[team.coaches]]
       img = "iris.jpg"
       firstname = "Íris Huld"
       lastname = "Guðmundsdóttir"
       position = "<p>Movement þjálfari</p>"
-     
+      social = []
 
 
      [[team.coaches]]
@@ -74,7 +78,7 @@
       firstname = "Stefán Þór"
       lastname = "Friðriksson"
       position = "<p>Movement og Parkour þjálfari</p>"
-       
+      social = [["fa-instagram", "https://www.instagram.com/stebbi696/"]]
 
 
 
