@@ -1,10 +1,10 @@
 {
     "sharing" : {
-        "ogurl":"http://primal-iceland.zkynet.io/handstand/",
+        "ogurl":"http://primal-iceland.zkynet.io/movement/",
         "ogtype":"website",
-        "ogimage":"http://primal-iceland.zkynet.io/img/handstand/1.png",
-        "ogtitle":"Primal Iceland Handstands",
-        "ogdescription":"much wow description"
+        "ogimage":"http://primal-iceland.zkynet.io/img/movement/2.jpg",
+        "ogtitle":"Primal Iceland Movement Improvemend",
+        "ogdescription":"Primal iceland movement improvement is awesome"
     },
     "section1": {
         "video": "https://player.vimeo.com/video/307463627?loop=1&title=0&byline=0&portrait=0",

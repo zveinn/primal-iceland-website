@@ -5,9 +5,9 @@
 
   <meta name="ogurl" property="og:url"           content="{{.Site.Data.movement.sharing.ogurl}}" />
   <meta name="ogtype" property="og:type"          content="{{.Site.Data.movement.sharing.ogtype}}" />
-  <meta name="ogtitle" property="og:title"         content="{{.Site.Data.movement.sharing.ogimage}}" />
-  <meta name="ogdescription" property="og:description"   content="{{.Site.Data.movement.sharing.ogtitle | safeHTML }}" />
-  <meta name="ogimage" property="og:image"         content="{{.Site.Data.movement.sharing.ogdescription}}" />
+  <meta name="ogtitle" property="og:title"         content="{{.Site.Data.movement.sharing.ogtitle}}" />
+  <meta name="ogdescription" property="og:description"   content="{{.Site.Data.movement.sharing.ogdescription | safeHTML }}" />
+  <meta name="ogimage" property="og:image"         content="{{.Site.Data.movement.sharing.ogimage}}" />
 
   {{ partial "tracking-headers.html" . }}
   {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
