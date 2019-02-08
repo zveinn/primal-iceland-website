@@ -3,21 +3,46 @@
   <div class="container container-right">
     <div class="row outside-right">
 
-        <div class="col-md-6 text-right  ">
-            <h2 class="section-heading title">
-                {{.Site.Data.frontpage.section1.title | safeHTML }}
-            </h2>
-          
-            <p class="section-subheading text-muted">
-                {{.Site.Data.frontpage.section1.content | safeHTML }}
-            </p>
+        <div class=" hidden-sm hidden-xs">
+
+            <div class="col-md-6 text-right  ">
+                <h2 class="section-heading title">
+                    {{.Site.Data.frontpage.section1.title | safeHTML }}
+                </h2>
+              
+                <p class="section-subheading text-muted">
+                    {{.Site.Data.frontpage.section1.content | safeHTML }}
+                </p>
+            </div>
+    
+    
+          <div class="col-md-6 text-center img-padding">
+            <img class="img100100 mdc-elevation--z6" src="{{.Site.Data.frontpage.section1.img}}">
+          </div>
+    
+
         </div>
 
 
-      <div class="col-md-6 text-center img-padding">
-        <img class="img100100 mdc-elevation--z6" src="{{.Site.Data.frontpage.section1.img}}">
-      </div>
+      <div class=" visible-sm visible-xs ">
+          <div class="col-md-6 text-left  ">
+              <h2 class="section-heading title">
+                  {{.Site.Data.frontpage.section1.title | safeHTML }}
+              </h2>
+            
+              <p class="section-subheading text-muted">
+                  {{.Site.Data.frontpage.section1.content | safeHTML }}
+              </p>
+          </div>
+  
+  
+        <div class="col-md-6 text-center img-padding">
+          <img class="img100100 mdc-elevation--z6" src="{{.Site.Data.frontpage.section1.img}}">
+        </div>
+  
 
+      </div> 
+      
     </div>
   </div>
 </section>

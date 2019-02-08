@@ -361,7 +361,7 @@ section h2.section-heading {
 }
 .small-cat-fix-para{
     position: relative;
-    top:80px;
+    top:90px;
 }
 
 .small-cat-fix-margin{
@@ -1020,7 +1020,7 @@ body {
     .client-img{padding:20px 0px 20px 0px;}
     #contact{padding:50px 0 50px 0 !important;}
     .img2525{margin-left:0px;margin-right:0px;width:100%}
-    #banner { min-height: 8em;margin-bottom:50px}
+    #banner { min-height: 8em;margin-bottom:50px !important}
     .banner-img{
         position: absolute;
         top:15px;
@@ -1033,7 +1033,7 @@ body {
         left:10px;
         width: 7em;
         height:7em;
-        z-index: 1030;
+        z-index: 900;
        
     }
     .navbar-toggle{
@@ -1063,6 +1063,13 @@ body {
 
     .navbar-default .nav li a:hover {
         color:#8a995e;
+    }
+
+    .einkatimar-title-fix{
+        margin-top:50px !important;
+    }
+    .einkatimar-img-fix{
+        margin-top:0px !important;
     }
  }
 @media (min-width: 767px) and (max-width: 992px) { 
@@ -1190,7 +1197,7 @@ body {
     }
     .book-now {
         right:-5px;
-        top: 5em; 
+        top: 4em; 
         height:50px;
         font-size:24px;
         padding-top:7px;
@@ -1245,10 +1252,10 @@ height:100%;
 width:100%;
 }
 .img-big-adjustment{
-    margin-top:100px;
+    margin-top:80px;
 }
 .img-big-adjustment2{
-    margin-top:65px;
+    margin-top:50px;
 }
 .email-icon{
     color: red;
