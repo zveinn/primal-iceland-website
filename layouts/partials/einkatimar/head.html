@@ -5,9 +5,9 @@
 
   <meta name="ogurl" property="og:url"           content="{{.Site.Data.einkatimar.sharing.ogurl}}" />
   <meta name="ogtype" property="og:type"          content="{{.Site.Data.einkatimar.sharing.ogtype}}" />
-  <meta name="ogtitle" property="og:title"         content="{{.Site.Data.einkatimar.sharing.ogimage}}" />
-  <meta name="ogdescription" property="og:description"   content="{{.Site.Data.einkatimar.sharing.ogtitle | safeHTML }}" />
-  <meta name="ogimage" property="og:image"         content="{{.Site.Data.einkatimar.sharing.ogdescription}}" />
+  <meta name="ogtitle" property="og:title"         content="{{.Site.Data.einkatimar.sharing.ogtitle}}" />
+  <meta name="ogdescription" property="og:description"   content="{{.Site.Data.einkatimar.sharing.ogdescription | safeHTML }}" />
+  <meta name="ogimage" property="og:image"         content="{{.Site.Data.einkatimar.sharing.ogimage}}" />
 
   {{ partial "tracking-headers.html" . }}
   {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
