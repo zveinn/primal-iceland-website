@@ -1,4 +1,4 @@
-// Smooth scrolling via animate()
+ // Smooth scrolling via animate()
 
 $(document).ready(function(){
  
