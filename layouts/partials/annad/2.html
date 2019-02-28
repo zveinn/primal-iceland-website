@@ -2,20 +2,45 @@
   <div class="container container-right">
     <div class="row outside-right">
 
-        <div class="col-md-6 text-left left-column">
-            <h2 class="section-heading title">
-                {{.Site.Data.einkatimar.section2.title | safeHTML }}            
-              </h2>
-          
-            <p class="section-subheading text-muted">
-                {{.Site.Data.einkatimar.section2.content | safeHTML }}            
-              </p>
+        <div class=" hidden-sm hidden-xs"> 
+
+            <div class="col-md-6 text-left left-column">
+                <h2 class="section-heading title text-right">
+                    {{.Site.Data.einkatimar.section2.title | safeHTML }}            
+                  </h2>
+              
+                <p class="section-subheading text-muted">
+                    {{.Site.Data.einkatimar.section2.content | safeHTML }}            
+                  </p>
+            </div>
+    
+    
+          <div class="col-md-6 text-center right-column img-padding">
+            <img class="img100100 mdc-elevation--z6" src="{{.Site.Data.einkatimar.section2.img}}">
+          </div>
+        </div>  
+      
+      
+      
+      
+      <div class=" visible-sm visible-xs"> 
+          <div class="col-md-6 text-left left-column">
+              <h2 class="section-heading title text-left">
+                  {{.Site.Data.einkatimar.section2.title | safeHTML }}            
+                </h2>
+            
+              <p class="section-subheading text-muted">
+                  {{.Site.Data.einkatimar.section2.content | safeHTML }}            
+                </p>
+          </div>
+  
+  
+        <div class="col-md-6 text-center right-column img-padding">
+          <img class="img100100 mdc-elevation--z6" src="{{.Site.Data.einkatimar.section2.img}}">
         </div>
 
-
-      <div class="col-md-6 text-center right-column img-padding">
-        <img class="img100100 mdc-elevation--z6" src="{{.Site.Data.einkatimar.section2.img}}">
-      </div>
+        </div>
+ 
 
     </div>
   </div>

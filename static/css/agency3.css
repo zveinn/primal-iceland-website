@@ -699,7 +699,7 @@ section h3.section-subheading {
 .owner-size  {
     margin: 0 auto;
     border: 7px solid #f4b219;
-    max-width: 240px !important;
+    max-width: 220px !important;
 }
 .team-member img {
     margin: 0 auto;
@@ -998,6 +998,50 @@ body {
 }
 
 
+
+
+#testimonials{
+    padding:50px 0 50px 0 !important; 
+    background-color: #FFFFFF !important;
+}
+#testimonials .testimonials-header {
+    margin-bottom:100px;
+}
+
+.testimonial-item {
+    margin-bottom: 100px;
+    text-align: center;
+}
+.testimonial-item h3 {
+    text-transform: none;
+    font-weight: 600;
+    color: #f4b219;
+}
+.team-member p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.testimonial-size  {
+    margin: 0 auto;
+    border: 7px solid #f4b219;
+    max-width: 180px !important;
+}
+.testimonial-item img {
+    margin: 0 auto;
+    border: 7px solid #f4b219;
+    max-width: 90px;
+}
+.testimonial-item ul {
+    list-style: none;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 0;
+}
+
+
+
+
 @media (max-width: 767px) {
     .left-column{padding-bottom:50px;}
     .navbar-default {background-color: transparent !important;}
@@ -1008,7 +1052,7 @@ body {
     .client-img{padding:20px 0px 20px 0px;}
     #contact{padding:50px 0 50px 0 !important;}
     .img2525{margin-left:0px;margin-right:0px;width:100%}
-    #banner { min-height: 8em;margin-bottom:50px !important}
+    #banner { min-height: 0em;margin-bottom:00px !important}
     .banner-img{
         position: absolute;
         top:15px;
@@ -1063,6 +1107,8 @@ body {
     .timar-i-bodi-fix{
         margin-top:100px;
     }
+
+   
     
  }
 @media (min-width: 767px) and (max-width: 992px) { 
@@ -1073,13 +1119,13 @@ body {
     .clients{padding:100px 0 100px 0 !important;}
     .client-img{padding:20px 20px 20px 20px;}
     #contact{padding:50px 0 50px 0 !important;}
-    #banner { min-height: 15em;}
+    #banner { min-height: 7em;}
     .banner-img{
         position: absolute;
-        top:40px;
-        left:40px;
-        height:10em;
-        width: 10em;
+        top:90px;
+        left:20px;
+        height:40px;
+        width: 40px;
        
     }
     .banner-link{
