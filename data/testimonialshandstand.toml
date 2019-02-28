@@ -1,0 +1,75 @@
+
+  # ÞJÁLFARARNIR !
+  [testimonials]
+    enable = true
+
+    title = "Reynslusögur"
+    subtitle = ""
+    description = "Þeir sem komið hafa í handstöðu tíma hafa alltaf eithvað fallegt að segja.."
+
+    
+    [[testimonials.items]]
+      img = "thor.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
+     # social = [
+     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     # ]
+
+        [[testimonials.items]]
+      #img = "thor.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
+      social = [
+        ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      ]
+
+         [[testimonials.items]]
+      img = "thor.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
+     # social = [
+     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     # ]
+
+           [[testimonials.items]]
+      #img = "thor.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
+     # social = [
+     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     # ]
+
+
+           [[testimonials.items]]
+      #img = "thor.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
+      social = [
+        ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      ]
+
+
+      [[testimonials.items]]
+      img = "thor.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
+      social = [
+        ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      ]
+
+
+      [[testimonials.items]]
+      #img = "thor.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
+      social = [
+        ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      ]

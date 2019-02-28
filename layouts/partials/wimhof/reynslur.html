@@ -1,0 +1,85 @@
+{{ "<!-- Team Section -->" | safeHTML }}
+<section id="testimonials" class="bg-light-gray">
+  <div class="container">
+    <div class="row testimonials-header">
+
+
+          <div class="col-lg-12 text-center">
+              <h2 class="section-heading title">{{ with .Site.Data.testimonialswimhof.testimonials.title | safeHTML }}{{ . | markdownify }}{{ end }}</h2>
+              <h3 class="section-subheading text-mutedwith ">{{ with .Site.Data.testimonialswimhof.testimonials.description | safeHTML }}{{ . | markdownify }}{{ end }}</h3>
+            </div>
+    
+
+    </div>
+
+    <div class="row flexbox flexbox-center">
+      {{ range .Site.Data.testimonialswimhof.testimonials.items }}
+      {{ if .img }}
+        <div class="col-sm-4 col">
+          <div class="testimonial-item ">
+            
+            {{ with .img }}
+              {{ $url := printf "img/team/%s" . }}
+              <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle testimonial-size img-circle-bottom-margin" >
+            {{ end }}
+              
+
+            <h3>{{ .firstname | markdownify }}</h3>
+            <h3>{{ .lastname | markdownify }}</h3>
+
+       
+
+
+            {{ with .testimonial }}
+            <p class="testimonial-text">{{ . | markdownify }}</p>
+            {{ end }}
+
+
+            <ul class="list-inline social-buttons">
+                {{ range .social }}
+                  <li><a class=" background-primal-green mdc-elevation--z6" href="{{ index . 1 }}"><i class="color-white fab {{ index . 0 }}"></i></a></li>
+                {{ end }}
+              </ul>
+              
+          </div>
+        </div>
+        {{ end }}
+      {{ end }}
+
+
+      {{ range .Site.Data.testimonialswimhof.testimonials.items }}
+      {{ if not .img }}
+        <div class="col-sm-4 col">
+          <div class="testimonial-item ">
+            
+            {{ with .img }}
+              {{ $url := printf "img/team/%s" . }}
+              <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle testimonial-size img-circle-bottom-margin" >
+            {{ end }}
+              
+
+            <h3>{{ .firstname | markdownify }}</h3>
+            <h3>{{ .lastname | markdownify }}</h3>
+
+       
+
+
+            {{ with .testimonial }}
+            <p class="testimonial-text">{{ . | markdownify }}</p>
+            {{ end }}
+
+
+            <ul class="list-inline social-buttons">
+                {{ range .social }}
+                  <li><a class=" background-primal-green mdc-elevation--z6" href="{{ index . 1 }}"><i class="color-white fab {{ index . 0 }}"></i></a></li>
+                {{ end }}
+              </ul>
+              
+          </div>
+        </div>
+        {{ end }}
+      {{ end }}
+    </div>
+
+  </div>
+</section>
