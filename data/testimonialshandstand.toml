@@ -9,67 +9,20 @@
 
     
     [[testimonials.items]]
-      img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-     # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
-     # ]
-
         [[testimonials.items]]
       #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
-
-         [[testimonials.items]]
-      img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-     # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
-     # ]
-
-           [[testimonials.items]]
+      firstname = "Sigríður Birna"
+      lastname = "Ingadóttir"
+      testimonial = "<p>Handstöðunámskeiðið hjá Primal Iceland er algjörlega frábært! Helgi er súper fróður um handstöðuna og getur hratt og örugglega leiðrétt mann á æfingum. Maður lærir að beita sér rétt í handstöðu, ásamt því að læra æfingar til að byggja upp styrk og jafnvægi í stöðunni. Ég lærði heilan helling á námskeiðinu og mæli hiklaust með að fólk prófi!! </p>"
+      #social = [
+      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #]
+	   [[testimonials.items]]
       #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-     # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
-     # ]
-
-
-           [[testimonials.items]]
-      #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
-
-
-      [[testimonials.items]]
-      img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
-
-
-      [[testimonials.items]]
-      #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
+      firstname = "Úlfar Karl"
+      lastname = "Arnórsson"
+      testimonial = "<p>Skemmtilegt og hagnýtt námskeið sem er kennt á skilvirkan hátt og skilur eftir sig óendanlega möguleika á æfingum í framtíðinni. Aðstaðan og andrúmsloftið hjá Primal er einnig mjög afslappað og laust við allt óþarfa keppnisskap sem einkennir flest alla líkamsrækt í dag.</p>"
+      #social = [
+      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #]
+      
