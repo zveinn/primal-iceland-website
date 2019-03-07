@@ -8,25 +8,25 @@
     },
     "section1": {
         "img": "/img/annad/arnor.jpg",
-        "title": "Arnór Sveinsson",
-        "content": "<p>Boðið er upp á fjölbreytta einkatíma hjá Primal Iceland.</p> <p>Þjálfarar Primal búa allir yfir mikill reynslu og þekkingu í að aðstoða fólk, hvort sem um er að ræða skert lífsgæði vegna stoðkerfisverkja eða aðstoða íþróttafólk í bæta getu sína og afköst – og allt þar á milli.</p><p>Aðferðafræði okkar er einföld en skilvirk og hefur reynst skjólstæðingum okkar afar vel.</p>"
+        "title": "Yogaræs með Arnóri",
+        "content": "<p>Arnór Sveinsson leigir húsnæði Primal fyrir allskonar yoga, hugleiðslu og öndun.</p><p><b>Frekari upplýsingar</b>: <a href=https://www.yogaarise.com/>heimasíða</a> eða <a href=https://www.facebook.com/yogaraes/>Facebook síða</a></p>"
     },
 
     "section2": {
-        "img": "/img/annad/arnor.jpg",
-        "title": "Annað..",
-        "content": "<p>Boðið er upp á fjölbreytta einkatíma hjá Primal Iceland.</p> <p>Þjálfarar Primal búa allir yfir mikill reynslu og þekkingu í að aðstoða fólk, hvort sem um er að ræða skert lífsgæði vegna stoðkerfisverkja eða aðstoða íþróttafólk í bæta getu sína og afköst – og allt þar á milli.</p><p>Aðferðafræði okkar er einföld en skilvirk og hefur reynst skjólstæðingum okkar afar vel.</p>"
+        "img": "/img/annad/sirkus.png",
+        "title": "Sirkus Íslands",
+        "content": "<p>Sirkus Íslands leigir húsnæði Primal reglulega fyrir Æskusirkus sinn.</p><p><b>Frekari upplýsingar</b>: <a href=http://sirkusislands.is/>heimasíða</a> eða <a href=https://www.facebook.com/sirkusislands/>Facebook síða</a></p>"
     },
 
     "section3": {
-        "img": "/img/annad/arnor.jpg",
-        "title": "Annað..",
-        "content": "<p>Boðið er upp á fjölbreytta einkatíma hjá Primal Iceland.</p> <p>Þjálfarar Primal búa allir yfir mikill reynslu og þekkingu í að aðstoða fólk, hvort sem um er að ræða skert lífsgæði vegna stoðkerfisverkja eða aðstoða íþróttafólk í bæta getu sína og afköst – og allt þar á milli.</p><p>Aðferðafræði okkar er einföld en skilvirk og hefur reynst skjólstæðingum okkar afar vel.</p>"
+        "img": "/img/annad/akro.jpg",
+        "title": "Akró Ísland",
+        "content": "<p>Akró Ísland kennir reglulega byrjendanámskeið í Akró og er með opna laugardagstíma flesta laugardaga.</p><p><b>Frekari upplýsingar</b>: <a href=https://www.facebook.com/akroisland/>Facebook</a></p>"
     },
     "section4": {
-        "img": "/img/annad/arnor.jpg",
-        "title": "Annað..",
-        "content": "<p>Boðið er upp á fjölbreytta einkatíma hjá Primal Iceland.</p> <p>Þjálfarar Primal búa allir yfir mikill reynslu og þekkingu í að aðstoða fólk, hvort sem um er að ræða skert lífsgæði vegna stoðkerfisverkja eða aðstoða íþróttafólk í bæta getu sína og afköst – og allt þar á milli.</p><p>Aðferðafræði okkar er einföld en skilvirk og hefur reynst skjólstæðingum okkar afar vel.</p>"
+        "img": "/img/annad/haka.jpg",
+        "title": "Haka Iceland",
+        "content": "<p>Haka Iceland býður upp á námskeið fyrir bæði karla og konur á föstudagskvöldum.</p><p><b>Frekari upplýsingar</b>: <a href=https://www.facebook.com/hakaiceland/>Facebook síða</a></p>"
     },
     "section5": {
         "img": "/img/annad/arnor.jpg",

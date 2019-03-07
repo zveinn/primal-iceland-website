@@ -42,7 +42,7 @@
 
 
      [[team.coaches]]
-      img = "halla.jpg"
+      img = "alla.jpg"
       firstname = "Aðalheiður"
       lastname = "Jensen"
       position = "<p>Movement þjálfari</p>"
@@ -59,7 +59,7 @@
       ]
 
      [[team.coaches]]
-      img = "einar.jpg"
+      img = "david.jpg"
       firstname = "Davíð"
       lastname = "Haraldsson"
       position = "<p>Movement þjálfari</p>"
