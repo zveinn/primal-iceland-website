@@ -3,9 +3,9 @@
   [testimonials]
     enable = true
 
-    title = "Reynslusögur"
+    title = "Umsagnir"
     subtitle = ""
-    description = "Þeir sem komið hafa í handstöðu tíma hafa alltaf eithvað fallegt að segja.."
+    description = ""
 
     
     [[testimonials.items]]
