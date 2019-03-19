@@ -5,71 +5,32 @@
 
     title = "Reynslusögur"
     subtitle = ""
-    description = "Þeir sem komið hafa til Primal Iceland hafa alltaf eithvað fallegt að segja.."
+    description = ""
 
     
-    [[testimonials.items]]
-      img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-     # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
-     # ]
-
         [[testimonials.items]]
       #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
-
-         [[testimonials.items]]
-      img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
+      firstname = "Sigríður Birna"
+      lastname = "Ingadóttir"
+      testimonial = "<p>Handstöðunámskeiðið hjá Primal Iceland er algjörlega frábært! Helgi er súper fróður um handstöðuna og getur hratt og örugglega leiðrétt mann á æfingum. Maður lærir að beita sér rétt í handstöðu, ásamt því að læra æfingar til að byggja upp styrk og jafnvægi í stöðunni. Ég lærði heilan helling á námskeiðinu og mæli hiklaust með að fólk prófi!! </p>"
+      #social = [
+      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #]
+	  
+	 [[testimonials.items]]
+      #img = "thor.jpg"
+      firstname = "Sigurður"
+      lastname = "Ólafsson"
+      testimonial = "<p>Það er óhætt að segja að námskeiðið hafi farið fram úr mínum björtustu vonum,  kennarinn Þór Guðnason kemur efninu frá sér á yfirvegaðan, einlægan og faglegan hátt og aðstaðan er til fyrirmyndar. En fyrst og fremst fann ég strax í byrjun námskeiðsins hversu góð áhrif tímarnir og heimaæfingarnar höfðu á mig bæði líkamlega og andlega.  </p>"
      # social = [
      #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
      # ]
-
-           [[testimonials.items]]
+	 
+    [[testimonials.items]]
       #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
+      firstname = "Kjartan"
+      lastname = "Long"
+      testimonial = "<p>Ég gerði æfingarnar sem að þið kennduð mér fram að maraþoni sem ég hljóp í byrjun September. Í stuttu máli, þá bætti ég tímann minn um 45 mínútur og finn ekkert fyrir þeim meiðslum sem hrjáðu mig þegar að ég kom í tímann til ykkar.</p>"
      # social = [
      #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
      # ]
-
-
-           [[testimonials.items]]
-      #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
-
-
-      [[testimonials.items]]
-      img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
-
-
-      [[testimonials.items]]
-      #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]

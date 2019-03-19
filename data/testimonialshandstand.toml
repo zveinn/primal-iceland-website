@@ -8,7 +8,6 @@
     description = ""
 
     
-    [[testimonials.items]]
         [[testimonials.items]]
       #img = "thor.jpg"
       firstname = "Sigríður Birna"
