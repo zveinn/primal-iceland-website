@@ -17,6 +17,7 @@
       firstname = "Þór"
       lastname = "Guðnason"
       position = "<p>sérhæfir sig í kuldanum og öndunaræfingum.</p>"
+      bio = "long bio ..."
       social = [
         ["fa-instagram", "http://www.instagram.com/thorgudna"]
       ]
@@ -26,6 +27,7 @@
       firstname = "Helgi Freyr"
       lastname = " Rúnarsson"
       position = "<p>sérhæfir sig í handstöðum og liðleika.</p>"
+       bio = "long bio ..."
        social = [
         ["fa-instagram", "http://www.instagram.com/helgi_freyr"]
       ]
@@ -35,6 +37,7 @@
       firstname = "Einar Carl"
       lastname = "Alexsson"
       position = "<p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
+       bio = "long bio ..."
       social = [
         ["fa-instagram", "http://www.instagram.com/einarcarl"]
       ]
@@ -46,6 +49,7 @@
       firstname = "Aðalheiður"
       lastname = "Jensen"
       position = "<p>Movement þjálfari</p>"
+       bio = "long bio ..."
       social = [
       ]
 
@@ -54,6 +58,7 @@
       firstname = "Arnór"
       lastname = "Sveinsson"
       position = "<p>Yoga/Núvitundar þjálfari</p>"
+       bio = "long bio ..."
         social = [
          ["fa-facebook", "https://www.facebook.com/GeorgBjarnf"]
       ]
@@ -63,6 +68,7 @@
       firstname = "Davíð"
       lastname = "Haraldsson"
       position = "<p>Movement þjálfari</p>"
+       bio = "long bio ..."
       social = []
 
      [[team.coaches]]
@@ -70,6 +76,7 @@
       firstname = "Íris Huld"
       lastname = "Guðmundsdóttir"
       position = "<p>Movement þjálfari og Markþjálfari</p>"
+       bio = "long bio ..."
       social = []
 
 
@@ -78,6 +85,7 @@
       firstname = "Stefán Þór"
       lastname = "Friðriksson"
       position = "<p>Movement og Parkour þjálfari</p>"
+       bio = "long bio ..."
       social = [["fa-instagram", "https://www.instagram.com/stebbi696/"]]
 
 

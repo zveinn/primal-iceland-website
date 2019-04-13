@@ -1001,7 +1001,7 @@ body {
 
 
 #testimonials{
-    padding:50px 0 50px 0 !important; 
+    padding:0px 0 50px 0 !important; 
     background-color: #FFFFFF !important;
 }
 #testimonials .testimonials-header {
@@ -1046,7 +1046,7 @@ body {
     .left-column{padding-bottom:50px;}
     .navbar-default {background-color: transparent !important;}
     #about{padding:10px 0 100px 0 !important;}
-    #team{padding:50px 0 50px 0 !important; background-color: #FFFFFF !important;}
+    #team{padding:50px 0 10px 0 !important; background-color: #FFFFFF !important;}
     #coaches{padding:10px 0 50px 0 !important; background-color: #FFFFFF !important;}
     .clients{padding:100px 0 50px 0 !important;}
     .client-img{padding:20px 0px 20px 0px;}
@@ -1114,7 +1114,7 @@ body {
 @media (min-width: 767px) and (max-width: 992px) { 
     .left-column{padding-bottom:100px;}
     #about{padding:100px 0 200px 0 !important;}
-    #team{padding:50px 0 50px 0 !important; background-color: #FFFFFF !important;}
+    #team{padding:50px 0 10px 0 !important; background-color: #FFFFFF !important;}
     #coaches{padding:10px 0 50px 0 !important; background-color: #FFFFFF !important;}
     .clients{padding:100px 0 100px 0 !important;}
     .client-img{padding:20px 20px 20px 20px;}
@@ -1159,7 +1159,7 @@ body {
 @media (min-width: 992px) and (max-width: 1200px) {
     .left-column{padding-bottom:100px;}
     #about{padding:10px 0 200px 0 !important;}
-    #team{padding:50px 0 50px 0 !important; background-color: #FFFFFF !important;}
+    #team{padding:50px 0 10px 0 !important; background-color: #FFFFFF !important;}
     #coaches{padding:10px 0 50px 0 !important; background-color: #FFFFFF !important;}
 
     .clients{padding:100px 0 100px 0 !important;}
@@ -1213,7 +1213,7 @@ body {
     .left-column{padding-bottom:100px;}
 
     #about{padding:200px 0 200px 0 !important;}
-    #team{padding:20px 0 50px 0 !important; background-color: #FFFFFF !important;}
+    #team{padding:20px 0 10px 0 !important; background-color: #FFFFFF !important;}
     #coaches{padding:10px 0 50px 0 !important; background-color: #FFFFFF !important;}
 
     .clients{padding:100px 0 100px 0 !important;}
@@ -1466,4 +1466,8 @@ section {
 .background-primal-green{background-color:#8a995e !important;}
 .frontpage-image-padding-fix{
     padding-bottom:0px !important; 
+}
+
+.media-link{
+    margin-bottom:10px !important;
 }

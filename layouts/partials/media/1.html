@@ -1,0 +1,27 @@
+
+
+<section id="media" >
+  <div class="container container-right">
+<div class="row outside-right">
+
+  {{ range .Site.Data.media.items }}
+  <div class="col-sm-12 col text-center">
+
+        {{ if (eq .type "link")}}
+    <a href="{{ .link | absURL }}"><h3 class="media-link" > {{ .text | markdownify }}</h3></a>
+     {{end}}
+
+     {{ if (eq .type "audio")}}
+     <a href="{{ .link | absURL }}"><h3 class="media-link" >Hljóð: {{ .text | markdownify }}</h3></a>
+      {{end}}
+
+      {{ if (eq .type "video")}}
+      <a href="{{ .link | absURL }}"><h3 class="media-link" >Vídeo: {{ .text | markdownify }}</h3></a>
+       {{end}}
+  </div>
+{{ end }}
+</div>
+
+    
+</div>
+</section>

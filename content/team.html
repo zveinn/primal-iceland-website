@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+  {{ partial "annad/head.html" . }}
+
+  <body id="page-top" class="index">
+    {{ partial "nav.html" . }}
+    {{ partial "team/book.html" . }}
+    {{ partial "hero.html" . }}
+    {{ partial "team/1.html" . }}
+    {{ partial "js.html" . }}
+  </body>
+</html>
