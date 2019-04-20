@@ -40,11 +40,12 @@ theme = ""
     movement = "Movement"
     handstand = "Handstöður"
     annad = "Annað"
-     media = "Fjölmiðlar"
+    media = "Fjölmiðlar"
     wimhof = "Wim Hof"
     #about = "Um Okkur"
     team = "Teymið"
     einkatimar = "Einkatímar"
+    contact = "Hafa Samband"
 
     # Tracking
   [params.tracking]
