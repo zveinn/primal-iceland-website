@@ -5,7 +5,7 @@
     # Possibility to center items
     #center = true
     ownerTitle = "Eigendur"
-    coachTitle = "Þjálfarateymi"
+    coachTitle = "Þjálfarar"
     subtitle = ""
     description = ""
 
@@ -75,7 +75,7 @@
       img = "iris.jpg"
       firstname = "Íris Huld"
       lastname = "Guðmundsdóttir"
-      position = "<p>Movement þjálfari og Markþjálfari</p>"
+      position = "<p>Movement þjálfari og Markþjálfi</p>"
        bio = "long bio ..."
       social = []
 
