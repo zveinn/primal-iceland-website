@@ -1477,3 +1477,7 @@ section {
 .dropdown-menu li {
     z-index: 1101;
 }
+
+.dropdown-li:hover{
+    color: #8a995e !important;
+}
