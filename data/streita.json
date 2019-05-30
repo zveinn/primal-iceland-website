@@ -1,0 +1,52 @@
+{
+    "sharing" : {
+        "ogurl":"http://primal-iceland.zkynet.io/streita/",
+        "ogtype":"website",
+        "ogimage":"http://primal-iceland.zkynet.io/img/streita/1.png",
+        "ogtitle":"Primal Iceland Sigrum Streituna !",
+        "ogdescription":"these classes  are awesome !"
+    },
+    "section1": {
+        "img": "/img/streita/1.jpg",
+        "title": "Er hið daglega amstur að hafa áhrif á heilsu þína?",
+        "content": "<p>Námskeiðið Sigrum Streituna er fyrir alla þá sem vilja komast út úr vítahring streitunnar, bæta andlega og líkamlega heilsu sína og endurheimta orkuna á ný.</p>"
+    },
+
+    "section2": {
+        "img": "/img/streita/2.png",
+        "title": "Námskeiðslýsing",
+        "content": "Á námskeiðinu er kennd öndunartækni sem dregur úr streitu og kvíða auk liðleika- og teygjuæfinga sem stuðla að aukinni hreyfigetu og vellíðunar í stoðkerfi"
+    },
+
+    "section3": {
+        "img": "/img/streita/4.png",
+        "title": "Upplýsingar",
+        "content": "Námskeiðið fer fram í lokuðum hópi, 2x í viku klukkustund í senn.  Þriðjudags og fimmtudagsmorgna kl. 08.20 Hvert námskeið stendur yfir í 4 vikur Verð 22.900 kr. Næstu námskeið byrja 4. júní."
+    },
+    "section4": {
+        "img": "/img/streita/4.jpg",
+        "title": "Krakka námskeið",
+        "content": "<p>Ekki hefur verið ákveðið hvenær næsta handstöðunámskeið fyrir krakka verður en endilega sendið póst á helgi@primal.is ef áhugi er fyrir hendi.</p><p>Námskeiðið hentar öllum, hvort sem um er að ræða fyrstu skrefin í átt að handstöðu eða ef nemandi kann að standa á höndum. Allir fá persónulega handleiðslu miðað við þeirra getu.</p><p>Á námskeiðinu munum við einnig skoða liðleikaþjálfun að hætti Primal Iceland.</p>"
+    },
+    "section5": {
+        "img": "/img/streita/8.jpg",
+        "title": "Framhalds námskeið",
+        "content": "<p><b>Hvenær:</b>17. og 24. febrúar og 3. og 10. mars</p><p><b>Hópur 1</b>: 13:30-14:45</p><p><b>Verð</b>: 12.000 kr</p><p><b>Kennari</b>: Helgi Freyr</p><p>Á framhaldsnámskeiðinu verður byggt á grunni byrjendanámskeiðsins. Hvernig við betri stjórn á jafnvæginu og fyrstu skref í átt að handstöðupressum og handstöðu á annarri hönd.</p>"
+    },
+    "section6": {
+        "img": "/img/streita/6.jpg",
+        "title": "Lokuð námskeið og einkatímar",
+        "content": "<p>Við bjóðum upp á námskeið fyrir íþróttafélög og aðra hópa þar sem að handstöður koma við sögu.</p><p>Dæmi um það eru CrossFit stöðvar, fimleikafélög og dansarar.</p><p>Einnig bjóðum við upp á einkatíma í handstöðum.</p><p>Fyrir frekari upplýsingar, hafið samband í gegnum tölvupóst á helgi@primal.is</p>"
+    },
+    "section7": {
+        "img": "/img/streita/alla.jpg",
+        "title": "Reynslusögur",
+        "content": "<p><blockquote></blockquote></p><p></p>"
+    },
+    "section8": {
+        "img": "/img/streita/alla.jpg",
+        "title": "Reynslusögur",
+        "content": ""
+    }
+    
+ }

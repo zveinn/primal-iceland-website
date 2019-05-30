@@ -16,15 +16,22 @@
       <ul class="nav navbar-nav navbar-right">
 
         <li class="hidden"><a href="{{ if .IsHome }}/#page-top{{ else }}{{ .Site.BaseURL }}{{ end }}"></a> </li>
-          <li><a class="page-scroll" href="/wimhof">{{ with .Site.Params.navigation.wimhof }}{{ . }}{{ end }}</a></li>
+        <li><a class="page-scroll" href="/team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a></li>
+           <li><a class="page-scroll" href="/einkatimar">{{ with .Site.Params.navigation.einkatimar }}{{ . }}{{ end }}</a></li>
+<li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Námskeið<span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+ <li><a class="page-scroll" href="/wimhof">{{ with .Site.Params.navigation.wimhof }}{{ . }}{{ end }}</a></li>
            <li><a class="page-scroll" href="/movement">{{ with .Site.Params.navigation.movement }}{{ . }}{{ end }}</a></li>
           <li><a class="page-scroll" href="/handstand">{{ with .Site.Params.navigation.handstand }}{{ . }}{{ end }}</a></li>
-          <li><a class="page-scroll" href="/einkatimar">{{ with .Site.Params.navigation.einkatimar }}{{ . }}{{ end }}</a></li>
-
+       
+             <li><a class="page-scroll" href="/streita">{{ with .Site.Params.navigation.streita }}{{ . }}{{ end }}</a></li>
+            </ul>
+          </li>
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Meira <span class="caret"></span></a>
             <ul class="dropdown-menu" role="menu">
-                <li><a class="page-scroll dropdown-li" href="/team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a></li>
+            
               <li><a class="page-scroll  dropdown-li" href="/annad">{{ with .Site.Params.navigation.annad }}{{ . }}{{ end }}</a></li>
               <li> <a class="page-scroll  dropdown-li" href="/media">{{ with .Site.Params.navigation.media }}{{ . }}{{ end }}</a></li>
               <li> <a class="page-scroll dropdown-li" href="{{ .Site.BaseURL }}/#contact">{{ with .Site.Params.navigation.contact }}{{ . }}{{ end }}</a></li>
