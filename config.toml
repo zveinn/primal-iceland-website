@@ -39,13 +39,14 @@ theme = ""
     #logo = "logo.svg"
     movement = "Movement"
     handstand = "Handstöður"
-    annad = "Annað"
+    annad = "Önnur Námskeið"
     media = "Fjölmiðlar"
     wimhof = "Wim Hof"
     #about = "Um Okkur"
     team = "Teymið"
     einkatimar = "Einkatímar"
     contact = "Hafa Samband"
+    streita = "Sigrum Streituna"
 
     # Tracking
   [params.tracking]
