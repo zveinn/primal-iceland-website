@@ -5,71 +5,37 @@
 
     title = "Reynslusögur"
     subtitle = ""
-    description = "Þeir sem komið hafa í movement tíma hafa alltaf eithvað fallegt að segja.."
+    description = ""
 
     
     [[testimonials.items]]
-      img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
+      #img = "thor.jpg"
+      firstname = "Eiríkur"
+      lastname = "Jóhannsson"
+      testimonial = "<p>Movement tímarnir hjá Primal hafa gert ótrúlega hluti fyrir bataferli mitt eftir tvöfalt brjósklos í mjóbaki og mikla hömlun í hreyfanleika. Eftir aðeins 6 mánuði hefur verið mikil framför í liðleika en ekki síður í alhliða styrk. Þetta hefur gert það að veruleika að ég er farinn að geta æft mínar uppáhalds íþróttir að fullum þunga eins og hjól, hlaup og sund án verkja. Tímarnir er mjög fjölbreyttir með blöndu af leikjum, liðleika- og styrktaræfingum með eigin líkamsþyngd.</p>"
+      #Fyrir mér er það algjör gæðastund að fara í Movement tímana þar sem þjálfararnir ná alltaf að kalla fram æfingar sem koma manni á óvart og ýta manni örlítið lengra og árangurinn lætur ekki á sér standa. Ég get sagt með sanni að enginn tími er eins svo mikil er fjölbreytnin og mjög oft sem við skemmtum okkur konunglega við að fara hressilega út fyrir þægindarammann í tilraunum til þess að fara í splitt á gamalsaldri eða að standa á höndum sem ég held að flestir afskrifi mjög snemma á ævinni. Tvímælalaust þess virði að prófa Movement tímana.</p>"
      # social = [
      #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
      # ]
 
         [[testimonials.items]]
       #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
-
-         [[testimonials.items]]
-      img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-     # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
-     # ]
-
-           [[testimonials.items]]
+      firstname = "Kristín"
+      lastname = "Stefánsdóttir"
+      testimonial = "<p>Snilldar líkams og hugrækt, frábær stemmning, mikil áskorun þar sem hugur og hönd fær að vinna í gleði í fjölbreyttum æfingum sem efla styrk, þrótt, liðleika og getu okkar til að vera besta útgáfan af okkur, þetta fær mann til að skína, mæli með þessu, besta heilbrigðasta likamsræktin sem ég þekki og hef ég prófað mjög margt.</p>"
+      #social = [
+       # ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #]
+      
+        [[testimonials.items]]
       #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-     # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
-     # ]
+      firstname = "Aðalheiður"
+      lastname = "Guðmundsdóttir"
+      testimonial = "<p>Ég er mjög ánægð með Movement tímana. Þjálfararnir eru mjög metnaðarfull. Þau hafa með hafsjó af þekkingu um líkamann og hvernig er hægt að vinna úr þínum styrkleikum og áskorunum með ákveðnum æfingum. Mikil fjölbreyttni í tímum og einnig alltaf nýjar útfærslur á æfingum.</p>"
+      #social = [
+      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #]
 
+      
+      
 
-           [[testimonials.items]]
-      #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
-
-
-      [[testimonials.items]]
-      img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
-
-
-      [[testimonials.items]]
-      #img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      testimonial = "<p>kbufibsidf sidhfiu shdiufh siduhf ishudfih usdiufh iusdhfi uhsiduhf ishdifh sidhf .</p>"
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
