@@ -24,4 +24,12 @@
       #social = [
       #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
       #]
+        [[testimonials.items]]
+      #img = "thor.jpg"
+      firstname = "Aron"
+      lastname = "Baldursson"
+      testimonial = "<p>Ég sótti handstöðunámskeið hjá Primal. Mér þótti það mjög skemmtilegt og fræðandi. Kennarinn var mjög góður og þægilegur sem vissi hvað hann var að tala um. Hann kemur efninu frá sér þannig að hver og einn fái æfingar við hæfi og reyndist námskeiðið mér mjög vel. Einnig var gott aðhald utan námskeiðsins með myndböndum og heimavinnu. Ég mæli með námskeiðinu fyrir alla þá sem vilja kynnast handstöðu á skemmtilegan og góðan máta.</p>"
+      #social = [
+      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #]
       
