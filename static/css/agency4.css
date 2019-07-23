@@ -1116,7 +1116,7 @@ body {
     .clients{padding:100px 0 100px 0 !important;}
     .client-img{padding:20px 20px 20px 20px;}
     #contact{padding:50px 0 50px 0 !important;}
-    #banner { min-height: 7em;}
+    #banner { min-height: 7em;margin-bottom:30px !important;}
     .banner-img{
         position: absolute;
         top:90px;
@@ -1444,8 +1444,26 @@ section {
      
     }
 }
-
-
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 1000px;
+}
+.social-icon-mobile-li {
+    height:40px;
+}
+.mobile-menu-social-float{
+    float:left;
+}
+.menu-social-link{
+    padding-top:10px !important;
+    padding-right:0px !important;
+}
+.menu-social-icon {
+    font-size: 26px;
+    line-height: 0;
+}
+.menu-social-link:hover i {
+color:#f4b219  !important;
+}
 .color-light-blue {color: lightblue !important;}
 .color-white {color: white !important;}
 .color-yellow-theme {color: #000 !important;}
@@ -1461,6 +1479,7 @@ section {
 .background-heat-cold {background-color: #19a3f9 !important;}
 .background-primal-orange{background-color: #f4b219 !important}
 .background-primal-green{background-color:#8a995e !important;}
+.background-primal-brown{background-color:#6b492b !important;}
 .frontpage-image-padding-fix{
     padding-bottom:0px !important; 
 }

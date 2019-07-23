@@ -16,11 +16,8 @@
       <ul class="nav navbar-nav navbar-right">
 
         <li class="hidden"><a href="{{ if .IsHome }}/#page-top{{ else }}{{ .Site.BaseURL }}{{ end }}"></a> </li>
-        <li><a class="page-scroll" href="/team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a></li>
-           <li><a class="page-scroll" href="/einkatimar">{{ with .Site.Params.navigation.einkatimar }}{{ . }}{{ end }}</a></li>
-
-
-           <li class="dropdown">
+        <!-- <li><a class="page-scroll" href="/team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a></li> -->
+        <li class="dropdown">
 
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Námskeið<span class="caret"></span></a>
             <ul class="dropdown-menu" role="menu">
@@ -31,6 +28,10 @@
              <li><a class="page-scroll dropdown-li" href="/streita">{{ with .Site.Params.navigation.streita }}{{ . }}{{ end }}</a></li>
             </ul>
           </li>
+           <li><a class="page-scroll" href="/einkatimar">{{ with .Site.Params.navigation.einkatimar }}{{ . }}{{ end }}</a></li>
+
+
+   
 
 
           <li class="dropdown">
@@ -42,17 +43,35 @@
               <li> <a class="page-scroll dropdown-li" href="{{ .Site.BaseURL }}/#contact">{{ with .Site.Params.navigation.contact }}{{ . }}{{ end }}</a></li>
             </ul>
           </li>
+
+
+           <li>
+                      <a  class="page-scroll menu-social-link" href="https://www.facebook.com/primaliceland">
+          <i class=" mdc-elevation--z6 menu-social-icon fab fa-facebook color-white "></i></a>
+            </li>
+
+           <li>
+                      <a  class="page-scroll menu-social-link" href="https://vimeo.com/user93018690">
+          <i class=" mdc-elevation--z6 menu-social-icon fab fa-vimeo color-white "></i></a>
+            </li>
       </ul>
         </div>
         <div class=" visible-xs ">
             <ul class="nav navbar-nav navbar-right">
     
                 <li class="hidden"><a href="{{ if .IsHome }}/#page-top{{ else }}{{ .Site.BaseURL }}{{ end }}"></a> </li>
+                  <li class="social-icon-mobile-li">
+                                          <a  class=" mobile-menu-social-float page-scroll menu-social-link" href="https://www.facebook.com/primaliceland">
+          <i class=" mdc-elevation--z6 menu-social-icon fab fa-facebook color-white "></i></a>
+                                <a  class="mobile-menu-social-float page-scroll menu-social-link" href="https://vimeo.com/user93018690">
+          <i class=" mdc-elevation--z6 menu-social-icon fab fa-vimeo color-white "></i></a>
+                  
+                  </li>
                   <li><a class="page-scroll" href="/wimhof">{{ with .Site.Params.navigation.wimhof }}{{ . }}{{ end }}</a></li>
                    <li><a class="page-scroll" href="/movement">{{ with .Site.Params.navigation.movement }}{{ . }}{{ end }}</a></li>
                   <li><a class="page-scroll" href="/handstand">{{ with .Site.Params.navigation.handstand }}{{ . }}{{ end }}</a></li>
                   <li><a class="page-scroll" href="/einkatimar">{{ with .Site.Params.navigation.einkatimar }}{{ . }}{{ end }}</a></li>
-                        <li><a class="page-scroll" href="/team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a></li>
+                        <!-- <li><a class="page-scroll" href="/team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a></li> -->
                       <li><a class="page-scroll" href="/annad">{{ with .Site.Params.navigation.annad }}{{ . }}{{ end }}</a></li>
                       <li> <a class="page-scroll" href="/media">{{ with .Site.Params.navigation.media }}{{ . }}{{ end }}</a></li>
                       <li> <a class="page-scroll" href="{{ .Site.BaseURL }}/#contact">{{ with .Site.Params.navigation.contact }}{{ . }}{{ end }}</a></li>
