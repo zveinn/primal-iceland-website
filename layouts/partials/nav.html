@@ -4,9 +4,8 @@
     <div class="navbar-header page-scroll">
       <button type="button" class="navbar-toggle mdc-elevation--z6" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
         <span class="sr-only">Toggle navigation</span>
-       Hvað er í boði ?
+       | | |
       </button>
-
     </div>
     {{ "<!-- Collect the nav links, forms, and other content for toggling -->" | safeHTML }}
     <div class="collapse navbar-collapse  menu-padding" id="bs-example-navbar-collapse-1">
@@ -45,14 +44,20 @@
           </li>
 
 
+
+           <li>
+                      <a  class="page-scroll menu-social-link" href="mailto:primal&#64;primal.is">
+          <i class=" menu-social-icon fa fa-at color-white "></i></a>
+                      </li>
+            
            <li>
                       <a  class="page-scroll menu-social-link" href="https://www.facebook.com/primaliceland">
-          <i class=" mdc-elevation--z6 menu-social-icon fab fa-facebook color-white "></i></a>
+          <i class="menu-social-icon fab fa-facebook color-white "></i></a>
             </li>
 
            <li>
                       <a  class="page-scroll menu-social-link" href="https://vimeo.com/user93018690">
-          <i class=" mdc-elevation--z6 menu-social-icon fab fa-vimeo color-white "></i></a>
+          <i class=" menu-social-icon fab fa-vimeo color-white "></i></a>
             </li>
       </ul>
         </div>
@@ -65,7 +70,8 @@
           <i class=" mdc-elevation--z6 menu-social-icon fab fa-facebook color-white "></i></a>
                                 <a  class="mobile-menu-social-float page-scroll menu-social-link" href="https://vimeo.com/user93018690">
           <i class=" mdc-elevation--z6 menu-social-icon fab fa-vimeo color-white "></i></a>
-                  
+                              <a  class="mobile-menu-social-float page-scroll menu-social-link" href="mailto:primal&#64;primal.is">
+          <i class=" mdc-elevation--z6 menu-social-icon fa fa-at color-white "></i></a> 
                   </li>
                   <li><a class="page-scroll" href="/wimhof">{{ with .Site.Params.navigation.wimhof }}{{ . }}{{ end }}</a></li>
                    <li><a class="page-scroll" href="/movement">{{ with .Site.Params.navigation.movement }}{{ . }}{{ end }}</a></li>

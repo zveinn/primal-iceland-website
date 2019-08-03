@@ -1006,6 +1006,7 @@ body {
 }
 
 .testimonial-item {
+    padding: 0px 20px 0px 20px;
     margin-bottom: 100px;
     text-align: center;
 }
