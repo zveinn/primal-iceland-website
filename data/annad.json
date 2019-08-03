@@ -2,9 +2,9 @@
     "sharing" : {
         "ogurl":"http://primal-iceland.zkynet.io/einkatimar/",
         "ogtype":"website",
-        "ogimage":"http://primal-iceland.zkynet.io/img/einka/2.jpg",
-        "ogtitle":"Önnur starfsemi í húsnæði Primal",
-        "ogdescription":""
+        "ogimage":"http://primal-iceland.zkynet.io/img/annad/arnor.jpg",
+        "ogtitle":"öðurvísi tímar hjá Primal Iceland",
+        "ogdescription":"Nokkrir aðilar og hópar leigja salinn okkar reglulega undir sína starfsemi."
     },
     "section1": {
         "img": "/img/annad/arnor.jpg",

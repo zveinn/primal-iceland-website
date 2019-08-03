@@ -2,9 +2,9 @@
     "sharing" : {
         "ogurl":"http://primal-iceland.zkynet.io/streita/",
         "ogtype":"website",
-        "ogimage":"http://primal-iceland.zkynet.io/img/streita/1.png",
-        "ogtitle":"Primal Iceland Sigrum Streituna !",
-        "ogdescription":"these classes  are awesome !"
+        "ogimage":"http://primal-iceland.zkynet.io/img/streita/1.jpg",
+        "ogtitle":"Sigrum Streituna",
+        "ogdescription":"Námskeiðið Sigrum Streituna er fyrir alla þá sem vilja komast út úr vítahring streitunnar, bæta andlega og líkamlega heilsu sína og endurheimta orkuna á ný. Á námskeiðinu er kennd öndunartækni sem dregur úr streitu og kvíða auk liðleika- og teygjuæfinga sem stuðlaað aukinni hreyfigetu og vellíðunar í stoðkerfi.s"
     },
     "section1": {
         "img": "/img/streita/1.jpg",
