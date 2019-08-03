@@ -8,7 +8,7 @@
   <meta name="twitter:title" property="og:title"         content="{{.Site.Data.handstand.sharing.ogtitle}}" />
   <meta name="twitter:description" property="og:description"   content="{{.Site.Data.handstand.sharing.ogdescription | safeHTML }}" />
   <meta name="twitter:image" property="og:image"         content="{{.Site.Data.handstand.sharing.ogimage}}" />
-
+<meta name="twitter:card" content="summary_large_image">
   {{ partial "tracking-headers.html" . }}
   {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
   {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
