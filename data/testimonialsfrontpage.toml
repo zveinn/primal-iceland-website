@@ -1,0 +1,32 @@
+
+  # ÞJÁLFARARNIR !
+  [testimonials]
+    enable = true
+
+    title = "Umsagnir"
+    subtitle = ""
+    description = ""
+
+    
+    
+           [[testimonials.items]]
+      img = "thor.jpg"
+      firstname = "Kjartan"
+      lastname = "Long"
+      class = "Movement Improvement"
+      testimonial = "<p>Ég gerði æfingarnar sem að þið kennduð mér fram að maraþoni sem ég hljóp í byrjun September. Í stuttu máli, þá bætti ég tímann minn um 45 mínútur og finn ekkert fyrir þeim meiðslum sem hrjáðu mig þegar að ég kom í tímann til ykkar.</p>"
+     # social = [
+     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     # ]
+
+      [[testimonials.items]]
+      img = "thor.jpg"
+      firstname = "Guðrún"
+      lastname = "Þorleifsdóttir"
+      class = "Handstöður"
+      testimonial = "<p>Ég gerði allt sem sett var fyrir og gaf ekkert eftir. Strax eftir fyrsta tímann leið mér betur. Eftir fjórar vikur af æfingum var ég orðin ný manneskja. Núna þremur mánuðum síðar er ég full af orku og verkirnir á miklu undanhaldi. Ég nýt þess að stunda æfingarnar mínir og er spennt að halda áfram í átt að enn betri heilsu. Takk Primal Iceland fyrir að færa mér heilsuna mína aftur. </p>"
+     # social = [
+     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     # ]
+
+	 

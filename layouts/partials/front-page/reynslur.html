@@ -16,21 +16,21 @@
 
 
 
-
-      {{ range .Site.Data.testimonialseinkatimar.testimonials.items }}
-      {{ if not .img }}
+      {{ range .Site.Data.testimonialsfrontpage.testimonials.items }}
+     
         <div class="col-sm-4 col">
           <div class="testimonial-item ">
-            
+            {{ if not .img }} 
             {{ with .img }}
               {{ $url := printf "img/team/%s" . }}
               <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle testimonial-size img-circle-bottom-margin" >
             {{ end }}
-              
+               {{ end }}
 
-            <h3>{{ .firstname | markdownify }}</h3>
-            <h3>{{ .lastname | markdownify }}</h3>
-
+            <h3>{{ .firstname | markdownify }} {{ .lastname | markdownify }}</h3>
+            <h4> - </h4>
+<h4>{{ .class | markdownify }}</h4>
+<br>
        
 
 
@@ -47,107 +47,10 @@
               
           </div>
         </div>
-        {{ end }}
-      {{ end }}
-
-      {{ range .Site.Data.testimonialsmovement.testimonials.items }}
-      {{ if not .img }}
-        <div class="col-sm-4 col">
-          <div class="testimonial-item ">
-            
-            {{ with .img }}
-              {{ $url := printf "img/team/%s" . }}
-              <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle testimonial-size img-circle-bottom-margin" >
-            {{ end }}
-              
-
-            <h3>{{ .firstname | markdownify }}</h3>
-            <h3>{{ .lastname | markdownify }}</h3>
-
        
-
-
-            {{ with .testimonial }}
-            <p class="testimonial-text">{{ . | markdownify }}</p>
-            {{ end }}
-
-
-            <ul class="list-inline social-buttons">
-                {{ range .social }}
-                  <li><a class=" background-primal-green mdc-elevation--z6" href="{{ index . 1 }}"><i class="color-white fab {{ index . 0 }}"></i></a></li>
-                {{ end }}
-              </ul>
-              
-          </div>
-        </div>
-        {{ end }}
       {{ end }}
 
-      {{ range .Site.Data.testimonialshandstand.testimonials.items }}
-      {{ if not .img }}
-        <div class="col-sm-4 col">
-          <div class="testimonial-item ">
-            
-            {{ with .img }}
-              {{ $url := printf "img/team/%s" . }}
-              <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle testimonial-size img-circle-bottom-margin" >
-            {{ end }}
-              
-
-            <h3>{{ .firstname | markdownify }}</h3>
-            <h3>{{ .lastname | markdownify }}</h3>
-
-       
-
-
-            {{ with .testimonial }}
-            <p class="testimonial-text">{{ . | markdownify }}</p>
-            {{ end }}
-
-
-            <ul class="list-inline social-buttons">
-                {{ range .social }}
-                  <li><a class=" background-primal-green mdc-elevation--z6" href="{{ index . 1 }}"><i class="color-white fab {{ index . 0 }}"></i></a></li>
-                {{ end }}
-              </ul>
-              
-          </div>
-        </div>
-        {{ end }}
-      {{ end }}
-
-      {{ range .Site.Data.testimonialswimhof.testimonials.items }}
-      {{ if not .img }}
-        <div class="col-sm-4 col">
-          <div class="testimonial-item ">
-            
-            {{ with .img }}
-              {{ $url := printf "img/team/%s" . }}
-              <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle testimonial-size img-circle-bottom-margin" >
-            {{ end }}
-              
-
-            <h3>{{ .firstname | markdownify }}</h3>
-            <h3>{{ .lastname | markdownify }}</h3>
-
-       
-
-
-            {{ with .testimonial }}
-            <p class="testimonial-text">{{ . | markdownify }}</p>
-            {{ end }}
-
-
-            <ul class="list-inline social-buttons">
-                {{ range .social }}
-                  <li><a class=" background-primal-green mdc-elevation--z6" href="{{ index . 1 }}"><i class="color-white fab {{ index . 0 }}"></i></a></li>
-                {{ end }}
-              </ul>
-              
-          </div>
-        </div>
-        {{ end }}
-      {{ end }}
+    
 
     </div>
 
