@@ -13,37 +13,40 @@
       img = "thor.jpg"
       firstname = "Kjartan"
       lastname = "Long"
-      class = "Movement Improvement"
+      class = "Einkatímar"
       testimonial = "<p>Ég gerði æfingarnar sem að þið kennduð mér fram að maraþoni sem ég hljóp í byrjun September. Í stuttu máli, þá bætti ég tímann minn um 45 mínútur og finn ekkert fyrir þeim meiðslum sem hrjáðu mig þegar að ég kom í tímann til ykkar.</p>"
      # social = [
      #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
      # ]
 
+     
+     [[testimonials.items]]
+      img = "thor.jpg"
+      firstname = "Eiríkur"
+      lastname = "Jóhannsson"
+      class = "Movement"
+      testimonial = "<p>Movement tímarnir hjá Primal hafa gert ótrúlega hluti fyrir bataferli mitt eftir tvöfalt brjósklos í mjóbaki og mikla hömlun í hreyfanleika. Eftir aðeins 6 mánuði hefur verið mikil framför í liðleika en ekki síður í alhliða styrk. Þetta hefur gert það að veruleika að ég er farinn að geta æft mínar uppáhalds íþróttir að fullum þunga eins og hjól, hlaup og sund án verkja. Tímarnir er mjög fjölbreyttir með blöndu af leikjum, liðleika- og styrktaræfingum með eigin líkamsþyngd.</p>"
+     # social = [
+     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     # ]
+     
       [[testimonials.items]]
       img = "thor.jpg"
-      firstname = "Guðrún"
-      lastname = "Þorleifsdóttir"
+      firstname = "Lea Marie"
+      lastname = "Galgana"
       class = "Handstöður"
-      testimonial = "<p>Ég gerði allt sem sett var fyrir og gaf ekkert eftir. Strax eftir fyrsta tímann leið mér betur. Eftir fjórar vikur af æfingum var ég orðin ný manneskja. Núna þremur mánuðum síðar er ég full af orku og verkirnir á miklu undanhaldi. Ég nýt þess að stunda æfingarnar mínir og er spennt að halda áfram í átt að enn betri heilsu. Takk Primal Iceland fyrir að færa mér heilsuna mína aftur. </p>"
+      testimonial = "<p>Aldrei hefði mig grunað hvað einfaldir hlutir sem eru á allra færi eins og að anda og kæla gæti gert fyrir heilsuna mína og bætt lífsgæði mín til muna.  Þetta námskeið fór svo langt fram úr væntingum og kennarinn náði að miðla þekkingu sinni og reynslu svo einstaklega vel og af mikilli einlægni.  Ég er svo ævinlega þakklát fyrir þann bata sem ég hef náð á svona skömmum tíma og allt sem ég hef lært á þessu námskeiði.  Ég á eftir að nýta það óspart og njóta sem ekki bara hluta af mínum bataferli heldur sem hluta af breyttum og bættum lífsstíl. Kærar þakkir fyrir mig Þór og Primal Iceland!</p>"
      # social = [
      #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
      # ]
 
 	 
+      
       [[testimonials.items]]
       img = "thor.jpg"
       firstname = "Guðrún"
       lastname = "Þorleifsdóttir"
-      class = "Handstöður"
-      testimonial = "<p>Ég gerði allt sem sett var fyrir og gaf ekkert eftir. Strax eftir fyrsta tímann leið mér betur. Eftir fjórar vikur af æfingum var ég orðin ný manneskja. Núna þremur mánuðum síðar er ég full af orku og verkirnir á miklu undanhaldi. Ég nýt þess að stunda æfingarnar mínir og er spennt að halda áfram í átt að enn betri heilsu. Takk Primal Iceland fyrir að færa mér heilsuna mína aftur. </p>"
-     # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
-     # ]
-      [[testimonials.items]]
-      img = "thor.jpg"
-      firstname = "Guðrún"
-      lastname = "Þorleifsdóttir"
-      class = "Handstöður"
+      class = "Wim Hof"
       testimonial = "<p>Ég gerði allt sem sett var fyrir og gaf ekkert eftir. Strax eftir fyrsta tímann leið mér betur. Eftir fjórar vikur af æfingum var ég orðin ný manneskja. Núna þremur mánuðum síðar er ég full af orku og verkirnir á miklu undanhaldi. Ég nýt þess að stunda æfingarnar mínir og er spennt að halda áfram í átt að enn betri heilsu. Takk Primal Iceland fyrir að færa mér heilsuna mína aftur. </p>"
      # social = [
      #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
