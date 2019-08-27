@@ -24,8 +24,8 @@
             {{ end }}
               
 
-            <h3>{{ .firstname | markdownify }}</h3>
-            <h3>{{ .lastname | markdownify }}</h3>
+                     <h3>{{ .firstname | markdownify }} {{ .lastname | markdownify }}</h3>
+  
 
        
 
@@ -57,9 +57,8 @@
               <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive img-circle testimonial-size img-circle-bottom-margin" >
             {{ end }}
               
+            <h3>{{ .firstname | markdownify }} {{ .lastname | markdownify }}</h3>
 
-            <h3>{{ .firstname | markdownify }}</h3>
-            <h3>{{ .lastname | markdownify }}</h3>
 
        
 
