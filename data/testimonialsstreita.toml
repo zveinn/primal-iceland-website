@@ -1,0 +1,43 @@
+
+  # ÞJÁLFARARNIR !
+  [testimonials]
+    enable = true
+
+    title = "Umsagnir"
+    subtitle = ""
+    description = ""
+
+    
+        [[testimonials.items]]
+      #img = "thor.jpg"
+      firstname = "Sigríður 111 Birna"
+      lastname = "Ingadóttir"
+      testimonial = "<p>Handstöðunámskeiðið hjá Primal Iceland er algjörlega frábært! Helgi er súper fróður um handstöðuna og getur hratt og örugglega leiðrétt mann á æfingum. Maður lærir að beita sér rétt í handstöðu, ásamt því að læra æfingar til að byggja upp styrk og jafnvægi í stöðunni. Ég lærði heilan helling á námskeiðinu og mæli hiklaust með að fólk prófi!! </p>"
+      #social = [
+      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #]
+	   [[testimonials.items]]
+      #img = "thor.jpg"
+      firstname = "Úlfar Karl"
+      lastname = "Arnórsson"
+      testimonial = "<p>Skemmtilegt og hagnýtt námskeið sem er kennt á skilvirkan hátt og skilur eftir sig óendanlega möguleika á æfingum í framtíðinni. Aðstaðan og andrúmsloftið hjá Primal er einnig mjög afslappað og laust við allt óþarfa keppnisskap sem einkennir flest alla líkamsrækt í dag.</p>"
+      #social = [
+      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #]
+        [[testimonials.items]]
+      #img = "thor.jpg"
+      firstname = "Aron"
+      lastname = "Baldursson"
+      testimonial = "<p>Ég sótti handstöðunámskeið hjá Primal. Mér þótti það mjög skemmtilegt og fræðandi. Kennarinn var mjög góður og þægilegur sem vissi hvað hann var að tala um. Hann kemur efninu frá sér þannig að hver og einn fái æfingar við hæfi og reyndist námskeiðið mér mjög vel. Einnig var gott aðhald utan námskeiðsins með myndböndum og heimavinnu. Ég mæli með námskeiðinu fyrir alla þá sem vilja kynnast handstöðu á skemmtilegan og góðan máta.</p>"
+      #social = [
+      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #]
+        [[testimonials.items]]
+      #img = "thor.jpg"
+      firstname = "Fríða Björk og"
+      lastname = "Brynja Maren"
+      testimonial = "<p>Dóttir mín fór á handstöðu námskeið hjá ykkur um daginn. Hún var mjög ánægð með námskeiðið og fékk framúrskarandi kennslu. Frábær, metnaðarfullur kennari og fagleg vinnubrögð. Ég mæli 110% með námskeiðunum hjá ykkur </p>"
+      #social = [
+      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #]
+      
