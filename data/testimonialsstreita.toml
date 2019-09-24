@@ -10,34 +10,17 @@
     
         [[testimonials.items]]
       #img = "thor.jpg"
-      firstname = "Sigríður 111 Birna"
-      lastname = "Ingadóttir"
-      testimonial = "<p>Handstöðunámskeiðið hjá Primal Iceland er algjörlega frábært! Helgi er súper fróður um handstöðuna og getur hratt og örugglega leiðrétt mann á æfingum. Maður lærir að beita sér rétt í handstöðu, ásamt því að læra æfingar til að byggja upp styrk og jafnvægi í stöðunni. Ég lærði heilan helling á námskeiðinu og mæli hiklaust með að fólk prófi!! </p>"
+      firstname = "Sólveig"
+      lastname = "Eiríksdóttir"
+      testimonial = "<p>Við lærðum að losa streitu úr líkamanum með teygjum og öðrum æfingum ásamt því að læra algjörlega nýja öndunaraðferð. Það sem kom mér mest á óvart var hvað þetta virkaði vel, bæði í auknu úthaldi og ég varð öll mýkri og afslappaðri. Kennararnir þau Einar Carl og Íris Huld eru alveg einstök og frábærir kennarar. Það sem er kannski mest um vert að mig hlakkaði til hvers tíma, að læra meira og fara lengra því þetta var svo skemmtilegt. Takk fyrir mig</p>"
       #social = [
       #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
       #]
 	   [[testimonials.items]]
       #img = "thor.jpg"
-      firstname = "Úlfar Karl"
-      lastname = "Arnórsson"
-      testimonial = "<p>Skemmtilegt og hagnýtt námskeið sem er kennt á skilvirkan hátt og skilur eftir sig óendanlega möguleika á æfingum í framtíðinni. Aðstaðan og andrúmsloftið hjá Primal er einnig mjög afslappað og laust við allt óþarfa keppnisskap sem einkennir flest alla líkamsrækt í dag.</p>"
+      firstname = "Gunnar"
+      lastname = "Sveinbjörnsson"
+      testimonial = "<p>Þegar máttleysi, kvíði og verkir tóku völdin og dagleg verkefni voru farin að sitja á hakanum. Kominn í timabundið leyfi frá vinnu, skildi ég ekki alveg hvað var að gerast. Þá var mér bent á Primal Iceland. Þar kynntist ég nýjum aðferðum til að róa taugakerfið. Öndunaræfingar, teygjur og fleiri æfingar hafa á stuttum tíma aukið orkuna og róað kvíðann. Á þessum stutta tima er ég kominn í fulla virkni í daglegu lífi og líður ótrúlega vel. Ég mæli heilshugar með streitustjórnunaraðferðum sem unnið er með í Primal Iceland.</p>"
       #social = [
       #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
       #]
-        [[testimonials.items]]
-      #img = "thor.jpg"
-      firstname = "Aron"
-      lastname = "Baldursson"
-      testimonial = "<p>Ég sótti handstöðunámskeið hjá Primal. Mér þótti það mjög skemmtilegt og fræðandi. Kennarinn var mjög góður og þægilegur sem vissi hvað hann var að tala um. Hann kemur efninu frá sér þannig að hver og einn fái æfingar við hæfi og reyndist námskeiðið mér mjög vel. Einnig var gott aðhald utan námskeiðsins með myndböndum og heimavinnu. Ég mæli með námskeiðinu fyrir alla þá sem vilja kynnast handstöðu á skemmtilegan og góðan máta.</p>"
-      #social = [
-      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      #]
-        [[testimonials.items]]
-      #img = "thor.jpg"
-      firstname = "Fríða Björk og"
-      lastname = "Brynja Maren"
-      testimonial = "<p>Dóttir mín fór á handstöðu námskeið hjá ykkur um daginn. Hún var mjög ánægð með námskeiðið og fékk framúrskarandi kennslu. Frábær, metnaðarfullur kennari og fagleg vinnubrögð. Ég mæli 110% með námskeiðunum hjá ykkur </p>"
-      #social = [
-      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      #]
-      
