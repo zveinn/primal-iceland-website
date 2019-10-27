@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://pi.zkynet.tech/"
+baseurl = "http://pi.zkynet.tech/"
 languageCode = "en-us"
 title = "Primal Iceland"
 theme = ""
