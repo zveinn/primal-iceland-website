@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Primal Iceland</title>
-    <link>http://pi.zkynet.tech/</link>
+    <link>https://pi.zkynet.tech/</link>
     <description>Recent content on Primal Iceland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://pi.zkynet.tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pi.zkynet.tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://pi.zkynet.tech/annad/</link>
+      <link>https://pi.zkynet.tech/annad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pi.zkynet.tech/annad/</guid>
+      <guid>https://pi.zkynet.tech/annad/</guid>
       <description>{{ partial &#34;annad/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;annad/book.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;annad/1.html&#34; . }} {{ partial &#34;annad/2.html&#34; . }} {{ partial &#34;annad/3.html&#34; . }} {{ partial &#34;annad/5.html&#34; . }} {{ partial &#34;js.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pi.zkynet.tech/einkatimar/</link>
+      <link>https://pi.zkynet.tech/einkatimar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pi.zkynet.tech/einkatimar/</guid>
+      <guid>https://pi.zkynet.tech/einkatimar/</guid>
       <description>{{ partial &#34;einkatimar/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;einkatimar/book.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;einkatimar/1.html&#34; . }} {{ partial &#34;einkatimar/3.html&#34; . }} {{ partial &#34;einkatimar/4.html&#34; . }} {{ partial &#34;einkatimar/5.html&#34; . }} {{ partial &#34;einkatimar/reynslur.html&#34; . }} {{ partial &#34;js.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pi.zkynet.tech/handstand/</link>
+      <link>https://pi.zkynet.tech/handstand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pi.zkynet.tech/handstand/</guid>
+      <guid>https://pi.zkynet.tech/handstand/</guid>
       <description>{{ partial &#34;handstand/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;handstand/book.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;handstand/1.html&#34; . }} {{ partial &#34;handstand/2.html&#34; . }} {{ partial &#34;handstand/3-4.html&#34; . }} {{ partial &#34;handstand/5-6.html&#34; . }} {{ partial &#34;handstand/reynslur.html&#34; . }} {{ partial &#34;js.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pi.zkynet.tech/media/</link>
+      <link>https://pi.zkynet.tech/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pi.zkynet.tech/media/</guid>
+      <guid>https://pi.zkynet.tech/media/</guid>
       <description>{{ partial &#34;annad/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;media/book.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;media/1.html&#34; . }} {{ partial &#34;js.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pi.zkynet.tech/movement/</link>
+      <link>https://pi.zkynet.tech/movement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pi.zkynet.tech/movement/</guid>
+      <guid>https://pi.zkynet.tech/movement/</guid>
       <description>{{ partial &#34;movement/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;movement/book.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;movement/1.html&#34; . }} {{ partial &#34;movement/2.html&#34; . }} {{ partial &#34;movement/5.html&#34; . }} {{ partial &#34;movement/calendar.html&#34; . }} {{ partial &#34;movement/reynslur.html&#34; . }} {{ partial &#34;js.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pi.zkynet.tech/privacy-policy/</link>
+      <link>https://pi.zkynet.tech/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pi.zkynet.tech/privacy-policy/</guid>
+      <guid>https://pi.zkynet.tech/privacy-policy/</guid>
       <description>Web Site Terms and Conditions of Use   1. Terms   By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, applicable laws and regulations and their compliance. If you disagree with any of the stated terms and conditions, you are prohibited from using or accessing this site. The materials contained in this site are secured by relevant copyright and trade mark law.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pi.zkynet.tech/streita/</link>
+      <link>https://pi.zkynet.tech/streita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pi.zkynet.tech/streita/</guid>
+      <guid>https://pi.zkynet.tech/streita/</guid>
       <description>{{ partial &#34;streita/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;streita/book.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;streita/1.html&#34; . }} {{ partial &#34;streita/2.html&#34; . }} {{ partial &#34;streita/reynslur.html&#34; . }} {{ partial &#34;js.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pi.zkynet.tech/team/</link>
+      <link>https://pi.zkynet.tech/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pi.zkynet.tech/team/</guid>
+      <guid>https://pi.zkynet.tech/team/</guid>
       <description>{{ partial &#34;annad/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;team/book.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;team/1.html&#34; . }} {{ partial &#34;js.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pi.zkynet.tech/wimhof/</link>
+      <link>https://pi.zkynet.tech/wimhof/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pi.zkynet.tech/wimhof/</guid>
+      <guid>https://pi.zkynet.tech/wimhof/</guid>
       <description>{{ partial &#34;wimhof/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;wimhof/book.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;wimhof/1.html&#34; . }} {{ partial &#34;wimhof/wimhof.html&#34; . }} {{ partial &#34;wimhof/2.html&#34; . }} {{ partial &#34;wimhof/3.html&#34; . }} {{ partial &#34;wimhof/reynslur.html&#34; . }} {{ partial &#34;js.html&#34; . }}   </description>
     </item>
     
