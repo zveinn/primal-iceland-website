@@ -317,6 +317,7 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:768px) {
+
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
@@ -344,6 +345,7 @@ header .intro-text .intro-heading {
 
 section {
     padding-top: 20px;
+    /* padding-bottom: 0px !important; */
 }
 
 section h2.section-heading {
@@ -375,12 +377,12 @@ section h3.section-subheading {
 	color:#000000;
 }
 
-@media(min-width:768px) {
+/* @media(min-width:768px) { */
     section {
         padding-bottom: 100px;
 		background-color: #FFFFFF !important;
     }
-}
+/* } */
 
 .service-heading {
 	margin: 15px 0;
@@ -1041,6 +1043,20 @@ body {
 
 
 @media (max-width: 767px) {
+    
+    .wh-mobile-fix-top-margin{
+        margin-top:50px;
+    }
+    .wh-row-mobile-fix {
+        margin-bottom:100px;
+    }
+    .mobile-testimonials-fix{
+        margin-top:100px;
+    }
+      section {
+    padding-top: 10px;
+    padding-bottom: 0px !important;
+}
     .left-column{padding-bottom:50px;}
     .navbar-default {background-color: transparent !important;}
     #about{padding:10px 0 100px 0 !important;}
@@ -1110,6 +1126,11 @@ body {
     
  }
 @media (min-width: 767px) and (max-width: 992px) { 
+
+    section {
+    padding-top: 10px;
+    padding-bottom: 0px !important;
+}
     .left-column{padding-bottom:100px;}
     #about{padding:100px 0 200px 0 !important;}
     #team{padding:50px 0 10px 0 !important; background-color: #FFFFFF !important;}
