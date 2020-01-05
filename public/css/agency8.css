@@ -1541,3 +1541,12 @@ color:#8a995e  !important;
  .nav-top-padding{
     padding-top:10px; 
  }
+
+
+ /* new frontpage stuff */
+ .front-page-titles {
+     margin-bottom:10px !important;
+ }
+  .front-page-image {
+     margin-bottom:60px !important;
+ }
