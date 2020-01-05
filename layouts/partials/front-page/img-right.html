@@ -1,5 +1,7 @@
 {{ "<!-- Vim hof -->" | safeHTML }}
-
+<section id="movement" >
+  <div class="container container-right">
+    <div class="row outside-right">
 
         <div class=" hidden-sm hidden-xs">
 
@@ -11,23 +13,13 @@
                 <p class="section-subheading text-muted">
                     {{ .content | safeHTML }}
                 </p>
+            </div>
     
     
+          <div class="col-md-6 text-center img-padding">
             <img class="img100100 mdc-elevation--z6" src="{{ .img}}">
           </div>
     
-          
-
-      <div class="col-md-6 text-left ">
-        <h2 class="section-heading title">
-            {{.title | safeHTML }}
-        </h2>
-      
-        <p class="section-subheading text-muted">
-            {{.content | safeHTML }}
-        </p>
-        <img class="img100100 mdc-elevation--z6 " src="{{.img}}">
-      </div>
 
         </div>
 
@@ -51,3 +43,6 @@
 
       </div> 
       
+    </div>
+  </div>
+</section>
