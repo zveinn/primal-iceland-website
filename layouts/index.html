@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-  {{ partial "front-page/head.html" . }}
+  {{ partial "umokkur/head.html" . }}
   <body id="page-top" class="index">
     {{ partial "nav.html" . }}
     {{ partial "hero.html" . }}
-    {{ partial "front-page/img-right.html" . }}
-    {{ partial "front-page/img-left.html" . }}
-    {{ partial "front-page/team.html" . }}
-    {{ partial "front-page/coaches.html" . }}
-    {{ partial "front-page/reynslur.html" . }}
-   <!--{{ partial "front-page/about.html" . }}--> 
-    {{ partial "contact.html" . }}
-    {{ partial "map.html" . }}
+    {{ range $i, $e := .Site.Data.frontpage.sections}} 
+ {{ if modBool $i 2 }}
+    {{ partial "front-page/img-right.html" $e }}
+ {{ else }}
+    {{ partial "front-page/img-left.html" $e }}
+ {{ end }}
+    {{ end }}
     {{ partial "js.html" . }}
   </body>
 </html>

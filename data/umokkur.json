@@ -1,0 +1,22 @@
+{
+    "sharing" : {
+        "ogurl":"http://primal-iceland.zkynet.io/",
+        "ogtype":"website",
+        "ogimage":"http://primal-iceland.zkynet.io/img/banner/logo.png",
+        "ogtitle":"Primal Iceland",
+        "ogdescription":"Primal Iceland er æfingastöð í Reykjavík sem þekkt er fyrir öðruvísi nálgun á líkamsrækt en gengur og gerist. Í boði eru Movement, handstöðu, Wim Hof og Streitu námskeið og einkatímar til að leysa úr þínum vandamálum."
+    },
+    "contact": {
+        "title": "Láttu heyra í þér!"
+    },
+"section1": {
+        "img": "/img/new/1.jpg",
+        "title": "Primal Iceland",
+        "content": "<p>Primal Iceland er æfingastöð í Reykjavík sem þekkt er fyrir öðruvísi nálgun á líkamsrækt en gengur og gerist. Stofnendur Primal Iceland eru þeir Þór Guðnason, Einar Carl Axelsson og Helgi Freyr Rúnarsson.</p> <p>Boðið upp á hóptíma og námskeið: <a href=/wimhof>Wim Hof</a> námskeið, þar sem kuldaþol er aukið með öndun og andlegri tækni, <a href=/movement>Movement</a> tímar þar sem unnið er að því að auka styrk, liðleika og almenna hreyfigetu á skemmtilegan máta, <a href=/handstand>handstöðunámskeið</a> þar sem nemendur læra að standa á höndum á skilvirkan og skemmtilegan hátt og <a href=/streita>Sigrum Streituna</a>, þar sem iðkendum eru kenndar leiðir til þess að vinna á streitueinkennum.</p> <p>Einnig er boðið upp á <a href=/einkatimar>einkatíma</a> sem fela í sér hreyfigreiningar og meðal þeirra sem sótt hafa þá þjónustu eru afreksfólk úr ýmsum greinum, fólk með álagsmeiðsl eða stoðkerfisvandamál og þeir sem almennt er umhugað um líkama sinn.</p>"
+    },
+    "section2": {
+        "img": "/img/new/2.jpg",
+        "title": "Frelsi í eigin líkama",
+        "content": "<p>Eigendur Primal eru allir reynslumiklir þjálfarar og hafa þeir hannað og smíðað húsnæðið sjálfir frá grunni og sérsniðið að sínum þörfum. Þeir endurnýttu mikið af efni, meðal annars við úr pallettum og skápa úr búningsklefa úr gömlu herstöðinni.</p><p>Einkunnarorð Primal Iceland eru;  ,,Frelsi í eigin líkama“ og aðferðir Primal miða að því að allir geti upplifað þá tilfinningu.</p>"
+    }
+}

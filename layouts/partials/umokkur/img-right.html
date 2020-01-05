@@ -7,17 +7,17 @@
 
             <div class="col-md-6 text-right  ">
                 <h2 class="section-heading title">
-                    {{ .title | safeHTML }}
+                    {{.Site.Data.umokkur.section1.title | safeHTML }}
                 </h2>
               
                 <p class="section-subheading text-muted">
-                    {{ .content | safeHTML }}
+                    {{.Site.Data.umokkur.section1.content | safeHTML }}
                 </p>
             </div>
     
     
           <div class="col-md-6 text-center img-padding">
-            <img class="img100100 mdc-elevation--z6" src="{{ .img}}">
+            <img class="img100100 mdc-elevation--z6" src="{{.Site.Data.umokkur.section1.img}}">
           </div>
     
 
@@ -27,17 +27,17 @@
       <div class=" visible-sm visible-xs ">
           <div class="col-md-6 text-left  ">
               <h2 class="section-heading title">
-                  {{ .title | safeHTML }}
+                  {{.Site.Data.umokkur.section1.title | safeHTML }}
               </h2>
             
               <p class="section-subheading text-muted">
-                  {{ .content | safeHTML }}
+                  {{.Site.Data.umokkur.section1.content | safeHTML }}
               </p>
           </div>
   
   
         <div class="col-md-6 text-center img-padding">
-          <img class="img100100 mdc-elevation--z6" src="{{ .img}}">
+          <img class="img100100 mdc-elevation--z6" src="{{.Site.Data.umokkur.section1.img}}">
         </div>
   
 

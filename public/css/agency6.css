@@ -260,7 +260,7 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 25px 0;
+        /* padding: 25px 0; */
         border: 0;
         background-color: transparent;
         -webkit-transition: padding .3s;
@@ -317,6 +317,7 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:768px) {
+
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
@@ -344,6 +345,7 @@ header .intro-text .intro-heading {
 
 section {
     padding-top: 20px;
+    /* padding-bottom: 0px !important; */
 }
 
 section h2.section-heading {
@@ -375,12 +377,12 @@ section h3.section-subheading {
 	color:#000000;
 }
 
-@media(min-width:768px) {
+/* @media(min-width:768px) { */
     section {
         padding-bottom: 100px;
 		background-color: #FFFFFF !important;
     }
-}
+/* } */
 
 .service-heading {
 	margin: 15px 0;
@@ -1041,6 +1043,22 @@ body {
 
 
 @media (max-width: 767px) {
+   .annad-title-fix {
+       
+   } 
+    .wh-mobile-fix-top-margin{
+        margin-top:50px;
+    }
+    .wh-row-mobile-fix {
+        margin-bottom:100px;
+    }
+    .mobile-testimonials-fix{
+        margin-top:100px;
+    }
+      section {
+    padding-top: 10px;
+    padding-bottom: 0px !important;
+}
     .left-column{padding-bottom:50px;}
     .navbar-default {background-color: transparent !important;}
     #about{padding:10px 0 100px 0 !important;}
@@ -1052,10 +1070,7 @@ body {
     .img2525{margin-left:0px;margin-right:0px;width:100%}
     #banner { min-height: 0em;margin-bottom:00px !important}
     .banner-img{
-        position: absolute;
-        top:15px;
-        left:15px;
-        width: 6em;
+      display: none; 
     }
     .banner-link{
         position: absolute;
@@ -1110,6 +1125,11 @@ body {
     
  }
 @media (min-width: 767px) and (max-width: 992px) { 
+
+    section {
+    padding-top: 10px;
+    padding-bottom: 0px !important;
+}
     .left-column{padding-bottom:100px;}
     #about{padding:100px 0 200px 0 !important;}
     #team{padding:50px 0 10px 0 !important; background-color: #FFFFFF !important;}
@@ -1118,13 +1138,12 @@ body {
     .client-img{padding:20px 20px 20px 20px;}
     #contact{padding:50px 0 50px 0 !important;}
     #banner { min-height: 7em;margin-bottom:30px !important;}
-    .banner-img{
+ i  .banner-img{
         position: absolute;
-        top:90px;
+        top:20px;
         left:20px;
-        height:40px;
-        width: 40px;
-       
+        height:10em;
+        width: 10em;
     }
     .banner-link{
         position: absolute;
@@ -1166,12 +1185,11 @@ body {
     #banner {min-height: 20em;}
     .banner-img{
         position: absolute;
-        top:40px;
-        left:40px;
-        height:15em;
-        width: 15em;
-       
-    }
+        top:20px;
+        left:20px;
+        height:10em;
+        width: 10em;
+    } 
     .banner-link{
         position: absolute;
         top:40px;
@@ -1220,10 +1238,10 @@ body {
     #banner { min-height: 25em;     }
     .banner-img{
         position: absolute;
-        top:40px;
-        left:40px;
-        height:20em;
-        width: 20em;
+        top:20px;
+        left:20px;
+        height:10em;
+        width: 10em;
     }
     .banner-link{
         position: absolute;
@@ -1326,6 +1344,7 @@ display: none;
 }
 .index {
     margin-bottom:50px;
+    margin-top:100px;
 }
 .banner-img-small{
 position: absolute;
@@ -1447,6 +1466,7 @@ section {
 }
 .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
     max-height: 1000px;
+    padding-top:10px;
 }
 .social-icon-mobile-li {
     height:40px;
@@ -1501,3 +1521,11 @@ color:#f4b219  !important;
 .dropdown-li:hover{
     color: #8a995e !important;
 }
+
+
+
+
+ /* new nav stuff */
+ .nav-top-padding{
+    padding-top:10px; 
+ }

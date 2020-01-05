@@ -84,6 +84,15 @@
     
     <item>
       <title></title>
+      <link>https://pi.zkynet.tech/umokkur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pi.zkynet.tech/umokkur/</guid>
+      <description>{{ partial &#34;umokkur/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;umokkur/img-right.html&#34; . }} {{ partial &#34;umokkur/img-left.html&#34; . }} {{ partial &#34;umokkur/team.html&#34; . }} {{ partial &#34;umokkur/coaches.html&#34; . }} {{ partial &#34;umokkur/reynslur.html&#34; . }} {{ partial &#34;contact.html&#34; . }} {{ partial &#34;map.html&#34; . }} {{ partial &#34;js.html&#34; . }}   </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://pi.zkynet.tech/wimhof/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
