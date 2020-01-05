@@ -222,14 +222,17 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #000;
-    background-color: #000;
+    border-color: #8a995e;
+    color: #8a995e !important;
+    background-color:white;
 }
 
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #000;
+     border-color: #f4b219;
+    color: #f4b219 !important;
+    background-color:white;
 }
 
 .navbar-default .nav li a {
@@ -280,8 +283,8 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink {
-        padding: 10px 0;
-        background-color: #8a995e;
+        padding: 1px 0;
+        background-color:white;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -293,7 +296,6 @@ header {
     text-align: center;
    color: #000000;
 }
-
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -1043,9 +1045,11 @@ body {
 
 
 @media (max-width: 767px) {
-   .annad-title-fix {
-       
-   } 
+    .index {
+    margin-bottom:50px;
+    margin-top:10px !important;
+}
+    
     .wh-mobile-fix-top-margin{
         margin-top:50px;
     }
@@ -1092,7 +1096,7 @@ body {
         padding-top:5px;
     }
     .navbar-collapse {
-        background-color: #8a995e;
+        background-color: white;
         margin-top: 0px;
         width: 100%;
         position: fixed;
@@ -1125,6 +1129,11 @@ body {
     
  }
 @media (min-width: 767px) and (max-width: 992px) { 
+
+    .index {
+    margin-bottom:50px;
+    margin-top:100px !important;
+}
 
     section {
     padding-top: 10px;
@@ -1284,7 +1293,8 @@ body {
 }
 
 .navbar-default .nav li a:hover {
-    color:white;
+   
+color:#8a995e  !important;
 }
 .pillar{
 height:125px;
@@ -1511,8 +1521,9 @@ color:#8a995e  !important;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
-    color: #f4b219;
-    background-color: #8a995e;
+    /* color: #f4b219; */
+color:#8a995e  !important;
+    background-color: white;
 }
 
 .dropdown-menu li {

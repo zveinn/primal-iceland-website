@@ -24,8 +24,8 @@ $(document).ready(function(){
     if ($(window).scrollTop() >= maxOffset) {
       $('.navbar-default').addClass('navbar-shrink');
       $('.navbar-title').removeClass('display-none');
-      $('.menu-social-icon').addClass('color-white');
-      $('.menu-item').addClass('color-white');
+      // $('.menu-social-icon').addClass('color-white');
+      // $('.menu-item').addClass('color-white');
       $('.navbar-title').addClass('display');
       if (window.innerWidth > 767){
         $('.navbar-default').addClass('mdc-elevation--z6');
@@ -51,8 +51,8 @@ $(document).ready(function(){
 
     $('.navbar-default').addClass('navbar-shrink');
     $('.navbar-title').removeClass('display-none');
-     $('.menu-social-icon').addClass('color-white');
-      $('.menu-item').addClass('color-white');
+    //  $('.menu-social-icon').addClass('color-white');
+      // $('.menu-item').addClass('color-white');
     $('.navbar-title').addClass('display');
   }
   else {
