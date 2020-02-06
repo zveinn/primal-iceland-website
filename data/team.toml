@@ -57,7 +57,7 @@
       img = "arnor.jpg"
       firstname = "Arnór"
       lastname = "Sveinsson"
-      position = "<p>Yoga/Núvitundar þjálfari</p>"
+      position = "<p>Wim Hof kennari</p>"
        bio = "long bio ..."
         social = [
          ["fa-facebook", "https://www.facebook.com/GeorgBjarnf"]
