@@ -1,23 +1,21 @@
 {
-    "sharing" : {
-        "ogurl":"http://primal-iceland.zkynet.io/handstand/",
-        "ogtype":"website",
-        "ogimage":"http://primal-iceland.zkynet.io/img/handstand/sharing.jpg",
-        "ogtitle":"Handstöðu kennsla Primal Iceland",
-        "ogdescription":"Handstaðan dregur að sér fólk úr öllum áttum, hvort sem að það eru íþróttamenn, fimleikafólk, dansarar eða þeir sem hreyfa sig lítið. Það er eitthvað mjög heillandi við það að læra að standa á höndum!"
+    "sharing": {
+        "ogurl": "https://pi.zkynet.tech/handstand/",
+        "ogtype": "website",
+        "ogimage": "https://pi.zkynet.tech/img/handstand/sharing.jpg",
+        "ogtitle": "Handstöðu kennsla Primal Iceland",
+        "ogdescription": "Handstaðan dregur að sér fólk úr öllum áttum, hvort sem að það eru íþróttamenn, fimleikafólk, dansarar eða þeir sem hreyfa sig lítið. Það er eitthvað mjög heillandi við það að læra að standa á höndum!"
     },
     "section1": {
         "img": "/img/handstand/1.jpg",
         "title": "Primal Handstöður",
         "content": "<p>Handstöður krefjast einbeitingar, styrks og liðleika af öllum líkamanum.</p><p>Við hjá Primal höfum sérhæft okkur í handstöðulist (e. <i>handbalancing</i>) sem á rætur sínar að rekja til sirkuslista.</p><p>Handstaðan dregur að sér fólk úr öllum áttum, hvort sem að það eru íþróttamenn, fimleikafólk, dansarar eða þeir sem hreyfa sig lítið. Það er eitthvað mjög heillandi við það að læra að standa á höndum!</p><p>Við getum hjálpað þér hvort sem að þú vilt takast á við óttann við að fara á hvolf, læra að halda jafnvægi eða sérsniðin markmið fyrir þína iðkun.</p><p>Handstaðan krefst mikillar þolinmæði og auðmýktar en er á sama tíma ótrúlega skemmtileg. Að finna jafnvægið í handstöðu er tilfinning sem eru engu lík.</p>"
     },
-
     "section2": {
         "img": "/img/handstand/2.jpg",
         "title": "",
         "content": "<p>Helgi Freyr Rúnarsson sér um handstöðunámskeiðin okkar. Undanfarin ár hefur hann tileinkað sér handstöðulistina og sótt námskeið, sem og einkakennslu, til heimsþekktra handstöðulistamanna um allan heim.</p><p>Helgi hefur lært hjá fólki á borð við Mikael Kristiansen, Matt Pasquet, Yuri Marmerstein, Nicolas Montes de Oca, Sammy Dinneen og sótt tíma hjá The London School of Handbalancing and Acrobatics.</p>"
     },
-
     "section3": {
         "img": "/img/handstand/4.png",
         "title": "Byrjenda námskeið",
@@ -48,5 +46,4 @@
         "title": "Reynslusögur",
         "content": ""
     }
-    
- }
+}

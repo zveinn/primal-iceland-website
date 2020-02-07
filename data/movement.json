@@ -1,10 +1,10 @@
 {
-    "sharing" : {
-        "ogurl":"http://primal-iceland.zkynet.io/movement/",
-        "ogtype":"website",
-        "ogimage":"http://primal-iceland.zkynet.io/img/movement/2.jpg",
-        "ogtitle":"Primal Iceland Movement",
-        "ogdescription":"Primal Movement byggir á því besta sem fimleikar, styrktar- og liðleikaþjálfun og hreyfiflæði hefur upp á að bjóða. Tímarnir henta öllum þeim sem vilja ná upp styrk og þoli, bæta liðleika, hreyfigetu og lífsgæði sín almennt. "
+    "sharing": {
+        "ogurl": "https://pi.zkynet.tech/movement/",
+        "ogtype": "website",
+        "ogimage": "https://pi.zkynet.tech/img/movement/2.jpg",
+        "ogtitle": "Primal Iceland Movement",
+        "ogdescription": "Primal Movement byggir á því besta sem fimleikar, styrktar- og liðleikaþjálfun og hreyfiflæði hefur upp á að bjóða. Tímarnir henta öllum þeim sem vilja ná upp styrk og þoli, bæta liðleika, hreyfigetu og lífsgæði sín almennt. "
     },
     "section1": {
         "video": "https://player.vimeo.com/video/307463627?loop=1&title=0&byline=0&portrait=0",
@@ -12,13 +12,11 @@
         "title": "Primal Movement",
         "content": "<p>Primal Movement byggir á því besta sem fimleikar, styrktar- og liðleikaþjálfun og hreyfiflæði hefur upp á að bjóða. Tímarnir henta öllum þeim sem vilja ná upp styrk og þoli, bæta liðleika, hreyfigetu og lífsgæði sín almennt. Ef fólk er að kljást við stoðkerfisvandamál eða álagsmeiðsli er ráðlagt að byrja í <a href=/einkatimar>einkatíma</a> og fá þar úrlausn sinna mála áður en lengra er haldið.</p> <p>Primal býður einnig upp á Movement tíma fyrir börn og fjölskyldur þeirra, þar sem foreldrar og börn fá tækifæri til þess að tengjast í gegnum hreyfingu og hafa gaman saman.</p>"
     },
-
     "section2": {
         "img": "/img/movement/2.jpg",
         "title": "Tímar í boði",
         "content": "<p>Aðferðafræði Movement tímana býður upp á það að byrjendur og lengra komnir æfi saman.</p><p>Hver æfing er breytileg og því hægt að velja auðveldar, miðlungs eða erfiðar útfærslur af henni.</p><p>Hver og einn iðkandi lærir því fyrir vikið að þekkja sín eigin mörk og finnur betur fyrir bætingum.</p>"
     },
-
     "section3": {
         "img": "/img/movement/3.jpg",
         "title": "Mæting",
@@ -34,12 +32,12 @@
         "title": "Verðskrá",
         "content": "<p><b>Stakur mánuður</b>: 17.900 kr</p><p><b>Áskrift</b>: 13.900 kr mánuðurinn með 6 mánaða binditíma (áskrift er sagt upp í gegnum tölvupóst)</p><p><b>10 skipta klippikort</b>: 19.900 kr</p><br><p>Iðkendur geta mætt í alla þá tíma sem þeim hentar. Iðkendur þurfa einungis að skrá hvenær dags þeir hafa hug á að mæta, þ.e. í morgun, hádegis, síðdegis eða mjúkan tíma.</p><p><b>Athugið</b> að þó svo að valin sé tímasetning dags við skráningu (6:10, 12:10 eða 17:30) er ekkert mál að flakka á milli tíma yfir daginn. Skráningin er hugsuð til þess að halda utan um mögulega mætingu.</p><p>Í <b><u>Mjúkt Movement</b></u> kostar stakur mánuður 14.900 kr og áskrift með þriggja mánaða binditíma 12.900 kr."
     },
-	"section6": {
+    "section6": {
         "img": "/img/movement/5.jpg",
         "title": "Mjúkt Movement",
         "content": "<p>Mjúkt Movement eru tímar fyrir þá sem vilja fara aðeins hægar yfir aðferðafræði Movement. Þeir henta öllum og eru kjörnir fyrir þá sem vilja rólegri tíma eða eru að taka fyrstu skref í hreyfingu eða eftir meiðsl.</p> <p>Í tímunum verður teygt mikið, einfaldar styrktaræfingar framkvæmdar og farið í skemmtilega leiki sem að auka liðleika, styrk og samhæfingu.</p><p>Tímarnir eru með fjölda takmörkun til þess að tryggja að allir fái þá hjálp sem þau þurfa.</p><p><b>Verð</b> er 14.900 kr fyrir mánuðinn.</p><p><b>Áskrift</b>: 3ja mánaða binditími og mánuðurinn er á 12.900 kr</p>"
     },
-	"section7": {
+    "section7": {
         "img": "/img/movement/5.jpg",
         "title": "Krakkar",
         "content": "<p>Í tímunum verður Movement aðferðafræðin notuð á skemmtilegan máta þar sem að liðleiki, styrkur og hreyfileikir verða aðalatriðið.</p><p>Námskeiðið er hugsað fyrir 7.-10. bekk en hægt er að gera undantekningar á því. Hafið samband til þess að ræða það!</p><p><b>Verð</b> er 14.900 kr fyrir mánuðinn.</p><p><b>Áskrift</b>: 3ja mánaða binditími og mánuðurinn er á 12.900 kr</p>"
@@ -47,4 +45,4 @@
     "calendar": {
         "img": "/img/movement/calendar.jpg"
     }
- }
+}
