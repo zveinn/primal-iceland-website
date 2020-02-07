@@ -1,23 +1,21 @@
 {
-    "sharing" : {
-        "ogurl":"http://primal-iceland.zkynet.io/einkatimar/",
-        "ogtype":"website",
-        "ogimage":"http://primal-iceland.zkynet.io/img/einka/1.jpg",
-        "ogtitle":"Boðið er upp á fjölbreytta einkatíma hjá Primal Iceland.",
-        "ogdescription":"Þjálfarar Primal búa allir yfir mikill reynslu og þekkingu í að aðstoða fólk, hvort sem um er að ræða skert lífsgæði vegna stoðkerfisverkja eða aðstoða íþróttafólk í bæta getu sína og afköst – og allt þar á milli."
+    "sharing": {
+        "ogurl": "http://primal-iceland.zkynet.io/einkatimar/",
+        "ogtype": "website",
+        "ogimage": "http://primal-iceland.zkynet.io/img/einka/1.jpg",
+        "ogtitle": "Boðið er upp á fjölbreytta einkatíma hjá Primal Iceland.",
+        "ogdescription": "Þjálfarar Primal búa allir yfir mikill reynslu og þekkingu í að aðstoða fólk, hvort sem um er að ræða skert lífsgæði vegna stoðkerfisverkja eða aðstoða íþróttafólk í bæta getu sína og afköst – og allt þar á milli."
     },
     "section1": {
         "img": "/img/einka/1.jpg",
         "title": "Einkatímar",
         "content": "<p>Boðið er upp á fjölbreytta einkatíma hjá Primal Iceland.</p> <p>Þjálfarar Primal búa allir yfir mikill reynslu og þekkingu í að aðstoða fólk, hvort sem um er að ræða skert lífsgæði vegna stoðkerfisverkja eða aðstoða íþróttafólk í bæta getu sína og afköst – og allt þar á milli.</p><p>Aðferðafræði okkar er einföld en skilvirk og hefur reynst skjólstæðingum okkar afar vel.</p>"
     },
-
     "section2": {
         "img": "/img/einka/2.jpg",
         "title": "Reynslusaga",
         "content": ""
     },
-
     "section3": {
         "img": "/img/einka/3.jpg",
         "title": "Tegundir einkatíma",
@@ -33,4 +31,4 @@
         "title": "Verðskrá",
         "content": "<p>60 mínútna einkatími þar sem að orsök vandamála þinna er útskýrð,<br>æfingar til þess að leysa úr þeim kenndar og<br>settar saman í skothelt heimavinnuplan kostar 12.900 kr.</p>"
     }
- }
+}

@@ -1,35 +1,43 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name = "viewport" content = "width=device-width, minimum-scale=1, maximum-scale=1">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
 
-  <meta name="ogurl" property="og:url"           content="{{.Site.Data.umokkur.sharing.ogurl}}" />
-  <meta name="ogtype" property="og:type"          content="{{.Site.Data.umokkur.sharing.ogtype}}" />
-  <meta name="twitter:title" property="og:title"         content="{{.Site.Data.umokkur.sharing.ogtitle}}" />
-  <meta name="twitter:description" property="og:description"   content="{{.Site.Data.umokkur.sharing.ogdescription | safeHTML }}" />
-  <meta name="twitter:image" property="og:image"         content="{{.Site.Data.umokkur.sharing.ogimage}}" />
+  <meta name="ogurl" property="og:url" content="{{.Site.Data.umokkur.sharing.ogurl}}" />
+  <meta name="ogtype" property="og:type" content="{{.Site.Data.umokkur.sharing.ogtype}}" />
+  <meta name="twitter:title" property="twitter:title" content="{{.Site.Data.umokkur.sharing.ogtitle}}" />
+  <meta name="twitter:description" property="twitter:description"
+    content="{{.Site.Data.umokkur.sharing.ogdescription | safeHTML }}" />
+  <meta name="twitter:image" property="twitter:image" content="{{.Site.Data.umokkur.sharing.ogimage}}" />
 
-<meta name="twitter:card" content="summary_large_image">
-  
+  <meta name="ogtitle" property="og:title" content="{{.Site.Data.umokkur.sharing.ogtitle}}" />
+  <meta name="ogdescription" property="og:description"
+    content="{{.Site.Data.umokkur.sharing.ogdescription | safeHTML }}" />
+  <meta name="ogimage" property="og:image" content="{{.Site.Data.umokkur.sharing.ogimage}}" />
+
+  <meta name="twitter:card" content="summary_large_image">
+
   {{ partial "tracking-headers.html" . }}
 
 
 
 
 
-  {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-  {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
+  {{ with .Site.Params.description }}
+  <meta name="description" content="{{ . }}">{{ end }}
+  {{ with .Site.Params.name }}
+  <meta name="author" content="{{ . }}">{{ end }}
 
   <title>{{ .Title }}{{ if not .IsHome }} &middot; {{ .Site.Title }}{{ end }}</title>
   {{ partial "css.html" . }}
   {{ range .Site.Params.custom_css }}
-    <link rel="stylesheet" href="{{ . | absURL }}">
+  <link rel="stylesheet" href="{{ . | absURL }}">
   {{ end }}
 
 
   {{ with .Site.Params.favicon }}
-    <link rel="shortcut icon" type="image/x-icon" href="{{ . | absURL }}">
-    <link rel="icon" type="image/x-icon" href="{{ . | absURL }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ . | absURL }}">
+  <link rel="icon" type="image/x-icon" href="{{ . | absURL }}">
   {{ end }}
 
   {{ "<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->" | safeHTML }}
