@@ -9,15 +9,15 @@
 
     
     
-           [[testimonials.items]]
-      img = "thor.jpg"
-      firstname = "Kjartan"
-      lastname = "Long"
-      class = "Einkatímar"
-      testimonial = "<p>Ég gerði æfingarnar sem að þið kennduð mér fram að maraþoni sem ég hljóp í byrjun September. Í stuttu máli, þá bætti ég tímann minn um 45 mínútur og finn ekkert fyrir þeim meiðslum sem hrjáðu mig þegar að ég kom í tímann til ykkar.</p>"
-     # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
-     # ]
+        [[testimonials.items]]
+      #img = "thor.jpg"
+      firstname = "Aðalheiður"
+      lastname = "Guðmundsdóttir"
+	  class = "Movement"
+      testimonial = "<p>Ég er mjög ánægð með Movement tímana. Þjálfararnir eru mjög metnaðarfull. Þau hafa með hafsjó af þekkingu um líkamann og hvernig er hægt að vinna úr þínum styrkleikum og áskorunum með ákveðnum æfingum. Mikil fjölbreyttni í tímum og einnig alltaf nýjar útfærslur á æfingum.</p>"
+      #social = [
+      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #]
 
      
      [[testimonials.items]]
