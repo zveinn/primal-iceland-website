@@ -48,6 +48,8 @@ theme = ""
     umokkur = "Um Okkur"
     contact = "Hafa Samband"
     streita = "Sigrum Streituna"
+    empower = "Empower"
+    mommur = "Mömmu Þrek"
 
     # Tracking
   [params.tracking]

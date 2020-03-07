@@ -1,10 +1,10 @@
 {
-    "sharing" : {
-        "ogurl":"http://primal-iceland.zkynet.io/wimhof",
-        "ogtype":"website",
-        "ogimage":"http://primal-iceland.zkynet.io/img/wimhof/2.jpg",
-        "ogtitle":"Wim Hof Method",
-        "ogdescription":"Primal Wim Hof námskeiðin voru þau fyrstu á Íslandi og boðið er upp á fagmannlega kennslu í heimsklassa aðstöðu á Wim Hof aðferðafræðinni."
+    "sharing": {
+        "ogurl": "https://pi.zkynet.tech/wimhof",
+        "ogtype": "website",
+        "ogimage": "https://pi.zkynet.tech/img/wimhof/2.jpg",
+        "ogtitle": "Wim Hof Method",
+        "ogdescription": "Primal Wim Hof námskeiðin voru þau fyrstu á Íslandi og boðið er upp á fagmannlega kennslu í heimsklassa aðstöðu á Wim Hof aðferðafræðinni."
     },
     "section1": {
         "video": "https://player.vimeo.com/video/309268529?loop=1&title=0&byline=0&portrait=0",
@@ -12,19 +12,16 @@
         "title": "Wim Hof",
         "content": "<p>Hollendingurinn Wim Hof er þekktur víða um heiminn undir nafninu Ísmaðurinn. Hans aðferðarfræði sameinar kuldaþjálfun, öndunaræfingar og andlega staðfestu.</p><p>Wim Hof hefur starfað með vísindamönnum um allan heim og hefur hann sýnt fram á að hægt er að ná stjórn á því sem flest okkar höfum lítil eða engin tök á, ónæmiskerfi líkamans.</p><p> Wim Hof aðferðin er kennd um allan heim og er Ísland engin undantekning. Þór Guðnason og Arnór Sveinsson kenna námskeiðin.</p>"
     },
-
     "section2": {
         "img": "/img/wimhof/2.jpg",
         "title": "Grunnnámskeið",
         "content": "<p>Á námskeiðunum er Wim Hof aðferðin kennd með Primal ívafi.</p><p>Á fjögurra vikna námskeiðum er iðkunin sett í fyrsta sæti og þeir sem sækja námskeiðin fá heimavinnu á milli tíma til þess að temja sér daglega notkun aðferðarinnar.</p><p><b>Næsta námskeið</b></p><p><b>3. til 27. mars</b></p><p><b>Hópur 1:</b> Þriðju- og föstudaga kl. 6:10-7:10</p><p><b>Hópur 2:</b> Þriðju- og föstudaga kl. 12:00-13:00</p><p><b>Verð</b>: 29.900 kr</p><p><b>Kennararar</b>: Þór Guðnason og Arnór Sveinsson.</p><p><b>Innifalið í námskeiði</b> eru 8 tímar í kennslu Í Wim Hof aðferðinni yfir 4 vikur, aðgangur að heimsklassa aðstöðu til iðkunar aðferðafræðinnar, ferð í náttúruna undir handleiðslu kennara, aðgangur að Facebook hóp með hvatningu, eftirfylgni og heimavinnu.</p>"
     },
-
     "section3": {
         "img": "/img/wimhof/3.jpg",
         "title": "Helgarnámskeið",
         "content": "<p>Á helgarnámskeiðum er farið yfir Wim Hof aðferðina og farið í köld böð. Endað er á náttúruferð í lok sunnudags.</p><p>Hér er aðferðafæði Wim Hof kennd á tveimur dögum og þátttakendur fá að kynnast aðferðafræðinni á eigin skinni.</p><p>Ekki hefur verið ákveðið hvenær að næsta helgarnámskeið verður.</p>"
     },
-    
     "section4": {
         "img": "/img/wimhof/4.jpg",
         "title": "Aðstaðan",
@@ -32,23 +29,21 @@
     },
     "sectionPillar": {
         "pillar1": {
-            "icon":"/img/wimhof/lungs-pillar.png",
+            "icon": "/img/wimhof/lungs-pillar.png",
             "title": "Kuldaþjálfun",
             "text": "Kuldinn er fyrsti stólpi aðferðafræðinnar og hann er vinur þinn! Að stunda köld böð hefur í för með sér margþætt heilsubætandi áhrif, eins og aukna brúna fitu í líkamanum. Brún fita brennir orku og býr til hita í líkamanum. Kuldinn dregur úr bólgumyndun í líkamanum, styrkir ónæmiskerfið, stuðlar að jafnvægi hormónakerfisins, eykur svefngæði og framleiðslu endorfíns - sem eykur vellíðan."
         },
         "pillar2": {
-            "icon":"/img/wimhof/cold-pillar.png",
+            "icon": "/img/wimhof/cold-pillar.png",
             "title": "Öndun",
             "text": "Öndun er annar stólpi aðferðafræðinnar. Við öndum allan daginn en veitum iðulega ekki athygli hvernig við öndum og hvaða áhrif öndun hefur á líkamann. Þær öndunaræfingar sem kenndar eru á námskeiðinu eru hrein fjársjóðskista og stuðla að betri líðan í eigin líkama. Aukin orka, minna stress og aukin geta ónæmiskerfisins til að vinna á ýmsum kvillum."
         },
         "pillar3": {
-            "icon":"/img/wimhof/brain-pillar.png",
+            "icon": "/img/wimhof/brain-pillar.png",
             "title": "Staðfesta",
             "text": "Staðfesta er þriðji stólpi aðferðafræðinnar og er grunnurinn að hinum tveimur. Til þess að tileinka sér köld böð og meðvitaða öndun þarf þolinmæði og staðfestu. Með góðri einbeitingu kemst fólk sífellt nær takmarkinu, sem er að ná stjórn á eigin líkama og huga."
         },
-
         "title": "Wim Hof aðferðin",
         "content": "Wim Hof aðferðin byggir á þremur stólpum:"
     }
-    
- }
+}

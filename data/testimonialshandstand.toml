@@ -32,11 +32,11 @@
       #social = [
       #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
       #]
-        [[testimonials.items]]
+      #  [[testimonials.items]]
       #img = "thor.jpg"
-      firstname = "Fríða Björk og"
-      lastname = "Brynja Maren"
-      testimonial = "<p>Dóttir mín fór á handstöðu námskeið hjá ykkur um daginn. Hún var mjög ánægð með námskeiðið og fékk framúrskarandi kennslu. Frábær, metnaðarfullur kennari og fagleg vinnubrögð. Ég mæli 110% með námskeiðunum hjá ykkur </p>"
+      #firstname = "Fríða Björk og"
+      #lastname = "Brynja Maren"
+      #testimonial = "<p>Dóttir mín fór á handstöðu námskeið hjá ykkur um daginn. Hún var mjög ánægð með námskeiðið og fékk framúrskarandi kennslu. Frábær, metnaðarfullur kennari og fagleg vinnubrögð. Ég mæli 110% með námskeiðunum hjá ykkur </p>"
       #social = [
       #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
       #]
