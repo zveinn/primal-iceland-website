@@ -30,6 +30,15 @@
     
     <item>
       <title></title>
+      <link>https://pi.zkynet.tech/empower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pi.zkynet.tech/empower/</guid>
+      <description>{{ partial &#34;empower/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;empower/book.html&#34; . }} {{ range $i, $e := .Site.Data.empower.sections}} {{ if modBool $i 2 }} {{ partial &#34;empower/img-right.html&#34; $e }} {{ else }} {{ partial &#34;empower/img-left.html&#34; $e }} {{ end }} {{ end }} {{ partial &#34;js.html&#34; . }}  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://pi.zkynet.tech/handstand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -44,6 +53,15 @@
       
       <guid>https://pi.zkynet.tech/media/</guid>
       <description>{{ partial &#34;annad/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;media/book.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;media/1.html&#34; . }} {{ partial &#34;js.html&#34; . }}   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pi.zkynet.tech/mommur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pi.zkynet.tech/mommur/</guid>
+      <description>{{ partial &#34;mommur/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;mommur/book.html&#34; . }} {{ range $i, $e := .Site.Data.mommur.sections}} {{ if modBool $i 2 }} {{ partial &#34;mommur/img-right.html&#34; $e }} {{ else }} {{ partial &#34;mommur/img-left.html&#34; $e }} {{ end }} {{ end }} {{ partial &#34;js.html&#34; . }}  </description>
     </item>
     
     <item>
@@ -70,7 +88,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pi.zkynet.tech/streita/</guid>
-      <description>{{ partial &#34;streita/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;streita/book.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;streita/1.html&#34; . }} {{ partial &#34;streita/2.html&#34; . }} {{ partial &#34;streita/reynslur.html&#34; . }} {{ partial &#34;js.html&#34; . }}   </description>
+      <description>{{ partial &#34;streita/head.html&#34; . }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;streita/book.html&#34; . }} {{ partial &#34;hero.html&#34; . }} {{ partial &#34;streita/1.html&#34; . }} {{ partial &#34;streita/2.html&#34; . }} {{ partial &#34;streita/reynslur.html&#34; . }} {{ partial &#34;js.html&#34; . }}  </description>
     </item>
     
     <item>

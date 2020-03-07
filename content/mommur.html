@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+{{ partial "mommur/head.html" . }}
+
+<body id="page-top" class="index">
+    {{ partial "nav.html" . }}
+    {{ partial "hero.html" . }}
+    {{ partial "mommur/book.html" . }}
+    {{ range $i, $e := .Site.Data.mommur.sections}}
+    {{ if modBool $i 2 }}
+    {{ partial "mommur/img-right.html" $e }}
+    {{ else }}
+    {{ partial "mommur/img-left.html" $e }}
+    {{ end }}
+    {{ end }}
+    {{ partial "js.html" . }}
+</body>
+
+</html>

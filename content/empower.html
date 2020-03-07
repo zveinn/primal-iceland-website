@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+{{ partial "empower/head.html" . }}
+
+<body id="page-top" class="index">
+    {{ partial "nav.html" . }}
+    {{ partial "hero.html" . }}
+    {{ partial "empower/book.html" . }}
+    {{ range $i, $e := .Site.Data.empower.sections}}
+    {{ if modBool $i 2 }}
+    {{ partial "empower/img-right.html" $e }}
+    {{ else }}
+    {{ partial "empower/img-left.html" $e }}
+    {{ end }}
+    {{ end }}
+    {{ partial "js.html" . }}
+</body>
+
+</html>
