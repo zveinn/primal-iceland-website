@@ -1143,7 +1143,7 @@ body {
     padding-top: 10px;
     padding-bottom: 0px !important;
 }
-    .left-column{padding-bottom:100px;}
+    /* .left-column{padding-bottom:100px;} */
     #about{padding:100px 0 200px 0 !important;}
     #team{padding:50px 0 10px 0 !important; background-color: #FFFFFF !important;}
     #coaches{padding:10px 0 50px 0 !important; background-color: #FFFFFF !important;}
@@ -1187,7 +1187,7 @@ body {
    
 }
 @media (min-width: 992px) and (max-width: 1200px) {
-    .left-column{padding-bottom:100px;}
+    /* .left-column{padding-bottom:100px;} */
     #about{padding:10px 0 200px 0 !important;}
     #team{padding:50px 0 10px 0 !important; background-color: #FFFFFF !important;}
     #coaches{padding:10px 0 50px 0 !important; background-color: #FFFFFF !important;}
@@ -1239,7 +1239,7 @@ body {
         */
 }
 @media (min-width: 1200px) { 
-    .left-column{padding-bottom:100px;}
+    /* .left-column{padding-bottom:100px;} */
 
     #about{padding:200px 0 200px 0 !important;}
     #team{padding:20px 0 10px 0 !important; background-color: #FFFFFF !important;}
@@ -1558,9 +1558,9 @@ color:#8a995e  !important;
 .background-primal-orange{background-color: #f4b219 !important}
 .background-primal-green{background-color:#8a995e !important;}
 .background-primal-brown{background-color:#6b492b !important;}
-.frontpage-image-padding-fix{
+/* .frontpage-image-padding-fix{
     padding-bottom:0px !important; 
-}
+} */
 
 .media-link{
     margin-bottom:10px !important;
@@ -1596,3 +1596,53 @@ color:#8a995e  !important;
   .front-page-image {
      margin-bottom:60px !important;
  }
+
+
+ /* NEW MEMBER LIST STYLES*/
+ ul.teaching-tags {
+    margin-top: 10px !important;
+    margin-bottom: 10px;
+    max-width:180px;
+    margin: 0 auto;
+    padding: 0 !important;
+}
+ ul.teaching-tags li {
+     display: block;
+    list-style: none;
+    width:180px;
+    text-align: center;
+    padding-left:5px;
+;
+}
+
+.coach-lastname {
+    margin-bottom:5px !important;
+}
+
+.coach {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+
+.coach img {
+    margin: 0 auto;
+    max-width: 180px;
+}
+
+.coach p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.coach h3 {
+    text-transform: none;
+    font-weight: 600;
+    color: #f4b219;
+}
+.listframe {
+    z-index: 999;
+}
+.listframe img {
+    z-index: 1;
+    margin-top:30px;
+}

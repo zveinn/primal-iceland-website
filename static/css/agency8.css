@@ -1596,3 +1596,53 @@ color:#8a995e  !important;
   .front-page-image {
      margin-bottom:60px !important;
  }
+
+
+ /* NEW MEMBER LIST STYLES*/
+ ul.teaching-tags {
+    margin-top: 10px !important;
+    margin-bottom: 10px;
+    max-width:180px;
+    margin: 0 auto;
+    padding: 0 !important;
+}
+ ul.teaching-tags li {
+     display: block;
+    list-style: none;
+    width:180px;
+    text-align: center;
+    padding-left:5px;
+;
+}
+
+.coach-lastname {
+    margin-bottom:5px !important;
+}
+
+.coach {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+
+.coach img {
+    margin: 0 auto;
+    max-width: 180px;
+}
+
+.coach p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.coach h3 {
+    text-transform: none;
+    font-weight: 600;
+    color: #f4b219;
+}
+.listframe {
+    z-index: 999;
+}
+.listframe img {
+    z-index: 1;
+    margin-top:30px;
+}
