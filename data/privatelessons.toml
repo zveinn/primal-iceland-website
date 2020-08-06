@@ -1,0 +1,81 @@
+
+  # ÞJÁLFARARNIR !
+  [team]
+    enable = true
+    # Possibility to center items
+    #center = true
+    ownerTitle = "Eigendur"
+    coachTitle = "Þjálfarar og tímar"
+    subtitle = ""
+    description = ""
+
+
+    [[team.coaches]]
+      img = "thor.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      social = [
+        ["Liðleiki", ""],
+        ["yoga", ""],
+        ["wim hof", ""],
+      ]
+
+    [[team.coaches]]
+      img = "helgi.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      social = [
+        ["Liðleiki", ""],
+        ["yoga", ""],
+        ["wim hof", ""],
+      ]
+
+          [[team.coaches]]
+      img = "einar.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      social = [
+        ["Liðleiki", ""],
+        ["yoga", ""],
+        ["wim hof", ""],
+      ]
+
+             [[team.coaches]]
+      img = "einar.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      social = [
+        ["Liðleiki", ""],
+        ["yoga", ""],
+        ["wim hof", ""],
+      ]
+
+             [[team.coaches]]
+      img = "einar.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      social = [
+        ["Liðleiki", ""],
+        ["yoga", ""],
+        ["wim hof", ""],
+      ]
+
+             [[team.coaches]]
+      img = "einar.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      social = [
+        ["Liðleiki", ""],
+        ["yoga", ""],
+        ["wim hof", ""],
+      ]
+
+             [[team.coaches]]
+      img = "einar.jpg"
+      firstname = "Þór"
+      lastname = "Guðnason"
+      social = [
+        ["Liðleiki", ""],
+        ["yoga", ""],
+        ["wim hof", ""],
+  ]
