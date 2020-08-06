@@ -1392,7 +1392,7 @@ font-size: 64px !important;
     margin-bottom:20px;
 }
 .display-none{
-display: none;
+display: none !important;
 }
 .display{
     display: inline !important;
@@ -1612,7 +1612,10 @@ color:#8a995e  !important;
     width:180px;
     text-align: center;
     padding-left:5px;
-;
+    font-weight: bold;
+        font-size: 18px;
+    line-height: 1.2;
+    /* color:#f4b219; */
 }
 
 .coach-lastname {
@@ -1645,4 +1648,11 @@ color:#8a995e  !important;
 .listframe img {
     z-index: 1;
     margin-top:30px;
+}
+
+
+/*   */
+
+.display-block {
+    display: block  !important;
 }
