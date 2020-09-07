@@ -11,19 +11,9 @@
 
 
     [[team.coaches]]
-      img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      social = [
-        ["Liðleiki", ""],
-        ["yoga", ""],
-        ["wim hof", ""],
-      ]
-
-    [[team.coaches]]
       img = "helgi.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
+      firstname = "Helgi Freyr"
+      lastname = "Rúnarsson"
       social = [
         ["Liðleiki", ""],
         ["yoga", ""],
@@ -32,8 +22,8 @@
 
           [[team.coaches]]
       img = "einar.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
+      firstname = "Einar Carl"
+      lastname = "Axelsson"
       social = [
         ["Liðleiki", ""],
         ["yoga", ""],
@@ -41,9 +31,9 @@
       ]
 
              [[team.coaches]]
-      img = "einar.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
+      img = "alla.jpg"
+      firstname = "Aðalheiður"
+      lastname = "Jensen"
       social = [
         ["Liðleiki", ""],
         ["yoga", ""],
@@ -51,9 +41,9 @@
       ]
 
              [[team.coaches]]
-      img = "einar.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
+      img = "iris.jpg"
+      firstname = "Íris Huld"
+      lastname = "Guðmundsdóttir"
       social = [
         ["Liðleiki", ""],
         ["yoga", ""],
@@ -61,19 +51,45 @@
       ]
 
              [[team.coaches]]
-      img = "einar.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
+      img = "david.jpg"
+      firstname = "Davíð"
+      lastname = "Haraldsson"
       social = [
         ["Liðleiki", ""],
         ["yoga", ""],
         ["wim hof", ""],
       ]
-
              [[team.coaches]]
-      img = "einar.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
+      img = "valdis.jpg"
+      firstname = "Valdís Helga "
+      lastname = "Þorgeirsdóttir"
+      social = [
+        ["Liðleiki", ""],
+        ["yoga", ""],
+        ["wim hof", ""],
+	  ]
+             [[team.coaches]]
+      img = "harpa.jpg"
+      firstname = "Harpa"
+      lastname = "Brynjarsdóttir"
+      social = [
+        ["Liðleiki", ""],
+        ["yoga", ""],
+        ["wim hof", ""],
+	  ]
+             [[team.coaches]]
+      img = "lilja.jpg"
+      firstname = "Lilja"
+      lastname = "Sigurgeirsdóttir"
+      social = [
+        ["Liðleiki", ""],
+        ["yoga", ""],
+        ["wim hof", ""],
+	  ]
+             [[team.coaches]]
+      img = "arnor.jpg"
+      firstname = "Arnór"
+      lastname = "Sveinsson"
       social = [
         ["Liðleiki", ""],
         ["yoga", ""],

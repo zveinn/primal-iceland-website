@@ -13,14 +13,6 @@
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[team.owners]]
-      img = "thor.jpg"
-      firstname = "Þór"
-      lastname = "Guðnason"
-      position = "<p>sérhæfir sig í kuldanum og öndunaræfingum.</p>"
-      bio = "long bio ..."
-      social = [
-        ["fa-instagram", "http://www.instagram.com/thorgudna"]
-      ]
 
     [[team.owners]]
       img = "helgi.jpg"
@@ -70,12 +62,36 @@
       position = "<p>Movement þjálfari</p>"
        bio = "long bio ..."
       social = []
+	  
+	 [[team.coaches]]
+      img = "valdis.jpg"
+      firstname = "Valdís Helga"
+      lastname = "Þorgeirsdóttir"
+      position = "<p>Movement þjálfari</p>"
+       bio = "long bio ..."
+      social = []
 
      [[team.coaches]]
       img = "iris.jpg"
       firstname = "Íris Huld"
       lastname = "Guðmundsdóttir"
       position = "<p>Movement þjálfari og Markþjálfi</p>"
+       bio = "long bio ..."
+      social = []
+	 
+	 [[team.coaches]]
+      img = "harpa.jpg"
+      firstname = "Harpa"
+      lastname = "Brynjarsdóttir"
+      position = "<p>Movement þjálfari</p>"
+       bio = "long bio ..."
+      social = []
+	  
+	 [[team.coaches]]
+      img = "lilja.jpg"
+      firstname = "Lilja"
+      lastname = "Sigurgeirsdóttir"
+      position = "<p>Movement þjálfari</p>"
        bio = "long bio ..."
       social = []
 
