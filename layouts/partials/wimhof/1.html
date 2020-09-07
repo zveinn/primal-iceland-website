@@ -2,42 +2,21 @@
   <div class="container container-left">
     <div class="row outside-left">
 
-        <div class=" hidden-sm hidden-xs">
 
-            <div class="col-md-6   text-left left-column img-padding">
-                <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="{{.Site.Data.wimhof.section1.video | safeHTML }}" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-              </div>
-        
-              <div class="col-md-6 text-left">
-                <h2 class="section-heading title">
-                    {{.Site.Data.wimhof.section1.title | safeHTML }}
-                </h2>
-              
-                <p class="section-subheading text-muted">
-                    {{.Site.Data.wimhof.section1.content | safeHTML }}
-                </p>
-              </div>
-        
-        </div>
-   
+      <div class="col-md-6   text-left left-column img-padding">
+        <img class="img100100 mdc-elevation--z6" src="{{.Site.Data.wimhof.section1.img}}">
+      </div>
 
-        <div class=" visible-sm visible-xs ">
+      <div class="col-md-6 text-left">
+        <h2 class="section-heading title">
+            {{.Site.Data.wimhof.section1.title | safeHTML }}
+        </h2>
+      
+        <p class="section-subheading text-muted">
+            {{.Site.Data.wimhof.section1.content | safeHTML }}
+                  </p>
+      </div>
 
-        
-              <div class="col-md-6 text-left">
-                <h2 class="section-heading title">
-                    {{.Site.Data.wimhof.section1.title | safeHTML }}
-                </h2>
-              
-                <p class="section-subheading text-muted">
-                    {{.Site.Data.wimhof.section1.content | safeHTML }}
-                </p>
-              </div>
-
-              <div class="col-md-6   text-left left-column img-padding">
-                  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="{{.Site.Data.wimhof.section1.video | safeHTML }}" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-                </div>
-        </div>
 
     </div>
   </div>

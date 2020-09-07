@@ -18,17 +18,22 @@
     },
     "section3": {
         "img": "/img/einka/3.jpg",
-        "title": "Tegundir einkatíma",
-        "content": "<p><b>Verkjaútrýming</b><br>Eru verkir að skerða lífsgæði þín? Við bjóðum uppá einkatíma þar sem við hjálpum þér að losna við verki.</p><p>10 ára reynsla gefur okkur stórt samansafn aðferða til þess að aðstoða fólk af öllum toga.</p><p>Aðferðafræðin byggist á hreyfigreiningu þar sem að orsök vandamálanna koma í ljós og gerir okkur kleift að vinna á þeim á skilvirkum og hröðum máta.</p><p><b>Æfingamarkmið</b><br>Viltu einstakslingsmiðaða þjálfun? Við bjóðum uppá einkatíma þar sem að við hjálpum þér að ná markmiðum þínum.</p><p>Hvort sem að þig langar að standa á höndum, fara í brú, spígat, splitt eða upphýfingu á annarri, þá getum við hjálpað.</p><p><b>Heilsumarkþjálfun</b><br>Heilsumarkþjálfun er einstaklingsmiðuð þjálfun þar sem þú ert við stjónvölinn. Hámarkaðu lífsgæði þín og komdu hlutum í verk sem setið hafa á hakanum. Hvort sem þú þarft að draga úr streituvöldum, bæta svefn, næringu, samskipti eða finna tíma fyrir þig í hröðum nútíma lífsstíl.</p><p>Gefðu þér tíma fyrir það sem skiptir þig máli og hafðu aukið heilbrigði og hamingju að leiðarljósi, bókaðu tíma á iris@primal.is</p>"
+        "title": "Verkjaútrýming",
+        "content": "<p>Eru verkir að skerða lífsgæði þín? Við bjóðum uppá einkatíma þar sem við hjálpum þér að losna við verki.</p><p>10 ára reynsla gefur okkur stórt samansafn aðferða til þess að aðstoða fólk af öllum toga.</p><p>Aðferðafræðin byggist á hreyfigreiningu þar sem að orsök vandamálanna koma í ljós og gerir okkur kleift að vinna á þeim á skilvirkum og hröðum máta.</p>"
     },
     "section4": {
         "img": "/img/einka/4.jpg",
-        "title": "Þjálfarar",
-        "content": "<p>Þjálfararnir okkar sérhæfa sig í mismunandi hlutum. Hér eru helstu flokkar hvers og eins, en á <a href=/umokkur>Um Okkur</a> kemur einnig fram sérhæfing hvers og eins.</p><p><b>Verkjaútrýming</b>: Einar Carl, Helgi Freyr, Þór Guðnason.</p><p><b>Æfingamarkmið</b>: Einar Carl, Helgi Freyr.</p><p><b>Heilsumarkþjálfun</b>: Íris Huld.</p>"
+        "title": "Æfingamarkmið",
+        "content": "<p>Viltu einstakslingsmiðaða þjálfun? Við bjóðum uppá einkatíma þar sem að við hjálpum þér að ná markmiðum þínum.</p><p>Hvort sem að þig langar að standa á höndum, fara í brú, spígat, splitt eða upphýfingu á annarri, þá getum við hjálpað.</p></p>"
     },
     "section5": {
         "img": "/img/einka/5.jpg",
-        "title": "Verðskrá",
-        "content": "<p>60 mínútna einkatími þar sem að orsök vandamála þinna er útskýrð,<br>æfingar til þess að leysa úr þeim kenndar og<br>settar saman í skothelt heimavinnuplan kostar 13.900 kr.</p>"
+        "title": "Heilsumarkþjálfun",
+        "content": "<p>Heilsumarkþjálfun er einstaklingsmiðuð þjálfun þar sem þú ert við stjónvölinn. Hámarkaðu lífsgæði þín og komdu hlutum í verk sem setið hafa á hakanum. Hvort sem þú þarft að draga úr streituvöldum, bæta svefn, næringu, samskipti eða finna tíma fyrir þig í hröðum nútíma lífsstíl.</p><p>Gefðu þér tíma fyrir það sem skiptir þig máli og hafðu aukið heilbrigði og hamingju að leiðarljósi, bókaðu tíma á iris@primal.is</p></p>"
+    },
+	"section6": {
+        "img": "/img/einka/6.jpg",
+        "title": "FRC",
+        "content": "<p>Í FRC einkatímum er unnið eftir Functional Range Conditioning kerfinu. Þar göngum við úr skugga um að liðamót og aðrir vefir líkamans eru tilbúnir í það álag sem sett er á þá með því að fyrst greina skort á styrk og hreyfanleika og setja svo saman skothelt plan til þess að auka getu og álagsþol þeirra liðamóta og vefja.</p>"
     }
 }
