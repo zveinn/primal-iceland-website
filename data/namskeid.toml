@@ -1,0 +1,77 @@
+
+  # ÞJÁLFARARNIR !
+  [team]
+    enable = true
+    # Possibility to center items
+    #center = true
+    ownerTitle = "Eigendur"
+    coachTitle = "Námskeið og tímar í boði"
+    subtitle = ""
+    description = ""
+
+
+    [[team.coaches]]
+      img = "movement.jpg"
+      firstname = "Primal Movement"
+      lastname = ""
+      social = [
+        ["Frelsi í eigin líkama.", ""],
+        ["", ""],
+        ["", ""],
+      ]
+             [[team.coaches]]
+      img = "streita.jpg"
+      firstname = "Sigrum Streituna"
+      lastname = ""
+      social = [
+        ["", ""],
+        ["", ""],
+        ["", ""],
+      ]
+
+             [[team.coaches]]
+      img = "handstands.jpg"
+      firstname = "Handstöður"
+      lastname = ""
+      social = [
+        ["Lærðu að standa á höndum.", ""],
+        ["", ""],
+        ["", ""],
+      ]
+
+             [[team.coaches]]
+      img = "wimhof.jpg"
+      firstname = "Wim Hof"
+      lastname = ""
+      social = [
+        ["Náðu tökum á kuldanum.", ""],
+        ["", ""],
+        ["", ""],
+      ]
+             [[team.coaches]]
+      img = "empower.jpg"
+      firstname = "Empower"
+      lastname = ""
+      social = [
+        ["Námskeið fyrir ungar konur.", ""],
+        ["", ""],
+        ["", ""],
+	  ]
+             [[team.coaches]]
+      img = "yoga.jpg"
+      firstname = "Movement Yoga"
+      lastname = ""
+      social = [
+        ["Yoga með Movement ívafi.", ""],
+        ["", ""],
+        ["", ""],
+	  ]
+             [[team.coaches]]
+      img = "fite40.jpg"
+      firstname = "Fit Eftir Fertugt"
+      lastname = ""
+      social = [
+        ["Almenn hreyfing fyrir eldri en 40 ára.", ""],
+        ["", ""],
+        ["", ""],
+  ]

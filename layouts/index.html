@@ -5,13 +5,15 @@
 <body id="page-top" class="index">
    {{ partial "nav.html" . }}
    {{ partial "hero.html" . }}
-   {{ range $i, $e := .Site.Data.frontpage.sections}}
+   {{ partial "front-page/1.html" . }}
+   <!--{{ range $i, $e := .Site.Data.frontpage.sections}}
    {{ if modBool $i 2 }}
    {{ partial "front-page/img-right.html" $e }}
    {{ else }}
    {{ partial "front-page/img-left.html" $e }}
    {{ end }}
-   {{ end }}
+   {{ end }}-->
+   {{ partial "front-page/namskeid.html" . }}
    {{ partial "js.html" . }}
 </body>
 
