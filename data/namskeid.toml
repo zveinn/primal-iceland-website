@@ -4,9 +4,7 @@
     enable = true
     # Possibility to center items
     #center = true
-    ownerTitle = "Eigendur"
-    coachTitle = "Námskeið og tímar í boði"
-    subtitle = ""
+    title = "Námskeið og tímar í boði"
     description = ""
 
 
