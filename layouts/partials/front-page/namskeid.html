@@ -15,14 +15,14 @@
 
             {{ $url := printf "img/namskeid/%s" .img }}
             <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive" alt="{{ .name }}">
-	  </a>
+	  
 
          <ul class="teaching-tags ">
               {{ range .social }}
                 <li >{{ index . 0}}</li>
               {{ end }}
          </ul>
-     
+       </a>
 
           </div>
            
