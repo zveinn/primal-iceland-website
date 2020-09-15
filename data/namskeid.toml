@@ -1,0 +1,75 @@
+
+  # ÞJÁLFARARNIR !
+  [team]
+    enable = true
+    # Possibility to center items
+    #center = true
+    title = "Námskeið og tímar í boði"
+    description = ""
+
+
+    [[team.coaches]]
+      img = "movement.jpg"
+      name = "Primal Movement"
+	  link = "/movement"
+      social = [
+        ["Frelsi í eigin líkama", ""],
+        ["", ""],
+        ["", ""],
+      ]
+             [[team.coaches]]
+      img = "streita.jpg"
+      name = "Sigrum Streituna"
+	  link = "/streita"
+      social = [
+        ["", ""],
+        ["", ""],
+        ["", ""],
+      ]
+
+             [[team.coaches]]
+      img = "handstands.jpg"
+      name = "Handstöður"
+	  link = "/handstand"
+      social = [
+        ["Lærðu að standa á höndum", ""],
+        ["", ""],
+        ["", ""],
+      ]
+
+             [[team.coaches]]
+      img = "wimhof.jpg"
+      name = "Wim Hof"
+	  link = "/wimhof"
+      social = [
+        ["Náðu tökum á kuldanum", ""],
+        ["", ""],
+        ["", ""],
+      ]
+             [[team.coaches]]
+      img = "empower.jpg"
+      name = "Empower"
+	  link = "/empower"
+      social = [
+        ["Námskeið fyrir ungar konur", ""],
+        ["", ""],
+        ["", ""],
+	  ]
+             [[team.coaches]]
+      img = "yoga.jpg"
+      name = "Movement Yoga"
+	  link = "/movement"
+      social = [
+        ["Yoga með Movement ívafi", ""],
+        ["", ""],
+        ["", ""],
+	  ]
+             [[team.coaches]]
+      img = "fite40.jpg"
+      name = "Fit Eftir Fertugt"
+	  link = "/movement"
+      social = [
+        ["Almenn hreyfing fyrir eldri en 40 ára", ""],
+        ["", ""],
+        ["", ""],
+  ]
