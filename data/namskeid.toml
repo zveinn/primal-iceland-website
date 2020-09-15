@@ -13,7 +13,7 @@
       name = "Primal Movement"
 	  link = "/movement"
       social = [
-        ["Frelsi í eigin líkama.", ""],
+        ["Frelsi í eigin líkama", ""],
         ["", ""],
         ["", ""],
       ]
@@ -32,7 +32,7 @@
       name = "Handstöður"
 	  link = "/handstand"
       social = [
-        ["Lærðu að standa á höndum.", ""],
+        ["Lærðu að standa á höndum", ""],
         ["", ""],
         ["", ""],
       ]
@@ -42,7 +42,7 @@
       name = "Wim Hof"
 	  link = "/wimhof"
       social = [
-        ["Náðu tökum á kuldanum.", ""],
+        ["Náðu tökum á kuldanum", ""],
         ["", ""],
         ["", ""],
       ]
@@ -51,7 +51,7 @@
       name = "Empower"
 	  link = "/empower"
       social = [
-        ["Námskeið fyrir ungar konur.", ""],
+        ["Námskeið fyrir ungar konur", ""],
         ["", ""],
         ["", ""],
 	  ]
@@ -60,7 +60,7 @@
       name = "Movement Yoga"
 	  link = "/movement"
       social = [
-        ["Yoga með Movement ívafi.", ""],
+        ["Yoga með Movement ívafi", ""],
         ["", ""],
         ["", ""],
 	  ]
@@ -69,7 +69,7 @@
       name = "Fit Eftir Fertugt"
 	  link = "/movement"
       social = [
-        ["Almenn hreyfing fyrir eldri en 40 ára.", ""],
+        ["Almenn hreyfing fyrir eldri en 40 ára", ""],
         ["", ""],
         ["", ""],
   ]
