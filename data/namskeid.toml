@@ -12,8 +12,8 @@
 
     [[team.coaches]]
       img = "movement.jpg"
-      firstname = "Primal Movement"
-      lastname = ""
+      name = "Primal Movement"
+	  link = "/movement"
       social = [
         ["Frelsi í eigin líkama.", ""],
         ["", ""],
@@ -21,8 +21,8 @@
       ]
              [[team.coaches]]
       img = "streita.jpg"
-      firstname = "Sigrum Streituna"
-      lastname = ""
+      name = "Sigrum Streituna"
+	  link = "/streita"
       social = [
         ["", ""],
         ["", ""],
@@ -31,8 +31,8 @@
 
              [[team.coaches]]
       img = "handstands.jpg"
-      firstname = "Handstöður"
-      lastname = ""
+      name = "Handstöður"
+	  link = "/handstand"
       social = [
         ["Lærðu að standa á höndum.", ""],
         ["", ""],
@@ -41,8 +41,8 @@
 
              [[team.coaches]]
       img = "wimhof.jpg"
-      firstname = "Wim Hof"
-      lastname = ""
+      name = "Wim Hof"
+	  link = "/wimhof"
       social = [
         ["Náðu tökum á kuldanum.", ""],
         ["", ""],
@@ -50,8 +50,8 @@
       ]
              [[team.coaches]]
       img = "empower.jpg"
-      firstname = "Empower"
-      lastname = ""
+      name = "Empower"
+	  link = "/empower"
       social = [
         ["Námskeið fyrir ungar konur.", ""],
         ["", ""],
@@ -59,8 +59,8 @@
 	  ]
              [[team.coaches]]
       img = "yoga.jpg"
-      firstname = "Movement Yoga"
-      lastname = ""
+      name = "Movement Yoga"
+	  link = "/movement"
       social = [
         ["Yoga með Movement ívafi.", ""],
         ["", ""],
@@ -68,8 +68,8 @@
 	  ]
              [[team.coaches]]
       img = "fite40.jpg"
-      firstname = "Fit Eftir Fertugt"
-      lastname = ""
+      name = "Fit Eftir Fertugt"
+	  link = "/movement"
       social = [
         ["Almenn hreyfing fyrir eldri en 40 ára.", ""],
         ["", ""],

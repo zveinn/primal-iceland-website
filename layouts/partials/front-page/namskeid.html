@@ -11,12 +11,12 @@
       {{ range .Site.Data.namskeid.team.coaches }}
         <div class="col-sm-3 col">
           <div class="coach">
-
-      <h3>{{ .firstname | markdownify }}</h3>
-            <h3 class="coach-lastname">{{ .lastname | markdownify }}</h3>
+	  <a href={{.link}}>
+      <h3>{{ .name | markdownify }}</h3>
 
             {{ $url := printf "img/namskeid/%s" .img }}
             <img src="{{ $url | absURL }}" class="mdc-elevation--z6 img-responsive" alt="{{ .name }}">
+	  </a>
 
          <ul class="teaching-tags ">
               {{ range .social }}
