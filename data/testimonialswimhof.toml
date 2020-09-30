@@ -14,7 +14,7 @@
       lastname = "Ólafsson"
       testimonial = "<p>Það er óhætt að segja að námskeiðið hafi farið fram úr mínum björtustu vonum,  kennarinn Þór Guðnason kemur efninu frá sér á yfirvegaðan, einlægan og faglegan hátt og aðstaðan er til fyrirmyndar. En fyrst og fremst fann ég strax í byrjun námskeiðsins hversu góð áhrif tímarnir og heimaæfingarnar höfðu á mig bæði líkamlega og andlega.  </p>"
      # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     #   ["fa-instagram", "https://www.instagram.com/thorgudna"]
      # ]
 	 
      [[testimonials.items]]
@@ -23,7 +23,7 @@
       lastname = "Galgana"
       testimonial = "<p>Aldrei hefði mig grunað hvað einfaldir hlutir sem eru á allra færi eins og að anda og kæla gæti gert fyrir heilsuna mína og bætt lífsgæði mín til muna.  Þetta námskeið fór svo langt fram úr væntingum og kennarinn náði að miðla þekkingu sinni og reynslu svo einstaklega vel og af mikilli einlægni.  Ég er svo ævinlega þakklát fyrir þann bata sem ég hef náð á svona skömmum tíma og allt sem ég hef lært á þessu námskeiði.  Ég á eftir að nýta það óspart og njóta sem ekki bara hluta af mínum bataferli heldur sem hluta af breyttum og bættum lífsstíl. Kærar þakkir fyrir mig Þór og Primal Iceland!</p>"
      # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     #   ["fa-instagram", "https://www.instagram.com/thorgudna"]
      # ]
 	 
      [[testimonials.items]]
@@ -32,5 +32,5 @@
       lastname = "Húnfjörð"
       testimonial = "<p>Námskeiðið kom vægast sagt skemmtilega á óvart! Þór kennir það af einlægni með þolinmæði og virðingu fyrir mörkum og getu hvers og eins nemanda. Jafnvægið á milli pressunnar að gera aðeins meira en maður heldur að maður geti og svo skilnings á takmörkum hvers og eins er gott og mjög hvetjandi.</p>"
      # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     #   ["fa-instagram", "https://www.instagram.com/thorgudna"]
      # ]

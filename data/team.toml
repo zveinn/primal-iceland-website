@@ -20,7 +20,7 @@
       position = "<p>sérhæfir sig í handstöðum og liðleika.</p>"
        bio = "long bio ..."
        social = [
-        ["fa-instagram", "http://www.instagram.com/helgi_freyr"]
+        ["fa-instagram", "https://www.instagram.com/helgi_freyr"]
       ]
 
     [[team.owners]]
@@ -30,7 +30,7 @@
       position = "<p>sérhæfir sig í styrktarþjálfun og liðleika.</p>"
        bio = "long bio ..."
       social = [
-        ["fa-instagram", "http://www.instagram.com/einarcarl"]
+        ["fa-instagram", "https://www.instagram.com/einarcarl"]
       ]
 
 

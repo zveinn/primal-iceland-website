@@ -15,7 +15,7 @@
       lastname = "Long"
       testimonial = "<p>Ég gerði æfingarnar sem að þið kennduð mér fram að maraþoni sem ég hljóp í byrjun September. Í stuttu máli, þá bætti ég tímann minn um 45 mínútur og finn ekkert fyrir þeim meiðslum sem hrjáðu mig þegar að ég kom í tímann til ykkar.</p>"
      # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     #   ["fa-instagram", "https://www.instagram.com/thorgudna"]
      # ]
 
       [[testimonials.items]]
@@ -24,7 +24,7 @@
       lastname = "Þorleifsdóttir"
       testimonial = "<p>Ég gerði allt sem sett var fyrir og gaf ekkert eftir. Strax eftir fyrsta tímann leið mér betur. Eftir fjórar vikur af æfingum var ég orðin ný manneskja. Núna þremur mánuðum síðar er ég full af orku og verkirnir á miklu undanhaldi. Ég nýt þess að stunda æfingarnar mínir og er spennt að halda áfram í átt að enn betri heilsu. Takk Primal Iceland fyrir að færa mér heilsuna mína aftur. </p>"
      # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     #   ["fa-instagram", "https://www.instagram.com/thorgudna"]
      # ]
 	  [[testimonials.items]]
       #img = "thor.jpg"
@@ -32,7 +32,7 @@
       lastname = "Berman"
       testimonial = "<p>Ég er bara búin að fara í einn einkatíma hjá Helga í Primal. Vildi fá hjálp við að laga hreyfingar hjá mér og lina bakverki í leiðinni sem ég hef verið að glíma við í mjög langan tíma. Fannst ég vera búin að reyna og prófa allt. Eftir einn einkatíma, þar sem ég lærði hver rót vandans hjá mér er og lærði að gera nokkrar lykilteygjur fyrir mig, og eina viku af því að teygja sjálf, er ég orðin verkjalaus í bakinu í fyrsta skipti í mörg ár. Ég get ekki mælt nógu mikið með þeirri snilld sem Primal býr yfir.</p>"
      # social = [
-     #   ["fa-instagram", "http://www.instagram.com/thorgudna"]
+     #   ["fa-instagram", "https://www.instagram.com/thorgudna"]
      # ]
 
 	 

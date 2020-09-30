@@ -18,8 +18,8 @@
  *  JQUERY-FORM-VALIDATOR
  *
  *  @version 2.3.49
- *  @website http://formvalidator.net/
- *  @author Victor Jonsson, http://victorjonsson.se
+ *  @website https://formvalidator.net/
+ *  @author Victor Jonsson, https://victorjonsson.se
  *  @license MIT
  */
 /**
@@ -2071,7 +2071,7 @@
   $.formUtils.addValidator({
     name: 'url',
     validatorFunction: function (url) {
-      // written by Scott Gonzalez: http://projects.scottsplayground.com/iri/
+      // written by Scott Gonzalez: https://projects.scottsplayground.com/iri/
       // - Victor Jonsson added support for arrays in the url ?arg[]=sdfsdf
       // - General improvements made by Stéphane Moureau <https://github.com/TraderStf>
 
@@ -2111,7 +2111,7 @@
         if (isFormattedWithNumeral) {
           if (!window.numeral) {
             throw new ReferenceError('The data-sanitize value numberFormat cannot be used without the numeral' +
-              ' library. Please see Data Validation in http://www.formvalidator.net for more information.');
+              ' library. Please see Data Validation in https://www.formvalidator.net for more information.');
           }
           //Unformat input first, then convert back to String
           if (val.length) {
@@ -2218,7 +2218,7 @@
 
   /*
    * Validate group of checkboxes, validate qty required is checked
-   * written by Steve Wasiura : http://stevewasiura.waztech.com
+   * written by Steve Wasiura : https://stevewasiura.waztech.com
    * element attrs
    *    data-validation="checkbox_group"
    *    data-validation-qty="1-2"  // min 1 max 2

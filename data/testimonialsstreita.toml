@@ -14,7 +14,7 @@
       lastname = "Eiríksdóttir"
       testimonial = "<p>Við lærðum að losa streitu úr líkamanum með teygjum og öðrum æfingum ásamt því að læra algjörlega nýja öndunaraðferð. Það sem kom mér mest á óvart var hvað þetta virkaði vel, bæði í auknu úthaldi og ég varð öll mýkri og afslappaðri. Kennararnir þau Einar Carl og Íris Huld eru alveg einstök og frábærir kennarar. Það sem er kannski mest um vert að mig hlakkaði til hvers tíma, að læra meira og fara lengra því þetta var svo skemmtilegt. Takk fyrir mig</p>"
       #social = [
-      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #  ["fa-instagram", "https://www.instagram.com/thorgudna"]
       #]
 	   [[testimonials.items]]
       #img = "thor.jpg"
@@ -22,5 +22,5 @@
       lastname = "Sveinbjörnsson"
       testimonial = "<p>Þegar máttleysi, kvíði og verkir tóku völdin og dagleg verkefni voru farin að sitja á hakanum. Kominn í timabundið leyfi frá vinnu, skildi ég ekki alveg hvað var að gerast. Þá var mér bent á Primal Iceland. Þar kynntist ég nýjum aðferðum til að róa taugakerfið. Öndunaræfingar, teygjur og fleiri æfingar hafa á stuttum tíma aukið orkuna og róað kvíðann. Á þessum stutta tima er ég kominn í fulla virkni í daglegu lífi og líður ótrúlega vel. Ég mæli heilshugar með streitustjórnunaraðferðum sem unnið er með í Primal Iceland.</p>"
       #social = [
-      #  ["fa-instagram", "http://www.instagram.com/thorgudna"]
+      #  ["fa-instagram", "https://www.instagram.com/thorgudna"]
       #]
