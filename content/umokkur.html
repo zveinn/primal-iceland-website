@@ -2,16 +2,18 @@
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
 {{ partial "umokkur/head.html" . }}
-  <body id="page-top" class="index">
-    {{ partial "nav.html" . }}
-    {{ partial "hero.html" . }}
-    {{ partial "umokkur/img-right.html" . }}
-    {{ partial "umokkur/img-left.html" . }}
-    {{ partial "umokkur/team.html" . }}
-    {{ partial "umokkur/coaches.html" . }}
-    {{ partial "umokkur/reynslur.html" . }}
-    {{ partial "contact.html" . }}
-    {{ partial "map.html" . }}
-    {{ partial "js.html" . }}
-  </body>
+
+<body id="page-top" class="index">
+  {{ partial "nav.html" . }}
+  {{ partial "hero.html" . }}
+  {{ partial "umokkur/img-right.html" . }}
+  {{ partial "umokkur/img-left.html" . }}
+  {{ partial "umokkur/team.html" . }}
+  {{ partial "umokkur/coaches.html" . }}
+  <!-- {{ partial "umokkur/reynslur.html" . }} -->
+  <!-- {{ partial "contact.html" . }} -->
+  <!-- {{ partial "map.html" . }} -->
+  {{ partial "js.html" . }}
+</body>
+
 </html>

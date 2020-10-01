@@ -1,0 +1,57 @@
+{{ "<!-- Vim hof -->" | safeHTML }}
+<section id="movement">
+  <div class="container container-right">
+    <div class="row outside-right">
+
+      <div class=" hidden-sm hidden-xs">
+
+        <div class="col-md-6 text-right  ">
+          <a href={{.link}}>
+            <h2 class="section-heading title">
+              {{ .title | safeHTML }}
+            </h2>
+
+          </a>
+          <p class="section-subheading text-muted">
+            {{ .content | safeHTML }}
+          </p>
+        </div>
+
+
+        <div class="col-md-6 text-center img-padding">
+          <a href={{.link}}>
+            <img class="img100100 mdc-elevation--z6" src="{{ .img}}">
+          </a>
+        </div>
+
+
+      </div>
+
+
+      <div class=" visible-sm visible-xs ">
+        <div class="col-md-6 text-left  ">
+          <a href={{.link}}>
+            <h2 class="section-heading title">
+              {{ .title | safeHTML }}
+            </h2>
+
+          </a>
+          <p class="section-subheading text-muted">
+            {{ .content | safeHTML }}
+          </p>
+        </div>
+
+
+        <div class="col-md-6 text-center img-padding">
+          <a href={{.link}}>
+            <img class="img100100 mdc-elevation--z6" src="{{ .img}}">
+          </a>
+        </div>
+
+
+
+      </div>
+
+    </div>
+  </div>
+</section>

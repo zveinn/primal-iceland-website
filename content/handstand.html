@@ -1,19 +1,22 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
-  {{ partial "handstand/head.html" . }}
+{{ partial "handstand/head.html" . }}
 
-  <body id="page-top" class="index">
-    {{ partial "nav.html" . }}
-    {{ partial "handstand/book.html" . }}
+<body id="page-top" class="index">
+  {{ partial "nav.html" . }}
+  {{ partial "handstand/book.html" . }}
 
-    {{ partial "hero.html" . }}
-    {{ partial "handstand/1.html" . }}
-    {{ partial "handstand/2.html" . }}
-    {{ partial "handstand/3.html" . }}
-    {{ partial "handstand/4.html" . }}
-    {{ partial "handstand/reynslur.html" . }}
-    <!--{{ partial "handstand/8.html" . }}-->
-    {{ partial "js.html" . }}
-  </body>
+  {{ partial "hero.html" . }}
+  {{ partial "front-page/img-left.html" $.Site.Data.handstand.section1 }}
+  {{ partial "front-page/img-right.html" $.Site.Data.handstand.section2 }}
+  {{ partial "front-page/img-left.html" $.Site.Data.handstand.section3 }}
+
+  {{ partial "front-page/img-right.html" $.Site.Data.handstand.section4 }}
+  <!-- {{ partial "handstand/4.html" . }} -->
+  <!-- {{ partial "handstand/reynslur.html" . }} -->
+  <!--{{ partial "handstand/8.html" . }}-->
+  {{ partial "js.html" . }}
+</body>
+
 </html>

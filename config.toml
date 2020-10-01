@@ -3,18 +3,9 @@ baseurl = "https://primal.zveinn.dev/"
 languageCode = "en-us"
 title = "Primal Iceland"
 theme = ""
-
+disableKinds = ["taxonomy","taxonomyTerm","sitemap","RSS"]
 
 [params]
-  # You can use Markdown syntax for urls [text](//url.to/source) or
-  # most longer texts.
-  #
-  # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
-  # for more icons. The icons are represented by their corresponding
-  # CSS class.
-
-  # To provide some metadata for search engines feel free to add a few
-  # information about you and your website.
   name = "Primal Iceland"
   description = "Your description"
 
@@ -36,7 +27,7 @@ theme = ""
   [params.navigation]
     brand = "Primal Iceland"
     # Optional logo as brand stored in img/
-    #logo = "logo.svg"
+    #logo = "logo.png"
     movement = "Movement"
     handstand = "Handstöður"
     annad = "Önnur Námskeið"

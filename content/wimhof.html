@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
-  {{ partial "wimhof/head.html" . }}
+{{ partial "wimhof/head.html" . }}
 
-  <body id="page-top" class="index">
-    {{ partial "nav.html" . }}
-    {{ partial "wimhof/book.html" . }}
+<body id="page-top" class="index">
+  {{ partial "nav.html" . }}
+  {{ partial "wimhof/book.html" . }}
 
-    {{ partial "hero.html" . }}
-    {{ partial "wimhof/1.html" . }}
-    {{ partial "wimhof/wimhof.html" . }}
-    {{ partial "wimhof/2.html" . }}
-    {{ partial "wimhof/3.html" . }}
-    {{ partial "wimhof/reynslur.html" . }}
+  {{ partial "hero.html" . }}
+  <!-- {{ partial "wimhof/1.html" . }} -->
+  {{ partial "front-page/img-left.html" $.Site.Data.wimhof.section1 }}
+  {{ partial "wimhof/wimhof.html" . }}
+  {{ partial "front-page/img-right.html" $.Site.Data.wimhof.section2 }}
+  <!-- {{ partial "wimhof/2.html" . }} -->
+  <!-- {{ partial "wimhof/3.html" . }} -->
+  {{ partial "front-page/img-left.html" $.Site.Data.wimhof.section3 }}
+  <!-- {{ partial "wimhof/reynslur.html" . }} -->
 
-    {{ partial "js.html" . }}
-  </body>
+  {{ partial "js.html" . }}
+</body>
+
 </html>

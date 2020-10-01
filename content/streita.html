@@ -8,11 +8,14 @@
   {{ partial "streita/book.html" . }}
 
   {{ partial "hero.html" . }}
-  {{ partial "streita/1.html" . }}
-  {{ partial "streita/2.html" . }}
+  <!-- {{ partial "streita/1.html" . }} -->
+
+  {{ partial "front-page/img-left.html" $.Site.Data.streita.section1 }}
+  {{ partial "front-page/img-right.html" $.Site.Data.streita.section2 }}
+  <!-- {{ partial "streita/2.html" . }} -->
   <!--    {{ partial "streita/3.html" . }} -->
   <!--    {{ partial "streita/5-6.html" . }}-->
-  {{ partial "streita/reynslur.html" . }}
+  <!-- {{ partial "streita/reynslur.html" . }} -->
   <!--{{ partial "streita/8.html" . }}-->
   {{ partial "js.html" . }}
 </body>
