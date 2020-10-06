@@ -1,22 +1,30 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
-  {{ partial "einkatimar/head.html" . }}
+{{ partial "einkatimar/head.html" . }}
 
-  <body id="page-top" class="index">
-    {{ partial "nav.html" . }}
-    {{ partial "einkatimar/book.html" . }}
+<body id="page-top" class="index">
+  {{ partial "nav.html" . }}
+  {{ partial "einkatimar/book.html" . }}
 
-    {{ partial "hero.html" . }}
- 
+  {{ partial "hero.html" . }}
 
-    <!-- {{ partial "einkatimar/1.html" . }} -->
-    {{ partial "einkatimar/3-4.html" . }}
-	{{ partial "einkatimar/5-6.html" . }}
-    <!-- {{ partial "einkatimar/4.html" . }} -->
-    <!-- {{ partial "einkatimar/5.html" . }} -->
-    {{ partial "einkatimar/tutors.html" . }}
-    {{ partial "einkatimar/reynslur.html" . }}
-    {{ partial "js.html" . }}
-  </body>
+
+  <!-- {{ partial "einkatimar/1.html" . }} -->
+  <!-- {{ partial "einkatimar/3-4.html" . }} -->
+  {{ partial "front-page/img-left.html" $.Site.Data.einkatimar.section3 }}
+  {{ partial "front-page/img-right.html" $.Site.Data.einkatimar.section4 }}
+
+
+  {{ partial "front-page/img-left.html" $.Site.Data.einkatimar.section5 }}
+  {{ partial "front-page/img-right.html" $.Site.Data.einkatimar.section6 }}
+
+  <!-- {{ partial "einkatimar/5-6.html" . }} -->
+  <!-- {{ partial "einkatimar/4.html" . }} -->
+  <!-- {{ partial "einkatimar/5.html" . }} -->
+  {{ partial "einkatimar/available.html" . }}
+  <!-- {{ partial "einkatimar/reynslur.html" . }} -->
+  {{ partial "js.html" . }}
+</body>
+
 </html>

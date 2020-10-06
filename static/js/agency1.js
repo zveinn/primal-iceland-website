@@ -1,26 +1,28 @@
- // Smooth scrolling via animate()
+// Smooth scrolling via animate()
 
-$(document).ready(function(){
- 
+$(document).ready(function () {
 
-  $("a").on('click', function(event) {
+
+  $("a").on('click', function (event) {
     if (this.hash && window.location.pathname == "/") {
       event.preventDefault();
       var hash = this.hash;
-      $('html, body').animate({
-        scrollTop: $(hash).offset().top
-      }, 500, function(){
-        window.location.hash = hash;
-      });
+      if (hash !== undefined) {
+        $('html, body').animate({
+          scrollTop: $(hash).offset().top
+        }, 500, function () {
+          window.location.hash = hash;
+        });
+      }
     }
   });
 });
 
 
 // Navigation change on scroll
-$(document).ready(function(){
+$(document).ready(function () {
   var maxOffset = 320;
-  $(window).scroll(function() {
+  $(window).scroll(function () {
     if ($(window).scrollTop() >= maxOffset) {
       $('.navbar-default').addClass('navbar-shrink');
       $('.navbar-title').removeClass('display-none');
@@ -29,7 +31,7 @@ $(document).ready(function(){
       $('.navbar-title').addClass('display');
       $('.home-button').addClass('display-block');
       $('.home-button').removeClass('display-none');
-      if (window.innerWidth > 767){
+      if (window.innerWidth > 767) {
         $('.navbar-default').addClass('mdc-elevation--z6');
       }
     }
@@ -50,10 +52,10 @@ $(document).ready(function(){
 
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({
-    target: '.navbar-fixed-top'
+  target: '.navbar-fixed-top'
 })
 
 // Closes the Responsive Menu on Menu Item Click
-$('.navbar-collapse ul li a').click(function() {
-    $('.navbar-toggle:visible').click();
+$('.navbar-collapse ul li a').click(function () {
+  $('.navbar-toggle:visible').click();
 });

@@ -7,6 +7,8 @@
    {{ partial "hero.html" . }}
    <!-- {{ partial "front-page/1.html" . }} -->
    {{ partial "front-page/img-left.html" $.Site.Data.frontpage.section1 }}
+
+   {{ partial "front-page/img-right.html" $.Site.Data.umokkur.section2 }}
    <!-- {{ range $i, $e := .Site.Data.frontpage.sections}}
    {{ if modBool $i 2 }}
    {{ partial "front-page/img-right.html" $e }}
@@ -15,6 +17,11 @@
    {{ end }}
    {{ end }} -->
    {{ partial "front-page/namskeid.html" . }}
+
+
+
+   {{ partial "front-page/team.html" . }}
+   {{ partial "front-page/coaches.html" . }}
    {{ partial "js.html" . }}
 </body>
 
